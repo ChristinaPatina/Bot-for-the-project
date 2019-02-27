@@ -1,0 +1,2903 @@
+Event,Time,Date,Party,Agenda,Location
+dentist appointment,10am,the 8th,aunt,-,-
+taking medicine,5pm,saturday,Marie,-,-
+football activity,4pm,monday,Alex,-,-
+yoga activity,4pm,the 4th,Marie,-,-
+lab appointment,5pm,the 13th,father,-,-
+dinner,7pm,the 8th,Jon,-,-
+dinner,6pm,the 7th,Marie,-,-
+meeting,1pm,the 15th,management,sign the NDA,conference room 50
+football activity,9am,the 10th,Marie,-,-
+doctor appointment,3pm,the 7th,Jeff,-,-
+lab appointment,2pm,friday,Martha,-,-
+football activity,10am,the 5th,Jon,-,-
+football activity,3pm,the 16th,Alex,-,-
+football activity,2pm,monday,father,-,-
+yoga activity,11am,the 5th,brother,-,-
+dentist appointment,4pm,friday,Tom,-,-
+football activity,11am,the 4th,Ana,-,-
+taking medicine,3pm,the 3rd,Jeff,-,-
+lab appointment,11am,the 10th,mother,-,-
+dinner,7pm,friday,Marie,-,-
+yoga activity,2pm,the 13th,father,-,-
+yoga activity,10am,the 3rd,Jon,-,-
+dentist appointment,3pm,the 2nd,sister,-,-
+dentist appointment,2pm,the 6th,sister,-,-
+dinner,5pm,the 9th,Alex,-,-
+football activity,9am,the 16th,Jon,-,-
+lab appointment,7pm,tuesday,sister,-,-
+lab appointment,3pm,the 18th,sister,-,-
+lab appointment,6pm,the 3rd,Tom,-,-
+taking medicine,4pm,friday,brother,-,-
+swimming activity,1 pm,monday,-,-,-
+football activity,11 am,thursday,-,-,-
+lab appointment,11 am,friday,-,-,-
+medicine,1 pm,friday,-,-,-
+meeting,7 pm,monday,sales team,discuss the company picnic,conference room 50
+conference,10 am,monday,executive team,discuss the company picnic,conference room 102
+yoga activity,1pm,friday,Martha,-,-
+tennis activity,9am,friday,sister,-,-
+football activity,1pm,sunday,mother,-,-
+dinner,6pm,sunday,Tom,-,-
+football activity,2pm,monday,Tom,-,-
+lab appointment,5pm,wednesday,Ana,-,-
+tennis activity,4pm,the 8th,father,-,-
+football activity,1pm,monday,father,-,-
+dentist appointment,1 pm,friday,-,-,-
+swimming activity,7 pm,friday,-,-,-
+dinner,5 pm,monday,-,-,-
+optometrist appointment,11 am,wednesday,-,-,-
+conference,10 am,wednesday,executive team,discuss the company picnic,conference room 50
+doctor appointment,2 pm,tuesday,-,-,-
+yoga activity,6pm,the 8th,Marie,-,-
+tennis activity,6pm,the 11th,Tom,-,-
+dentist appointment,7pm,the 18th,aunt,-,-
+swimming activity,4pm,the 1st,Marie,-,-
+doctor appointment,6pm,wednesday,sister,-,-
+optometrist appointment,4pm,the 16th,Ana,-,-
+doctor appointment,9am,thursday,aunt,-,-
+swimming activity,4pm,the 15th,Jon,-,-
+meeting,10am,saturday,HR,discuss dress code,conference room 50
+lab appointment,3pm,the 20th,Alex,-,-
+conference,11am,the 13th,sales team,sign the NDA,100 conference room
+doctor appointment,2pm,the 7th,Ana,-,-
+dinner,7pm,the 14th,mother,-,-
+yoga activity,11am,the 1st,aunt,-,-
+dinner,8pm,the 8th,Martha,-,-
+meeting,10am,friday,HR,discuss the merger,100 conference room
+dentist appointment,11 am,wednesday,-,-,-
+optometrist appointment,3 pm,monday,-,-,-
+lab appointment,11 am,thursday,-,-,-
+yoga activity,10 am,thursday,-,-,-
+dinner,5 pm,monday,-,-,-
+swimming activity,3 pm,thursday,-,-,-
+conference,7pm,thursday,executive team,discuss dress code,conference room 102
+lab appointment,4pm,the 5th,father,-,-
+football activity,4pm,the 10th,Marie,-,-
+swimming activity,1pm,saturday,sister,-,-
+lab appointment,11am,the 19th,Jeff,-,-
+lab appointment,11am,the 10th,aunt,-,-
+swimming activity,5pm,the 1st,Martha,-,-
+optometrist appointment,5pm,the 14th,aunt,-,-
+tennis activity,2 pm,thursday,-,-,-
+dinner,5 pm,tuesday,-,-,-
+conference,1 pm,tuesday,HR,discuss the merger,conference room 100
+medicine,1 pm,thursday,-,-,-
+meeting,1 pm,friday,HR,discuss the merger,conference room 50
+dentist appointment,3 pm,thursday,-,-,-
+lab appointment,6pm,the 4th,Jon,-,-
+conference,2pm,sunday,boss,discuss dress code,100 conference room
+dinner,7pm,sunday,mother,-,-
+taking medicine,4pm,thursday,aunt,-,-
+dentist appointment,6pm,the 8th,Jon,-,-
+optometrist appointment,4pm,the 3rd,Martha,-,-
+doctor appointment,10 am,tuesday,-,-,-
+optometrist appointment,11 am,wednesday,-,-,-
+dentist,1 pm,tuesday,-,-,-
+yoga activity,3 pm,tuesday,-,-,-
+dinner,5 pm,wednesday,-,-,-
+tennis activity,7 pm,wednesday,-,-,-
+doctor appointment,7pm,friday,Alex,-,-
+dentist appointment,7pm,saturday,mother,-,-
+tennis activity,9am,monday,aunt,-,-
+meeting,9am,the 8th,sales team,onboard new members,conference room 102
+conference,5pm,friday,executive team,go over quarterly report,conference room 100
+football activity,6pm,the 4th,sister,-,-
+dentist appointment,5pm,the 10th,Martha,-,-
+meeting,1pm,the 13th,boss,discuss the merger,conference room 100
+football activity,2pm,the 18th,Tom,-,-
+tennis activity,2pm,the 2nd,brother,-,-
+dentist appointment,11am,monday,Ana,-,-
+doctor appointment,11am,the 5th,Martha,-,-
+taking medicine,9am,the 2nd,Ana,-,-
+football activity,6pm,the 17th,Jeff,-,-
+dentist,7 pm,wednesday,-,-,-
+doctor appointment,11 am,thursday,-,-,-
+swimming activity,2 pm,wednesday,-,-,-
+yoga activity,1 pm,friday,-,-,-
+dentist appointment,2 pm,friday,-,-,-
+lab appointment,3 pm,wednesday,-,-,-
+football activity,6pm,the 1st,Marie,-,-
+doctor appointment,3pm,friday,Martha,-,-
+tennis activity,5pm,the 2nd,brother,-,-
+football activity,11am,saturday,Jeff,-,-
+meeting,3pm,the 14th,infrastructure team,discuss the company picnic,conference room 102
+meeting,5pm,the 2nd,sales team,discuss dress code,conference room 102
+lab appointment,5pm,the 12th,Jon,-,-
+optometrist appointment,11am,monday,brother,-,-
+optometrist appointment,3pm,the 17th,Ana,-,-
+conference,5pm,monday,boss,go over budget,conference room 100
+swimming activity,2pm,the 8th,Jeff,-,-
+dentist appointment,10am,the 14th,Jeff,-,-
+swimming activity,10am,the 8th,Martha,-,-
+swimming activity,11am,sunday,Jeff,-,-
+dentist appointment,5pm,thursday,Martha,-,-
+lab appointment,1pm,the 16th,Ana,-,-
+swimming activity,3 pm,friday,-,-,-
+lab appointment,3 pm,monday,-,-,-
+dentist,2 pm,thursday,-,-,-
+football activity,1 pm,monday,-,-,-
+dinner,5 pm,thursday,-,-,-
+meeting,3 pm,monday,executive team,go over budget,100 conference room
+dentist,10 am,wednesday,-,-,-
+meeting,3 pm,monday,HR,discuss the company picnic,conference room 50
+yoga activity,11 am,tuesday,-,-,-
+doctor appointment,2 pm,thursday,-,-,-
+lab appointment,11 am,friday,-,-,-
+optometrist appointment,1 pm,friday,-,-,-
+medicine,3 pm,tuesday,-,-,-
+dinner,5 pm,thursday,-,-,-
+dentist,10 am,monday,-,-,-
+doctor appointment,3 pm,thursday,-,-,-
+swimming activity,7 pm,monday,-,-,-
+yoga activity,2 pm,wednesday,-,-,-
+dinner,6pm,friday,Tom,-,-
+football activity,9am,friday,Alex,-,-
+dentist appointment,10am,tuesday,Tom,-,-
+taking medicine,6pm,the 4th,father,-,-
+lab appointment,10am,the 3rd,brother,-,-
+doctor appointment,11am,thursday,Marie,-,-
+dinner,5pm,the 9th,Tom,-,-
+optometrist appointment,4pm,the 13th,Alex,-,-
+optometrist appointment,7pm,the 20th,Jeff,-,-
+football activity,5pm,the 7th,sister,-,-
+swimming activity,11am,the 6th,Jon,-,-
+dentist appointment,11am,the 18th,Alex,-,-
+optometrist appointment,10am,thursday,sister,-,-
+dinner,8pm,the 13th,Ana,-,-
+tennis activity,11 am,tuesday,-,-,-
+doctor appointment,2 pm,monday,-,-,-
+yoga activity,1 pm,monday,-,-,-
+medicine,3 pm,thursday,-,-,-
+lab appointment,1 pm,friday,-,-,-
+football activity,1 pm,thursday,-,-,-
+meeting,1 pm,tuesday,infrastructure team,discuss the company picnic,conference room 50
+dentist appointment,11 am,friday,-,-,-
+optometrist appointment,11 am,wednesday,-,-,-
+medicine,3 pm,friday,-,-,-
+football activity,2 pm,friday,-,-,-
+swimming activity,11 am,thursday,-,-,-
+taking medicine,7pm,wednesday,brother,-,-
+yoga activity,3pm,friday,brother,-,-
+tennis activity,3pm,monday,father,-,-
+doctor appointment,6pm,the 4th,sister,-,-
+dinner,6pm,the 8th,father,-,-
+optometrist appointment,10am,friday,Jon,-,-
+dinner,5 pm,tuesday,-,-,-
+doctor appointment,3 pm,thursday,-,-,-
+yoga activity,7 pm,tuesday,-,-,-
+optometrist appointment,10 am,tuesday,-,-,-
+conference,11 am,monday,sales team,discuss the merger,conference room 100
+lab appointment,1 pm,friday,-,-,-
+football activity,9am,the 8th,sister,-,-
+conference,6pm,tuesday,infrastructure team,onboard new members,100 conference room
+dinner,7pm,the 14th,mother,-,-
+taking medicine,10am,the 15th,sister,-,-
+doctor appointment,7pm,the 6th,Jeff,-,-
+dinner,7pm,the 15th,Tom,-,-
+dinner,6pm,saturday,Ana,-,-
+conference,5pm,sunday,vice president,discuss dress code,conference room 50
+tennis activity,3pm,the 1st,father,-,-
+lab appointment,2pm,tuesday,Marie,-,-
+taking medicine,1pm,monday,father,-,-
+optometrist appointment,9am,the 2nd,Jon,-,-
+football activity,11am,sunday,mother,-,-
+optometrist appointment,10am,the 6th,aunt,-,-
+dinner,6pm,the 4th,Marie,-,-
+taking medicine,10am,the 12th,Martha,-,-
+lab appointment,5pm,the 10th,brother,-,-
+doctor appointment,11am,sunday,Martha,-,-
+football activity,10am,the 8th,brother,-,-
+taking medicine,9am,the 13th,Alex,-,-
+dentist appointment,4pm,friday,sister,-,-
+meeting,4pm,friday,HR,discuss the merger,conference room 100
+conference,10am,thursday,boss,discuss the company picnic,conference room 100
+tennis activity,1pm,monday,father,-,-
+optometrist appointment,2pm,the 8th,sister,-,-
+taking medicine,4pm,friday,Jeff,-,-
+dentist appointment,4pm,thursday,Alex,-,-
+optometrist appointment,3pm,friday,brother,-,-
+meeting,5pm,tuesday,infrastructure team,discuss dress code,conference room 102
+meeting,5pm,friday,HR,discuss dress code,100 conference room
+football activity,9am,friday,Jon,-,-
+tennis activity,10am,the 5th,Martha,-,-
+dinner,7pm,the 5th,Marie,-,-
+meeting,6pm,the 3rd,HR,go over budget,conference room 50
+conference,7pm,the 10th,HR,go over budget,100 conference room
+optometrist appointment,6pm,friday,Tom,-,-
+yoga activity,3 pm,wednesday,-,-,-
+conference,7 pm,thursday,infrastructure team,discuss the company picnic,conference room 50
+tennis activity,11 am,monday,-,-,-
+swimming activity,10 am,tuesday,-,-,-
+dentist appointment,11 am,monday,-,-,-
+football activity,10 am,tuesday,-,-,-
+football activity,1pm,monday,Marie,-,-
+optometrist appointment,7pm,the 3rd,Marie,-,-
+doctor appointment,1pm,wednesday,Martha,-,-
+dentist appointment,6pm,the 8th,Alex,-,-
+yoga activity,10am,sunday,brother,-,-
+optometrist appointment,7pm,the 13th,brother,-,-
+football activity,9am,the 8th,father,-,-
+dinner,7pm,monday,mother,-,-
+lab appointment,7pm,the 15th,brother,-,-
+doctor appointment,7pm,the 16th,Marie,-,-
+dentist appointment,10am,the 19th,Jon,-,-
+doctor appointment,11am,the 4th,Ana,-,-
+doctor appointment,2pm,the 6th,Marie,-,-
+doctor appointment,7pm,the 3rd,sister,-,-
+doctor appointment,11am,the 20th,father,-,-
+tennis activity,11am,the 4th,Alex,-,-
+conference,3 pm,monday,HR,discuss the company picnic,conference room 100
+swimming activity,10 am,monday,-,-,-
+football activity,1 pm,wednesday,-,-,-
+doctor appointment,3 pm,thursday,-,-,-
+lab appointment,2 pm,monday,-,-,-
+dentist appointment,2 pm,friday,-,-,-
+yoga activity,6pm,monday,brother,-,-
+lab appointment,3pm,tuesday,sister,-,-
+meeting,4pm,friday,HR,discuss the company picnic,conference room 50
+dentist appointment,2pm,sunday,brother,-,-
+doctor appointment,10am,saturday,Alex,-,-
+optometrist appointment,10am,the 8th,father,-,-
+lab appointment,11am,the 3rd,Jeff,-,-
+doctor appointment,2pm,thursday,Marie,-,-
+football activity,4pm,sunday,father,-,-
+football activity,2pm,the 8th,Alex,-,-
+lab appointment,10am,the 7th,sister,-,-
+doctor appointment,5pm,friday,Tom,-,-
+conference,4pm,tuesday,HR,go over budget,conference room 102
+conference,7pm,the 17th,infrastructure team,discuss dress code,conference room 100
+swimming activity,4pm,saturday,Alex,-,-
+yoga activity,9am,friday,father,-,-
+swimming activity,5pm,monday,mother,-,-
+tennis activity,4pm,thursday,Martha,-,-
+yoga activity,10am,the 13th,father,-,-
+optometrist appointment,10am,thursday,aunt,-,-
+conference,9am,friday,sales team,discuss the merger,conference room 100
+dentist appointment,11am,wednesday,sister,-,-
+football activity,1 pm,thursday,-,-,-
+swimming activity,10 am,monday,-,-,-
+optometrist appointment,10 am,thursday,-,-,-
+doctor appointment,1 pm,friday,-,-,-
+lab appointment,7 pm,tuesday,-,-,-
+yoga activity,2 pm,monday,-,-,-
+yoga activity,10 am,wednesday,-,-,-
+meeting,7 pm,tuesday,executive team,discuss the company picnic,conference room 50
+football activity,2 pm,monday,-,-,-
+conference,3 pm,thursday,infrastructure team,discuss the merger,conference room 100
+medicine,2 pm,monday,-,-,-
+swimming activity,7 pm,thursday,-,-,-
+doctor appointment,11 am,tuesday,-,-,-
+football activity,3 pm,wednesday,-,-,-
+swimming activity,2 pm,monday,-,-,-
+optometrist appointment,3 pm,monday,-,-,-
+lab appointment,1 pm,friday,-,-,-
+meeting,3 pm,wednesday,executive team,discuss the merger,conference room 102
+conference,10 am,wednesday,HR,discuss the merger,conference room 100
+medicine,2 pm,monday,-,-,-
+doctor appointment,1 pm,tuesday,-,-,-
+football activity,1 pm,tuesday,-,-,-
+lab appointment,7 pm,friday,-,-,-
+swimming activity,10 am,friday,-,-,-
+tennis activity,7pm,saturday,sister,-,-
+football activity,2pm,thursday,brother,-,-
+dentist appointment,3pm,the 8th,brother,-,-
+doctor appointment,2pm,friday,mother,-,-
+yoga activity,4pm,tuesday,Marie,-,-
+swimming activity,10am,wednesday,Alex,-,-
+tennis activity,11am,the 12th,Jeff,-,-
+tennis activity,11am,the 12th,aunt,-,-
+yoga activity,5pm,wednesday,Ana,-,-
+dentist appointment,1pm,wednesday,Tom,-,-
+yoga activity,11am,the 17th,Alex,-,-
+conference,4pm,the 12th,management,discuss the merger,conference room 50
+football activity,7pm,the 14th,father,-,-
+tennis activity,1pm,the 8th,brother,-,-
+lab appointment,10am,the 7th,sister,-,-
+dinner,7pm,the 10th,Jeff,-,-
+dinner,8pm,the 15th,Tom,-,-
+conference,5pm,the 15th,executive team,go over quarterly report,conference room 100
+doctor appointment,6pm,the 8th,father,-,-
+dinner,7pm,the 1st,Alex,-,-
+conference,1pm,wednesday,management,go over budget,conference room 102
+optometrist appointment,3pm,the 15th,Jon,-,-
+meeting,6pm,the 8th,executive team,sign the NDA,100 conference room
+taking medicine,3pm,the 8th,Ana,-,-
+optometrist appointment,7pm,saturday,Jon,-,-
+dentist appointment,2pm,thursday,Ana,-,-
+lab appointment,11am,the 4th,aunt,-,-
+meeting,7pm,the 8th,infrastructure team,go over quarterly report,conference room 50
+swimming activity,7pm,the 10th,brother,-,-
+meeting,1pm,the 10th,HR,sign the NDA,conference room 102
+swimming activity,2pm,the 18th,Marie,-,-
+swimming activity,11am,the 20th,Tom,-,-
+dinner,6pm,the 14th,Marie,-,-
+dinner,8pm,the 2nd,Jeff,-,-
+swimming activity,6pm,the 14th,Jon,-,-
+swimming activity,4pm,sunday,mother,-,-
+doctor appointment,5pm,the 8th,Jon,-,-
+doctor appointment,9am,saturday,Jeff,-,-
+lab appointment,10am,sunday,sister,-,-
+optometrist appointment,5pm,sunday,Jon,-,-
+tennis activity,4pm,thursday,Alex,-,-
+dentist appointment,7pm,the 3rd,Martha,-,-
+meeting,3pm,sunday,vice president,onboard new members,conference room 100
+taking medicine,9am,sunday,mother,-,-
+conference,10am,the 8th,sales team,onboard new members,conference room 50
+dentist appointment,9am,wednesday,father,-,-
+dinner,6pm,tuesday,father,-,-
+taking medicine,5pm,thursday,father,-,-
+optometrist appointment,1pm,the 5th,Alex,-,-
+tennis activity,11am,tuesday,mother,-,-
+dinner,8pm,the 10th,aunt,-,-
+dentist appointment,5pm,wednesday,Tom,-,-
+dinner,6pm,friday,Jeff,-,-
+football activity,1pm,the 7th,aunt,-,-
+yoga activity,11am,the 19th,Jeff,-,-
+football activity,3pm,the 8th,brother,-,-
+taking medicine,4pm,wednesday,aunt,-,-
+optometrist appointment,3pm,tuesday,Tom,-,-
+taking medicine,7pm,the 20th,Marie,-,-
+optometrist appointment,10am,the 4th,sister,-,-
+lab appointment,5pm,the 8th,Jon,-,-
+meeting,11am,the 2nd,sales team,discuss dress code,conference room 100
+football activity,4pm,the 17th,sister,-,-
+optometrist appointment,2pm,the 11th,Alex,-,-
+meeting,1pm,the 9th,infrastructure team,onboard new members,conference room 100
+lab appointment,10am,the 18th,brother,-,-
+conference,1 pm,tuesday,HR,go over budget,conference room 50
+medicine,3 pm,monday,-,-,-
+optometrist appointment,3 pm,thursday,-,-,-
+meeting,1 pm,thursday,sales team,go over budget,100 conference room
+dentist appointment,2 pm,tuesday,-,-,-
+dentist,2 pm,thursday,-,-,-
+football activity,7 pm,thursday,-,-,-
+swimming activity,7 pm,tuesday,-,-,-
+conference,2 pm,wednesday,infrastructure team,discuss the company picnic,conference room 100
+medicine,1 pm,tuesday,-,-,-
+meeting,1 pm,tuesday,executive team,discuss the company picnic,conference room 102
+dentist,2 pm,tuesday,-,-,-
+dentist appointment,10am,thursday,brother,-,-
+lab appointment,3pm,sunday,Jon,-,-
+tennis activity,3pm,the 8th,aunt,-,-
+conference,3pm,the 3rd,infrastructure team,discuss the merger,100 conference room
+football activity,6pm,wednesday,Marie,-,-
+swimming activity,3pm,the 10th,mother,-,-
+swimming activity,4pm,the 18th,father,-,-
+meeting,4pm,the 13th,management,onboard new members,conference room 102
+dinner,5pm,the 6th,Tom,-,-
+yoga activity,3pm,wednesday,Ana,-,-
+football activity,6pm,the 11th,Jon,-,-
+doctor appointment,3pm,the 9th,mother,-,-
+meeting,1pm,the 4th,infrastructure team,onboard new members,conference room 50
+yoga activity,4pm,the 6th,Jeff,-,-
+tennis activity,7pm,tuesday,brother,-,-
+dentist appointment,11am,the 3rd,aunt,-,-
+taking medicine,6pm,the 10th,father,-,-
+doctor appointment,5pm,the 5th,Tom,-,-
+conference,6pm,the 4th,infrastructure team,go over budget,100 conference room
+swimming activity,4pm,the 13th,Martha,-,-
+yoga activity,3pm,tuesday,Jon,-,-
+dinner,7pm,the 13th,aunt,-,-
+football activity,2pm,monday,Marie,-,-
+taking medicine,7pm,thursday,aunt,-,-
+conference,6pm,saturday,vice president,discuss the company picnic,conference room 100
+swimming activity,10am,the 5th,Alex,-,-
+doctor appointment,6pm,the 8th,Tom,-,-
+swimming activity,6pm,the 3rd,Martha,-,-
+conference,3pm,the 10th,boss,discuss the company picnic,conference room 100
+dinner,6pm,the 4th,brother,-,-
+tennis activity,7pm,sunday,Alex,-,-
+taking medicine,11am,the 10th,aunt,-,-
+doctor appointment,1 pm,tuesday,-,-,-
+dentist,2 pm,friday,-,-,-
+yoga activity,3 pm,monday,-,-,-
+meeting,3 pm,friday,executive team,discuss the merger,conference room 102
+conference,1 pm,monday,infrastructure team,discuss the company picnic,conference room 102
+tennis activity,10 am,wednesday,-,-,-
+dentist appointment,9am,friday,sister,-,-
+football activity,1pm,the 2nd,father,-,-
+doctor appointment,6pm,the 17th,sister,-,-
+taking medicine,5pm,the 20th,mother,-,-
+dentist appointment,9am,thursday,Marie,-,-
+taking medicine,7pm,friday,Ana,-,-
+dentist appointment,9am,friday,mother,-,-
+taking medicine,7pm,the 19th,Jon,-,-
+dentist appointment,6pm,the 1st,Jon,-,-
+meeting,3pm,the 5th,vice president,discuss the company picnic,100 conference room
+yoga activity,2pm,the 19th,Marie,-,-
+yoga activity,6pm,the 16th,Tom,-,-
+dentist appointment,10am,thursday,brother,-,-
+dinner,8pm,the 12th,brother,-,-
+meeting,7pm,tuesday,infrastructure team,onboard new members,conference room 100
+lab appointment,11am,the 3rd,aunt,-,-
+dinner,5pm,the 16th,aunt,-,-
+dinner,7pm,the 15th,Jon,-,-
+dinner,6pm,friday,father,-,-
+conference,4pm,the 15th,sales team,discuss the company picnic,100 conference room
+conference,4pm,the 10th,HR,discuss dress code,100 conference room
+tennis activity,5pm,the 7th,Ana,-,-
+conference,3pm,monday,executive team,discuss the merger,conference room 102
+tennis activity,5pm,the 12th,aunt,-,-
+taking medicine,2pm,the 5th,sister,-,-
+football activity,2pm,the 13th,brother,-,-
+football activity,1pm,the 3rd,Ana,-,-
+meeting,1pm,the 7th,management,discuss the company picnic,conference room 102
+dentist appointment,1pm,tuesday,brother,-,-
+swimming activity,1pm,the 4th,father,-,-
+meeting,4pm,monday,infrastructure team,go over budget,conference room 50
+dentist appointment,7pm,friday,Martha,-,-
+conference,7 pm,tuesday,HR,discuss the company picnic,conference room 102
+medicine,7 pm,friday,-,-,-
+swimming activity,7 pm,thursday,-,-,-
+football activity,10 am,thursday,-,-,-
+lab appointment,7 pm,monday,-,-,-
+yoga activity,2 pm,tuesday,-,-,-
+medicine,1 pm,monday,-,-,-
+yoga activity,2 pm,monday,-,-,-
+meeting,10 am,friday,executive team,discuss the company picnic,conference room 102
+dentist appointment,11 am,monday,-,-,-
+football activity,11 am,monday,-,-,-
+lab appointment,11 am,friday,-,-,-
+tennis activity,6pm,monday,mother,-,-
+doctor appointment,7pm,the 11th,sister,-,-
+optometrist appointment,7pm,the 14th,mother,-,-
+football activity,4pm,the 4th,Ana,-,-
+conference,2pm,the 12th,boss,discuss the merger,conference room 100
+dinner,8pm,the 3rd,Jon,-,-
+tennis activity,7pm,the 11th,Martha,-,-
+taking medicine,9am,friday,mother,-,-
+swimming activity,9am,tuesday,Martha,-,-
+meeting,7pm,the 4th,infrastructure team,discuss dress code,conference room 50
+swimming activity,2pm,saturday,Jon,-,-
+optometrist appointment,11am,the 13th,aunt,-,-
+conference,5pm,the 13th,boss,discuss the merger,conference room 100
+meeting,2pm,the 8th,infrastructure team,go over budget,conference room 100
+tennis activity,1pm,the 5th,Martha,-,-
+swimming activity,2pm,the 3rd,father,-,-
+football activity,6pm,friday,Jeff,-,-
+taking medicine,9am,sunday,brother,-,-
+football activity,1pm,friday,Alex,-,-
+dentist appointment,11am,thursday,brother,-,-
+swimming activity,7pm,the 10th,Alex,-,-
+meeting,1pm,thursday,sales team,discuss the company picnic,conference room 50
+taking medicine,2pm,the 13th,Tom,-,-
+yoga activity,10am,saturday,Martha,-,-
+optometrist appointment,10am,wednesday,Martha,-,-
+dentist appointment,4pm,friday,aunt,-,-
+swimming activity,2pm,thursday,Jon,-,-
+football activity,1pm,the 5th,brother,-,-
+conference,7pm,wednesday,vice president,discuss the company picnic,conference room 102
+taking medicine,9am,the 4th,Jon,-,-
+dinner,7pm,the 3rd,Alex,-,-
+tennis activity,11am,the 8th,aunt,-,-
+meeting,5pm,the 13th,boss,go over budget,conference room 102
+football activity,10am,monday,Tom,-,-
+dentist appointment,11am,the 5th,Alex,-,-
+optometrist appointment,2pm,wednesday,Jon,-,-
+meeting,4pm,tuesday,vice president,go over quarterly report,conference room 102
+conference,6pm,thursday,management,discuss dress code,conference room 50
+swimming activity,11am,tuesday,brother,-,-
+dentist appointment,2pm,saturday,mother,-,-
+yoga activity,9am,sunday,brother,-,-
+optometrist appointment,6pm,saturday,mother,-,-
+dentist appointment,7 pm,monday,-,-,-
+medicine,10 am,tuesday,-,-,-
+doctor appointment,10 am,wednesday,-,-,-
+tennis activity,3 pm,monday,-,-,-
+dinner,5 pm,friday,-,-,-
+meeting,1 pm,monday,executive team,discuss the merger,conference room 102
+conference,6pm,the 10th,boss,onboard new members,100 conference room
+lab appointment,7pm,thursday,father,-,-
+meeting,6pm,the 3rd,HR,onboard new members,conference room 50
+yoga activity,4pm,saturday,Marie,-,-
+swimming activity,9am,thursday,aunt,-,-
+doctor appointment,9am,monday,Tom,-,-
+conference,7pm,the 6th,boss,discuss the company picnic,conference room 50
+swimming activity,5pm,thursday,sister,-,-
+dentist appointment,1pm,wednesday,Ana,-,-
+doctor appointment,11am,the 3rd,Jon,-,-
+dentist appointment,1pm,the 9th,mother,-,-
+doctor appointment,9am,the 3rd,Ana,-,-
+doctor appointment,11am,the 11th,Tom,-,-
+lab appointment,1pm,the 14th,brother,-,-
+football activity,11 am,friday,-,-,-
+tennis activity,10 am,monday,-,-,-
+meeting,2 pm,monday,sales team,discuss the merger,conference room 100
+yoga activity,2 pm,friday,-,-,-
+doctor appointment,1 pm,tuesday,-,-,-
+conference,3 pm,wednesday,sales team,discuss the merger,100 conference room
+doctor appointment,11am,the 16th,Ana,-,-
+optometrist appointment,7pm,saturday,Tom,-,-
+dinner,5pm,the 1st,Alex,-,-
+taking medicine,2pm,the 18th,father,-,-
+meeting,10am,the 16th,management,onboard new members,conference room 102
+optometrist appointment,5pm,the 12th,father,-,-
+lab appointment,7pm,the 4th,sister,-,-
+yoga activity,11am,the 4th,Ana,-,-
+doctor appointment,9am,the 8th,father,-,-
+dentist appointment,11am,the 8th,Jon,-,-
+conference,1pm,the 13th,management,go over quarterly report,conference room 102
+conference,5pm,tuesday,vice president,go over budget,conference room 102
+conference,6pm,monday,management,discuss the merger,100 conference room
+optometrist appointment,9am,the 4th,brother,-,-
+optometrist appointment,2pm,tuesday,Alex,-,-
+doctor appointment,3pm,the 5th,Tom,-,-
+football activity,3 pm,friday,-,-,-
+dentist appointment,2 pm,monday,-,-,-
+yoga activity,2 pm,monday,-,-,-
+doctor appointment,7 pm,wednesday,-,-,-
+tennis activity,3 pm,tuesday,-,-,-
+dentist,7 pm,friday,-,-,-
+taking medicine,4pm,saturday,Marie,-,-
+football activity,9am,the 6th,brother,-,-
+taking medicine,11am,thursday,Jon,-,-
+lab appointment,10am,wednesday,Jeff,-,-
+lab appointment,2pm,the 11th,Ana,-,-
+taking medicine,4pm,the 20th,mother,-,-
+meeting,1pm,the 15th,vice president,go over quarterly report,conference room 102
+yoga activity,4pm,friday,sister,-,-
+dentist,11 am,wednesday,-,-,-
+yoga activity,11 am,thursday,-,-,-
+dinner,5 pm,tuesday,-,-,-
+lab appointment,10 am,tuesday,-,-,-
+optometrist appointment,10 am,monday,-,-,-
+tennis activity,1 pm,wednesday,-,-,-
+football activity,3pm,the 6th,Jeff,-,-
+doctor appointment,3pm,the 19th,Ana,-,-
+tennis activity,6pm,the 1st,Tom,-,-
+yoga activity,6pm,the 7th,Alex,-,-
+lab appointment,2pm,thursday,father,-,-
+dentist appointment,3pm,the 17th,Marie,-,-
+tennis activity,7pm,the 14th,brother,-,-
+yoga activity,3pm,tuesday,Jeff,-,-
+tennis activity,10 am,thursday,-,-,-
+medicine,3 pm,friday,-,-,-
+dinner,5 pm,wednesday,-,-,-
+yoga activity,3 pm,thursday,-,-,-
+lab appointment,3 pm,thursday,-,-,-
+optometrist appointment,11 am,tuesday,-,-,-
+doctor appointment,10 am,wednesday,-,-,-
+football activity,2 pm,wednesday,-,-,-
+dinner,5 pm,monday,-,-,-
+swimming activity,3 pm,friday,-,-,-
+lab appointment,2 pm,monday,-,-,-
+dentist,11 am,thursday,-,-,-
+dentist appointment,4pm,the 12th,father,-,-
+yoga activity,7pm,the 18th,Jeff,-,-
+swimming activity,6pm,the 6th,Martha,-,-
+dentist appointment,4pm,the 18th,Ana,-,-
+yoga activity,7pm,thursday,father,-,-
+football activity,1pm,the 11th,mother,-,-
+taking medicine,7pm,friday,Jeff,-,-
+dentist appointment,7pm,wednesday,Jon,-,-
+tennis activity,2 pm,monday,-,-,-
+dentist,11 am,thursday,-,-,-
+doctor appointment,11 am,friday,-,-,-
+meeting,10 am,monday,infrastructure team,go over budget,conference room 102
+swimming activity,3 pm,monday,-,-,-
+football activity,11 am,monday,-,-,-
+optometrist appointment,11am,the 13th,sister,-,-
+yoga activity,10am,the 15th,Ana,-,-
+lab appointment,1pm,the 12th,Jon,-,-
+taking medicine,11am,the 19th,Alex,-,-
+lab appointment,7pm,the 15th,aunt,-,-
+taking medicine,9am,the 10th,Jon,-,-
+swimming activity,2pm,the 13th,aunt,-,-
+optometrist appointment,11am,the 8th,brother,-,-
+dinner,7pm,the 1st,Alex,-,-
+conference,9am,the 3rd,sales team,discuss the merger,conference room 100
+conference,4pm,the 1st,vice president,discuss the merger,conference room 102
+swimming activity,6pm,the 16th,sister,-,-
+doctor appointment,11am,the 16th,sister,-,-
+lab appointment,5pm,the 4th,sister,-,-
+football activity,5pm,the 4th,aunt,-,-
+lab appointment,11am,the 9th,mother,-,-
+yoga activity,10am,the 20th,Marie,-,-
+dinner,6pm,the 15th,sister,-,-
+doctor appointment,11am,the 16th,Marie,-,-
+tennis activity,4pm,sunday,Tom,-,-
+doctor appointment,5pm,the 9th,Ana,-,-
+dinner,8pm,monday,Tom,-,-
+football activity,10am,the 1st,mother,-,-
+doctor appointment,2pm,tuesday,Martha,-,-
+medicine,3 pm,friday,-,-,-
+doctor appointment,1 pm,tuesday,-,-,-
+swimming activity,7 pm,wednesday,-,-,-
+tennis activity,1 pm,tuesday,-,-,-
+dinner,5 pm,tuesday,-,-,-
+optometrist appointment,10 am,friday,-,-,-
+football activity,6pm,the 3rd,Marie,-,-
+taking medicine,4pm,wednesday,Martha,-,-
+doctor appointment,5pm,wednesday,Tom,-,-
+swimming activity,7pm,the 3rd,sister,-,-
+dentist appointment,11am,saturday,mother,-,-
+meeting,9am,the 3rd,sales team,go over quarterly report,conference room 102
+taking medicine,1pm,the 4th,Jon,-,-
+doctor appointment,1pm,the 5th,brother,-,-
+meeting,7pm,the 8th,vice president,onboard new members,100 conference room
+taking medicine,3pm,sunday,Ana,-,-
+yoga activity,5pm,the 16th,father,-,-
+tennis activity,5pm,the 9th,Ana,-,-
+lab appointment,3pm,friday,Ana,-,-
+lab appointment,3pm,the 11th,brother,-,-
+meeting,11am,wednesday,boss,go over quarterly report,conference room 50
+taking medicine,9am,the 10th,Alex,-,-
+lab appointment,6pm,the 4th,Marie,-,-
+tennis activity,3pm,monday,father,-,-
+dinner,6pm,tuesday,Martha,-,-
+swimming activity,9am,thursday,Marie,-,-
+optometrist appointment,9am,tuesday,Martha,-,-
+swimming activity,10am,the 8th,Marie,-,-
+tennis activity,3pm,sunday,Jeff,-,-
+tennis activity,7pm,the 13th,Jeff,-,-
+dinner,8pm,monday,sister,-,-
+conference,11am,the 13th,executive team,onboard new members,100 conference room
+tennis activity,4pm,wednesday,Jeff,-,-
+yoga activity,4pm,wednesday,Jeff,-,-
+conference,4pm,the 6th,sales team,onboard new members,conference room 50
+meeting,10am,the 16th,HR,discuss dress code,conference room 102
+doctor appointment,1pm,the 20th,Jeff,-,-
+conference,5pm,the 3rd,vice president,discuss dress code,conference room 100
+doctor appointment,11am,the 12th,Ana,-,-
+taking medicine,3pm,thursday,Jeff,-,-
+tennis activity,10am,the 1st,Martha,-,-
+meeting,11am,the 5th,vice president,discuss the company picnic,conference room 102
+lab appointment,5pm,the 10th,Martha,-,-
+meeting,1pm,the 13th,HR,discuss dress code,conference room 100
+taking medicine,6pm,friday,Martha,-,-
+dentist appointment,10am,tuesday,mother,-,-
+dentist appointment,7pm,the 7th,Tom,-,-
+lab appointment,2pm,the 8th,father,-,-
+taking medicine,7pm,saturday,aunt,-,-
+dentist appointment,9am,the 2nd,aunt,-,-
+yoga activity,5pm,the 9th,Jon,-,-
+meeting,1pm,the 11th,vice president,go over quarterly report,100 conference room
+yoga activity,11am,the 4th,mother,-,-
+dentist appointment,3pm,the 19th,brother,-,-
+conference,6pm,the 13th,infrastructure team,discuss the merger,100 conference room
+dentist appointment,5pm,the 9th,father,-,-
+dentist appointment,10am,thursday,sister,-,-
+football activity,1pm,the 18th,brother,-,-
+conference,1pm,tuesday,HR,onboard new members,conference room 102
+football activity,4pm,wednesday,father,-,-
+swimming activity,5pm,the 12th,sister,-,-
+meeting,7pm,the 6th,vice president,go over budget,conference room 102
+football activity,2pm,the 4th,mother,-,-
+yoga activity,3pm,the 13th,aunt,-,-
+lab appointment,7pm,the 4th,aunt,-,-
+lab appointment,9am,the 4th,father,-,-
+dinner,6pm,the 18th,Marie,-,-
+dentist appointment,6pm,the 2nd,father,-,-
+football activity,6pm,the 19th,father,-,-
+football activity,3pm,the 13th,sister,-,-
+conference,4pm,the 17th,vice president,sign the NDA,conference room 102
+taking medicine,3pm,sunday,Jon,-,-
+optometrist appointment,9am,monday,Jon,-,-
+taking medicine,4pm,sunday,Alex,-,-
+conference,1 pm,tuesday,HR,discuss the company picnic,conference room 100
+tennis activity,3 pm,friday,-,-,-
+meeting,2 pm,friday,HR,go over budget,100 conference room
+dentist,7 pm,friday,-,-,-
+dentist appointment,2 pm,thursday,-,-,-
+doctor appointment,10 am,friday,-,-,-
+taking medicine,4pm,monday,father,-,-
+dentist appointment,2pm,tuesday,Tom,-,-
+yoga activity,6pm,tuesday,Marie,-,-
+conference,7pm,saturday,boss,go over budget,100 conference room
+football activity,1pm,the 10th,brother,-,-
+meeting,11am,the 3rd,boss,discuss the company picnic,conference room 102
+doctor appointment,3pm,the 4th,sister,-,-
+yoga activity,3pm,the 8th,sister,-,-
+optometrist appointment,7pm,sunday,Martha,-,-
+football activity,11am,sunday,aunt,-,-
+doctor appointment,5pm,thursday,brother,-,-
+lab appointment,3pm,the 13th,aunt,-,-
+optometrist appointment,9am,monday,Jeff,-,-
+swimming activity,3pm,thursday,mother,-,-
+yoga activity,4pm,the 12th,mother,-,-
+meeting,11am,the 14th,HR,go over quarterly report,conference room 50
+yoga activity,3pm,the 18th,aunt,-,-
+swimming activity,2pm,the 11th,sister,-,-
+swimming activity,9am,the 17th,father,-,-
+conference,3pm,the 2nd,executive team,discuss the merger,conference room 102
+yoga activity,3pm,the 3rd,Jon,-,-
+taking medicine,11am,the 5th,Ana,-,-
+tennis activity,2 pm,thursday,-,-,-
+dentist appointment,10 am,monday,-,-,-
+conference,7 pm,thursday,sales team,discuss the merger,conference room 100
+meeting,7 pm,friday,infrastructure team,discuss the merger,conference room 50
+lab appointment,7 pm,tuesday,-,-,-
+swimming activity,1 pm,tuesday,-,-,-
+football activity,7pm,tuesday,Ana,-,-
+optometrist appointment,4pm,the 2nd,father,-,-
+tennis activity,9am,the 2nd,father,-,-
+dentist appointment,5pm,the 7th,sister,-,-
+doctor appointment,10am,the 16th,mother,-,-
+dentist appointment,6pm,the 19th,father,-,-
+optometrist appointment,10am,the 12th,Jeff,-,-
+football activity,11am,the 9th,father,-,-
+dinner,6pm,the 15th,Martha,-,-
+meeting,9am,the 16th,management,go over budget,conference room 50
+dinner,7pm,wednesday,father,-,-
+dinner,5pm,the 11th,Tom,-,-
+swimming activity,6pm,the 13th,father,-,-
+meeting,9am,the 7th,management,discuss the merger,100 conference room
+tennis activity,2pm,the 18th,Tom,-,-
+doctor appointment,10am,the 13th,mother,-,-
+yoga activity,10am,the 13th,father,-,-
+lab appointment,7pm,the 10th,Tom,-,-
+taking medicine,6pm,wednesday,Martha,-,-
+doctor appointment,2pm,thursday,aunt,-,-
+tennis activity,2pm,tuesday,aunt,-,-
+dinner,5pm,tuesday,brother,-,-
+swimming activity,11am,saturday,Marie,-,-
+conference,4pm,wednesday,boss,discuss dress code,100 conference room
+football activity,6pm,monday,mother,-,-
+dentist appointment,6pm,tuesday,sister,-,-
+meeting,7pm,tuesday,executive team,go over budget,100 conference room
+lab appointment,5pm,the 8th,father,-,-
+dentist appointment,10am,sunday,Alex,-,-
+lab appointment,3pm,monday,brother,-,-
+meeting,6pm,monday,vice president,onboard new members,conference room 100
+optometrist appointment,6pm,sunday,mother,-,-
+taking medicine,1pm,monday,Alex,-,-
+swimming activity,9am,the 4th,Alex,-,-
+conference,10am,the 10th,sales team,onboard new members,conference room 102
+doctor appointment,11am,saturday,father,-,-
+swimming activity,1pm,the 5th,aunt,-,-
+lab appointment,7pm,monday,Marie,-,-
+meeting,4pm,friday,management,discuss dress code,conference room 50
+dinner,8pm,the 5th,Alex,-,-
+meeting,11am,the 13th,vice president,discuss dress code,conference room 100
+taking medicine,3pm,friday,Martha,-,-
+optometrist appointment,7 pm,thursday,-,-,-
+dentist,1 pm,monday,-,-,-
+dinner,5 pm,tuesday,-,-,-
+meeting,1 pm,friday,HR,discuss the merger,conference room 102
+doctor appointment,11 am,tuesday,-,-,-
+swimming activity,1 pm,thursday,-,-,-
+conference,10am,thursday,executive team,discuss the merger,conference room 50
+optometrist appointment,10am,the 5th,Jon,-,-
+optometrist appointment,10am,friday,father,-,-
+doctor appointment,5pm,the 3rd,mother,-,-
+lab appointment,1pm,monday,brother,-,-
+swimming activity,4pm,monday,Ana,-,-
+football activity,6pm,the 8th,Marie,-,-
+football activity,9am,monday,father,-,-
+dinner,5 pm,monday,-,-,-
+yoga activity,7 pm,friday,-,-,-
+tennis activity,10 am,wednesday,-,-,-
+meeting,7 pm,friday,sales team,discuss the merger,conference room 102
+optometrist appointment,2 pm,thursday,-,-,-
+swimming activity,11 am,monday,-,-,-
+lab appointment,10 am,wednesday,-,-,-
+swimming activity,2 pm,wednesday,-,-,-
+medicine,1 pm,wednesday,-,-,-
+football activity,1 pm,monday,-,-,-
+meeting,11 am,tuesday,HR,discuss the merger,100 conference room
+optometrist appointment,3 pm,tuesday,-,-,-
+yoga activity,3 pm,monday,-,-,-
+dentist,3 pm,friday,-,-,-
+medicine,11 am,friday,-,-,-
+lab appointment,1 pm,thursday,-,-,-
+football activity,2 pm,friday,-,-,-
+tennis activity,1 pm,thursday,-,-,-
+yoga activity,1pm,monday,Ana,-,-
+dentist appointment,11am,the 5th,Jon,-,-
+yoga activity,3pm,monday,Marie,-,-
+dinner,8pm,the 8th,mother,-,-
+dinner,7pm,the 5th,Marie,-,-
+optometrist appointment,10am,the 5th,father,-,-
+dinner,8pm,tuesday,Ana,-,-
+meeting,2pm,saturday,boss,discuss the merger,conference room 102
+football activity,9am,the 10th,father,-,-
+lab appointment,5pm,friday,Marie,-,-
+swimming activity,6pm,the 10th,Martha,-,-
+dentist appointment,10am,the 5th,Tom,-,-
+conference,5pm,monday,vice president,discuss the company picnic,100 conference room
+doctor appointment,6pm,tuesday,brother,-,-
+dentist appointment,2pm,saturday,aunt,-,-
+dentist appointment,6pm,the 13th,sister,-,-
+doctor appointment,7pm,the 13th,brother,-,-
+yoga activity,3pm,saturday,Alex,-,-
+doctor appointment,3pm,sunday,sister,-,-
+dentist appointment,2pm,thursday,mother,-,-
+dentist appointment,10am,thursday,mother,-,-
+yoga activity,10am,the 5th,Martha,-,-
+dinner,7pm,the 11th,mother,-,-
+taking medicine,11am,the 17th,Tom,-,-
+tennis activity,5pm,the 19th,father,-,-
+meeting,11am,sunday,sales team,discuss the merger,conference room 100
+swimming activity,3pm,the 12th,Jon,-,-
+doctor appointment,6pm,friday,Alex,-,-
+dentist appointment,7pm,the 5th,Jeff,-,-
+tennis activity,7pm,the 12th,mother,-,-
+swimming activity,2 pm,monday,-,-,-
+tennis activity,1 pm,monday,-,-,-
+medicine,10 am,tuesday,-,-,-
+lab appointment,7 pm,thursday,-,-,-
+doctor appointment,2 pm,thursday,-,-,-
+football activity,3 pm,friday,-,-,-
+football activity,10am,wednesday,brother,-,-
+yoga activity,6pm,tuesday,Jeff,-,-
+doctor appointment,7pm,the 10th,brother,-,-
+football activity,6pm,the 13th,Marie,-,-
+yoga activity,3pm,saturday,Tom,-,-
+swimming activity,2pm,saturday,father,-,-
+yoga activity,5pm,monday,Ana,-,-
+dinner,5pm,saturday,mother,-,-
+conference,7 pm,friday,HR,discuss the company picnic,conference room 50
+dentist,11 am,wednesday,-,-,-
+doctor appointment,10 am,tuesday,-,-,-
+medicine,2 pm,monday,-,-,-
+optometrist appointment,3 pm,thursday,-,-,-
+dentist appointment,11 am,thursday,-,-,-
+swimming activity,10am,the 13th,aunt,-,-
+taking medicine,11am,the 17th,sister,-,-
+conference,3pm,the 9th,management,discuss the merger,100 conference room
+swimming activity,7pm,the 20th,Tom,-,-
+tennis activity,5pm,the 3rd,Jon,-,-
+yoga activity,3pm,the 19th,sister,-,-
+tennis activity,10am,the 6th,Jeff,-,-
+tennis activity,7pm,the 2nd,aunt,-,-
+lab appointment,10 am,friday,-,-,-
+dentist appointment,11 am,wednesday,-,-,-
+doctor appointment,11 am,friday,-,-,-
+conference,10 am,wednesday,executive team,go over budget,conference room 100
+dentist,7 pm,tuesday,-,-,-
+tennis activity,2 pm,monday,-,-,-
+football activity,1 pm,wednesday,-,-,-
+dentist appointment,11 am,monday,-,-,-
+yoga activity,7 pm,monday,-,-,-
+conference,7 pm,tuesday,HR,discuss the merger,conference room 50
+doctor appointment,2 pm,tuesday,-,-,-
+tennis activity,2 pm,thursday,-,-,-
+dentist appointment,2pm,the 9th,Jon,-,-
+taking medicine,1pm,the 7th,Martha,-,-
+optometrist appointment,11am,the 18th,Marie,-,-
+dentist appointment,4pm,tuesday,Ana,-,-
+optometrist appointment,1pm,the 14th,Jeff,-,-
+meeting,3pm,the 4th,management,discuss the company picnic,conference room 50
+tennis activity,4pm,the 18th,father,-,-
+dinner,6pm,the 12th,Martha,-,-
+conference,3 pm,tuesday,HR,discuss the company picnic,conference room 50
+dentist appointment,2 pm,wednesday,-,-,-
+optometrist appointment,1 pm,monday,-,-,-
+lab appointment,11 am,friday,-,-,-
+dentist,1 pm,thursday,-,-,-
+dinner,5 pm,monday,-,-,-
+meeting,2pm,the 13th,management,onboard new members,conference room 102
+meeting,9am,tuesday,executive team,go over quarterly report,100 conference room
+meeting,10am,friday,vice president,go over budget,100 conference room
+doctor appointment,7pm,friday,father,-,-
+swimming activity,3pm,the 4th,Jeff,-,-
+yoga activity,7pm,the 4th,aunt,-,-
+optometrist appointment,3pm,the 10th,mother,-,-
+football activity,6pm,the 10th,mother,-,-
+meeting,1 pm,thursday,HR,discuss the merger,conference room 100
+conference,10 am,monday,sales team,discuss the merger,conference room 102
+dinner,5 pm,monday,-,-,-
+optometrist appointment,1 pm,wednesday,-,-,-
+lab appointment,10 am,wednesday,-,-,-
+yoga activity,7 pm,friday,-,-,-
+dinner,7pm,the 1st,brother,-,-
+meeting,4pm,the 19th,boss,discuss the merger,100 conference room
+yoga activity,7pm,the 14th,Jeff,-,-
+doctor appointment,2pm,the 2nd,mother,-,-
+lab appointment,6pm,the 17th,Ana,-,-
+dinner,8pm,the 11th,father,-,-
+doctor appointment,1pm,the 13th,aunt,-,-
+dinner,5pm,the 16th,mother,-,-
+dinner,8pm,the 3rd,Martha,-,-
+yoga activity,10am,the 4th,Jon,-,-
+meeting,3pm,the 17th,executive team,discuss the merger,conference room 50
+conference,7pm,the 18th,sales team,go over budget,conference room 100
+football activity,5pm,thursday,Jeff,-,-
+yoga activity,2pm,sunday,brother,-,-
+doctor appointment,4pm,the 20th,mother,-,-
+dinner,8pm,sunday,Tom,-,-
+optometrist appointment,7 pm,friday,-,-,-
+conference,7 pm,monday,sales team,go over budget,conference room 102
+dinner,5 pm,monday,-,-,-
+yoga activity,7 pm,tuesday,-,-,-
+lab appointment,7 pm,tuesday,-,-,-
+dentist appointment,1 pm,wednesday,-,-,-
+dentist appointment,5pm,saturday,Martha,-,-
+swimming activity,5pm,the 10th,Ana,-,-
+doctor appointment,9am,the 10th,Ana,-,-
+football activity,9am,the 3rd,Jon,-,-
+dentist appointment,6pm,thursday,Jon,-,-
+yoga activity,10am,the 3rd,mother,-,-
+taking medicine,2pm,tuesday,aunt,-,-
+yoga activity,3pm,saturday,Martha,-,-
+yoga activity,9am,thursday,Jon,-,-
+lab appointment,4pm,wednesday,Martha,-,-
+taking medicine,1pm,tuesday,father,-,-
+lab appointment,10am,the 10th,Marie,-,-
+doctor appointment,3pm,the 12th,Martha,-,-
+tennis activity,1pm,the 5th,mother,-,-
+lab appointment,11am,the 4th,Jon,-,-
+taking medicine,9am,the 18th,mother,-,-
+dentist appointment,4pm,the 2nd,Jeff,-,-
+conference,4pm,the 15th,management,go over budget,conference room 100
+swimming activity,3pm,the 19th,aunt,-,-
+football activity,6pm,the 1st,Martha,-,-
+dinner,5pm,the 6th,Alex,-,-
+yoga activity,9am,tuesday,Alex,-,-
+football activity,1pm,the 16th,brother,-,-
+yoga activity,7pm,the 16th,Marie,-,-
+swimming activity,1 pm,tuesday,-,-,-
+medicine,10 am,monday,-,-,-
+meeting,10 am,wednesday,executive team,discuss the merger,conference room 50
+football activity,10 am,thursday,-,-,-
+optometrist appointment,11 am,monday,-,-,-
+conference,10 am,monday,sales team,go over budget,100 conference room
+football activity,2pm,friday,brother,-,-
+optometrist appointment,9am,the 3rd,brother,-,-
+optometrist appointment,2pm,the 3rd,Jon,-,-
+optometrist appointment,1pm,wednesday,Marie,-,-
+yoga activity,6pm,the 3rd,Jon,-,-
+optometrist appointment,4pm,thursday,brother,-,-
+lab appointment,6pm,the 13th,Marie,-,-
+conference,9am,thursday,boss,discuss the merger,100 conference room
+dentist appointment,5pm,the 16th,father,-,-
+dinner,8pm,the 17th,Jon,-,-
+meeting,1pm,the 12th,HR,sign the NDA,conference room 100
+tennis activity,7pm,the 15th,brother,-,-
+doctor appointment,2pm,the 12th,Jon,-,-
+dinner,8pm,the 2nd,sister,-,-
+swimming activity,2pm,the 15th,brother,-,-
+dinner,5pm,the 6th,sister,-,-
+taking medicine,5pm,friday,Martha,-,-
+meeting,7pm,friday,management,go over budget,conference room 102
+tennis activity,6pm,the 3rd,Tom,-,-
+lab appointment,10am,friday,mother,-,-
+optometrist appointment,9am,the 3rd,brother,-,-
+dentist appointment,9am,thursday,Jon,-,-
+football activity,11am,tuesday,Tom,-,-
+swimming activity,9am,the 13th,father,-,-
+dinner,6pm,wednesday,brother,-,-
+tennis activity,11am,monday,mother,-,-
+dentist appointment,7pm,monday,Jon,-,-
+swimming activity,2pm,saturday,aunt,-,-
+conference,10am,sunday,executive team,go over quarterly report,100 conference room
+tennis activity,7pm,tuesday,sister,-,-
+conference,3 pm,friday,sales team,discuss the company picnic,conference room 50
+medicine,3 pm,tuesday,-,-,-
+dentist appointment,11 am,tuesday,-,-,-
+optometrist appointment,2 pm,thursday,-,-,-
+doctor appointment,7 pm,thursday,-,-,-
+dinner,5 pm,monday,-,-,-
+dentist appointment,2 pm,wednesday,-,-,-
+lab appointment,11 am,monday,-,-,-
+football activity,11 am,monday,-,-,-
+optometrist appointment,1 pm,wednesday,-,-,-
+dentist,10 am,friday,-,-,-
+medicine,3 pm,monday,-,-,-
+tennis activity,11am,friday,Tom,-,-
+taking medicine,5pm,thursday,Ana,-,-
+football activity,11am,the 5th,mother,-,-
+lab appointment,5pm,the 4th,Jeff,-,-
+tennis activity,5pm,the 4th,Alex,-,-
+football activity,11am,sunday,Jeff,-,-
+doctor appointment,1pm,friday,Jeff,-,-
+swimming activity,3pm,the 13th,father,-,-
+swimming activity,2 pm,friday,-,-,-
+dentist,10 am,tuesday,-,-,-
+doctor appointment,3 pm,tuesday,-,-,-
+lab appointment,11 am,monday,-,-,-
+conference,10 am,wednesday,executive team,discuss the company picnic,conference room 102
+dentist appointment,10 am,monday,-,-,-
+lab appointment,7pm,the 4th,Jon,-,-
+football activity,6pm,the 7th,Jon,-,-
+doctor appointment,6pm,the 1st,Jon,-,-
+tennis activity,11am,the 2nd,Jeff,-,-
+tennis activity,11am,the 2nd,father,-,-
+meeting,5pm,the 7th,infrastructure team,discuss dress code,conference room 100
+dinner,7pm,the 7th,Tom,-,-
+yoga activity,4pm,the 1st,Jon,-,-
+football activity,3pm,sunday,Jeff,-,-
+dinner,8pm,wednesday,Alex,-,-
+football activity,3pm,the 8th,Alex,-,-
+optometrist appointment,2pm,the 5th,Marie,-,-
+swimming activity,1pm,the 2nd,brother,-,-
+meeting,6pm,the 18th,sales team,go over quarterly report,100 conference room
+optometrist appointment,2pm,the 7th,Martha,-,-
+taking medicine,7pm,the 4th,Tom,-,-
+dinner,8pm,monday,Jon,-,-
+dinner,5pm,the 8th,Martha,-,-
+dentist appointment,2pm,wednesday,Martha,-,-
+tennis activity,9am,the 8th,sister,-,-
+taking medicine,5pm,saturday,Jon,-,-
+yoga activity,10am,the 5th,Jeff,-,-
+doctor appointment,11am,tuesday,Marie,-,-
+optometrist appointment,5pm,tuesday,Marie,-,-
+medicine,3 pm,thursday,-,-,-
+swimming activity,7 pm,thursday,-,-,-
+optometrist appointment,3 pm,friday,-,-,-
+doctor appointment,3 pm,thursday,-,-,-
+conference,1 pm,thursday,executive team,go over budget,conference room 50
+dentist appointment,7 pm,thursday,-,-,-
+dentist appointment,10am,the 1st,Alex,-,-
+football activity,1pm,wednesday,brother,-,-
+football activity,6pm,sunday,Alex,-,-
+lab appointment,11am,the 1st,Tom,-,-
+doctor appointment,5pm,the 17th,Alex,-,-
+doctor appointment,2pm,the 14th,brother,-,-
+lab appointment,6pm,the 11th,mother,-,-
+taking medicine,1pm,the 8th,Martha,-,-
+meeting,7 pm,friday,executive team,discuss the company picnic,100 conference room
+tennis activity,3 pm,friday,-,-,-
+dinner,5 pm,friday,-,-,-
+football activity,2 pm,thursday,-,-,-
+optometrist appointment,1 pm,friday,-,-,-
+conference,1 pm,thursday,HR,discuss the merger,conference room 100
+lab appointment,5pm,the 3rd,Tom,-,-
+dinner,6pm,tuesday,Marie,-,-
+conference,2pm,the 8th,infrastructure team,sign the NDA,100 conference room
+tennis activity,11am,friday,Martha,-,-
+tennis activity,1pm,monday,Tom,-,-
+lab appointment,9am,tuesday,Martha,-,-
+tennis activity,5pm,the 8th,Marie,-,-
+doctor appointment,6pm,monday,aunt,-,-
+lab appointment,1pm,the 10th,Martha,-,-
+optometrist appointment,2pm,the 10th,father,-,-
+doctor appointment,5pm,the 13th,father,-,-
+dinner,5pm,saturday,Jon,-,-
+swimming activity,5pm,tuesday,Tom,-,-
+conference,10am,tuesday,management,go over quarterly report,100 conference room
+lab appointment,1pm,thursday,Marie,-,-
+football activity,9am,wednesday,Tom,-,-
+taking medicine,6pm,the 8th,aunt,-,-
+dinner,6pm,the 4th,Marie,-,-
+conference,5pm,thursday,boss,discuss the company picnic,conference room 50
+dentist appointment,7pm,tuesday,brother,-,-
+doctor appointment,10am,thursday,mother,-,-
+swimming activity,1pm,the 13th,father,-,-
+taking medicine,3pm,wednesday,Ana,-,-
+dentist appointment,9am,the 13th,aunt,-,-
+dinner,5pm,the 3rd,Jon,-,-
+yoga activity,4pm,the 10th,mother,-,-
+yoga activity,1pm,the 17th,Alex,-,-
+doctor appointment,7pm,the 14th,Marie,-,-
+meeting,3pm,the 18th,executive team,go over budget,conference room 100
+lab appointment,5pm,the 4th,sister,-,-
+yoga activity,9am,thursday,sister,-,-
+meeting,10am,the 14th,HR,discuss the company picnic,conference room 102
+dentist appointment,6pm,the 18th,Tom,-,-
+dentist appointment,10am,saturday,Martha,-,-
+football activity,3pm,monday,sister,-,-
+dinner,7pm,the 6th,Martha,-,-
+lab appointment,10am,monday,Ana,-,-
+meeting,1pm,the 15th,vice president,sign the NDA,conference room 100
+yoga activity,3pm,the 2nd,aunt,-,-
+dentist appointment,3pm,thursday,father,-,-
+yoga activity,6pm,sunday,sister,-,-
+conference,9am,monday,vice president,sign the NDA,conference room 102
+taking medicine,5pm,sunday,Jeff,-,-
+dentist appointment,4pm,the 17th,Alex,-,-
+swimming activity,4pm,saturday,Tom,-,-
+lab appointment,4pm,saturday,mother,-,-
+taking medicine,10am,tuesday,aunt,-,-
+doctor appointment,1pm,the 4th,Martha,-,-
+dinner,6pm,thursday,Tom,-,-
+yoga activity,6pm,the 4th,Martha,-,-
+football activity,2pm,the 8th,Marie,-,-
+meeting,4pm,the 5th,management,discuss the company picnic,conference room 50
+football activity,10am,the 19th,Alex,-,-
+taking medicine,6pm,monday,Jon,-,-
+tennis activity,3pm,the 12th,sister,-,-
+lab appointment,1pm,sunday,Ana,-,-
+tennis activity,7pm,the 12th,Alex,-,-
+taking medicine,11am,friday,father,-,-
+football activity,9am,saturday,father,-,-
+lab appointment,6pm,the 4th,father,-,-
+doctor appointment,11am,monday,Jon,-,-
+swimming activity,6pm,friday,Martha,-,-
+doctor appointment,4pm,the 5th,Alex,-,-
+yoga activity,3pm,wednesday,sister,-,-
+doctor appointment,10am,wednesday,Ana,-,-
+optometrist appointment,2pm,sunday,Tom,-,-
+meeting,10am,tuesday,HR,sign the NDA,conference room 100
+yoga activity,11am,monday,Tom,-,-
+meeting,4pm,wednesday,management,go over quarterly report,100 conference room
+taking medicine,9am,wednesday,Marie,-,-
+conference,4pm,the 13th,executive team,sign the NDA,100 conference room
+optometrist appointment,4pm,the 10th,Jon,-,-
+meeting,9am,thursday,executive team,discuss the merger,conference room 102
+optometrist appointment,10am,wednesday,sister,-,-
+tennis activity,7 pm,monday,-,-,-
+medicine,2 pm,tuesday,-,-,-
+meeting,1 pm,tuesday,HR,discuss the merger,conference room 102
+dinner,5 pm,monday,-,-,-
+yoga activity,2 pm,friday,-,-,-
+doctor appointment,3 pm,tuesday,-,-,-
+conference,11am,sunday,infrastructure team,sign the NDA,100 conference room
+meeting,1pm,the 6th,management,discuss the merger,conference room 50
+yoga activity,5pm,the 17th,father,-,-
+lab appointment,9am,monday,Marie,-,-
+dentist appointment,10am,sunday,brother,-,-
+dentist appointment,5pm,the 11th,brother,-,-
+yoga activity,9am,the 10th,brother,-,-
+yoga activity,2pm,tuesday,Marie,-,-
+optometrist appointment,11 am,monday,-,-,-
+dentist appointment,1 pm,tuesday,-,-,-
+lab appointment,1 pm,tuesday,-,-,-
+tennis activity,10 am,thursday,-,-,-
+dinner,5 pm,thursday,-,-,-
+meeting,2 pm,wednesday,infrastructure team,go over budget,conference room 102
+yoga activity,6pm,monday,father,-,-
+football activity,3pm,sunday,Tom,-,-
+lab appointment,3pm,the 18th,brother,-,-
+football activity,6pm,the 17th,Alex,-,-
+football activity,5pm,the 1st,aunt,-,-
+optometrist appointment,3pm,the 10th,Tom,-,-
+swimming activity,11am,tuesday,aunt,-,-
+yoga activity,6pm,the 15th,mother,-,-
+yoga activity,10am,the 10th,Alex,-,-
+yoga activity,7pm,friday,mother,-,-
+tennis activity,3pm,thursday,mother,-,-
+conference,3pm,the 8th,vice president,sign the NDA,100 conference room
+taking medicine,4pm,friday,Ana,-,-
+football activity,1pm,the 13th,Martha,-,-
+yoga activity,7pm,the 4th,aunt,-,-
+meeting,5pm,the 5th,infrastructure team,go over budget,conference room 50
+medicine,3 pm,thursday,-,-,-
+tennis activity,1 pm,wednesday,-,-,-
+doctor appointment,1 pm,monday,-,-,-
+meeting,3 pm,thursday,executive team,discuss the company picnic,conference room 100
+lab appointment,7 pm,wednesday,-,-,-
+yoga activity,11 am,tuesday,-,-,-
+tennis activity,11am,the 10th,brother,-,-
+conference,5pm,the 10th,executive team,discuss dress code,conference room 50
+dinner,7pm,thursday,Ana,-,-
+lab appointment,9am,thursday,Martha,-,-
+conference,7pm,tuesday,management,go over budget,conference room 102
+dinner,6pm,monday,aunt,-,-
+taking medicine,2pm,thursday,father,-,-
+conference,6pm,the 10th,sales team,discuss dress code,100 conference room
+tennis activity,6pm,sunday,brother,-,-
+meeting,4pm,saturday,boss,discuss the company picnic,conference room 100
+conference,2pm,tuesday,vice president,discuss the merger,conference room 102
+swimming activity,7pm,wednesday,sister,-,-
+yoga activity,7pm,the 4th,Marie,-,-
+doctor appointment,3pm,the 4th,father,-,-
+yoga activity,6pm,the 11th,sister,-,-
+dinner,7pm,sunday,Alex,-,-
+dinner,5pm,the 7th,sister,-,-
+dinner,7pm,the 20th,aunt,-,-
+tennis activity,11am,monday,Alex,-,-
+yoga activity,9am,the 2nd,Ana,-,-
+tennis activity,3pm,friday,Jon,-,-
+taking medicine,11am,the 19th,father,-,-
+conference,3 pm,tuesday,infrastructure team,discuss the merger,conference room 100
+dinner,5 pm,tuesday,-,-,-
+doctor appointment,7 pm,monday,-,-,-
+dentist appointment,10 am,tuesday,-,-,-
+medicine,7 pm,wednesday,-,-,-
+optometrist appointment,2 pm,wednesday,-,-,-
+doctor appointment,5pm,the 3rd,Marie,-,-
+tennis activity,7pm,friday,father,-,-
+swimming activity,7pm,sunday,Ana,-,-
+lab appointment,11am,the 4th,Tom,-,-
+tennis activity,9am,the 9th,Marie,-,-
+lab appointment,10am,the 1st,mother,-,-
+dinner,5pm,the 10th,brother,-,-
+taking medicine,2pm,the 11th,father,-,-
+dentist,2 pm,wednesday,-,-,-
+yoga activity,3 pm,thursday,-,-,-
+medicine,1 pm,friday,-,-,-
+meeting,10 am,wednesday,sales team,discuss the company picnic,conference room 102
+optometrist appointment,7 pm,thursday,-,-,-
+doctor appointment,7 pm,tuesday,-,-,-
+dinner,6pm,the 8th,Jeff,-,-
+optometrist appointment,9am,saturday,Tom,-,-
+dinner,5pm,monday,mother,-,-
+football activity,3pm,the 6th,Ana,-,-
+optometrist appointment,9am,tuesday,mother,-,-
+optometrist appointment,7pm,the 18th,Martha,-,-
+football activity,10am,tuesday,father,-,-
+swimming activity,10am,the 3rd,mother,-,-
+conference,6pm,friday,boss,go over quarterly report,conference room 100
+taking medicine,10am,the 1st,Tom,-,-
+optometrist appointment,9am,the 13th,Marie,-,-
+football activity,10am,the 1st,mother,-,-
+doctor appointment,6pm,wednesday,Jon,-,-
+optometrist appointment,11am,wednesday,Tom,-,-
+dinner,5pm,the 20th,Marie,-,-
+football activity,10am,sunday,Alex,-,-
+dentist appointment,6pm,sunday,Jeff,-,-
+dentist appointment,1pm,wednesday,Alex,-,-
+dinner,6pm,friday,mother,-,-
+football activity,2pm,saturday,Ana,-,-
+tennis activity,11am,the 3rd,Martha,-,-
+yoga activity,9am,thursday,father,-,-
+taking medicine,6pm,thursday,Martha,-,-
+taking medicine,9am,monday,father,-,-
+taking medicine,7pm,the 16th,Tom,-,-
+optometrist appointment,10am,wednesday,brother,-,-
+optometrist appointment,11am,the 13th,Alex,-,-
+football activity,7pm,the 14th,Ana,-,-
+conference,9am,the 18th,boss,go over quarterly report,conference room 102
+yoga activity,3pm,the 15th,Alex,-,-
+football activity,4pm,the 18th,aunt,-,-
+conference,10am,the 7th,vice president,discuss dress code,conference room 102
+swimming activity,6pm,the 20th,Alex,-,-
+dentist appointment,4pm,the 10th,Ana,-,-
+dentist appointment,3pm,friday,Alex,-,-
+yoga activity,1pm,the 8th,aunt,-,-
+swimming activity,5pm,saturday,Martha,-,-
+taking medicine,7pm,tuesday,Alex,-,-
+lab appointment,11am,saturday,father,-,-
+doctor appointment,1pm,sunday,Alex,-,-
+tennis activity,11am,the 2nd,Tom,-,-
+meeting,1pm,the 12th,sales team,discuss dress code,conference room 100
+conference,1pm,the 11th,management,go over budget,conference room 100
+taking medicine,9am,the 4th,Marie,-,-
+dentist appointment,10am,friday,Jon,-,-
+conference,2pm,the 17th,executive team,onboard new members,100 conference room
+meeting,3pm,the 17th,executive team,go over budget,conference room 102
+swimming activity,4pm,the 4th,sister,-,-
+dinner,7pm,the 18th,Alex,-,-
+taking medicine,11am,the 12th,brother,-,-
+football activity,2pm,saturday,Marie,-,-
+lab appointment,5pm,the 2nd,Martha,-,-
+football activity,6pm,the 14th,aunt,-,-
+dentist appointment,6pm,the 13th,sister,-,-
+football activity,1pm,the 13th,father,-,-
+swimming activity,6pm,friday,Martha,-,-
+lab appointment,5pm,the 10th,Marie,-,-
+yoga activity,11am,wednesday,aunt,-,-
+dentist appointment,5pm,tuesday,Jon,-,-
+conference,11am,thursday,boss,onboard new members,conference room 100
+doctor appointment,1pm,monday,Alex,-,-
+swimming activity,7pm,tuesday,Jon,-,-
+lab appointment,1 pm,thursday,-,-,-
+swimming activity,11 am,tuesday,-,-,-
+meeting,3 pm,thursday,sales team,go over budget,conference room 100
+conference,11 am,wednesday,executive team,discuss the merger,conference room 50
+dentist,10 am,thursday,-,-,-
+doctor appointment,7 pm,wednesday,-,-,-
+optometrist appointment,1 pm,monday,-,-,-
+dentist appointment,10 am,thursday,-,-,-
+meeting,1 pm,thursday,sales team,discuss the company picnic,conference room 50
+yoga activity,1 pm,thursday,-,-,-
+tennis activity,11 am,friday,-,-,-
+dentist,7 pm,tuesday,-,-,-
+lab appointment,1 pm,thursday,-,-,-
+dentist appointment,3 pm,tuesday,-,-,-
+meeting,11 am,thursday,sales team,discuss the company picnic,100 conference room
+dentist,11 am,tuesday,-,-,-
+conference,2 pm,friday,infrastructure team,go over budget,conference room 50
+football activity,10 am,tuesday,-,-,-
+football activity,3 pm,friday,-,-,-
+dentist,10 am,wednesday,-,-,-
+dentist appointment,1 pm,monday,-,-,-
+yoga activity,3 pm,tuesday,-,-,-
+medicine,7 pm,thursday,-,-,-
+optometrist appointment,1 pm,friday,-,-,-
+doctor appointment,2pm,tuesday,Jon,-,-
+meeting,10am,the 13th,HR,discuss dress code,conference room 100
+optometrist appointment,7pm,the 13th,Tom,-,-
+conference,11am,tuesday,infrastructure team,discuss dress code,conference room 50
+tennis activity,2pm,the 4th,Martha,-,-
+yoga activity,1pm,the 5th,Marie,-,-
+football activity,11 am,friday,-,-,-
+lab appointment,10 am,tuesday,-,-,-
+optometrist appointment,3 pm,monday,-,-,-
+dentist,2 pm,monday,-,-,-
+dentist appointment,3 pm,tuesday,-,-,-
+meeting,10 am,friday,executive team,go over budget,conference room 50
+swimming activity,7pm,the 3rd,sister,-,-
+swimming activity,9am,the 8th,Marie,-,-
+yoga activity,5pm,tuesday,mother,-,-
+yoga activity,5pm,the 8th,Ana,-,-
+dentist appointment,7pm,the 3rd,Alex,-,-
+optometrist appointment,3pm,the 10th,Alex,-,-
+tennis activity,10am,the 3rd,Tom,-,-
+optometrist appointment,3pm,the 5th,Jon,-,-
+meeting,11am,the 2nd,management,discuss the merger,conference room 100
+doctor appointment,4pm,the 14th,Alex,-,-
+football activity,3pm,the 17th,Ana,-,-
+yoga activity,11am,the 14th,sister,-,-
+yoga activity,7pm,the 10th,father,-,-
+tennis activity,6pm,saturday,Tom,-,-
+tennis activity,9am,the 13th,mother,-,-
+tennis activity,10am,the 16th,Jeff,-,-
+football activity,2 pm,wednesday,-,-,-
+dentist,3 pm,tuesday,-,-,-
+lab appointment,7 pm,friday,-,-,-
+yoga activity,10 am,thursday,-,-,-
+swimming activity,1 pm,wednesday,-,-,-
+conference,2 pm,thursday,infrastructure team,go over budget,100 conference room
+lab appointment,3pm,friday,Tom,-,-
+lab appointment,11am,the 5th,father,-,-
+doctor appointment,11am,the 8th,brother,-,-
+football activity,5pm,sunday,brother,-,-
+tennis activity,10am,the 16th,Tom,-,-
+football activity,11am,the 19th,Tom,-,-
+meeting,2pm,the 11th,executive team,discuss the merger,conference room 102
+dinner,8pm,sunday,Jon,-,-
+dinner,5 pm,monday,-,-,-
+doctor appointment,7 pm,monday,-,-,-
+yoga activity,10 am,friday,-,-,-
+meeting,11 am,thursday,executive team,discuss the merger,conference room 100
+dentist appointment,10 am,wednesday,-,-,-
+lab appointment,11 am,thursday,-,-,-
+dentist appointment,2pm,the 4th,Tom,-,-
+meeting,2pm,friday,infrastructure team,discuss dress code,conference room 102
+optometrist appointment,5pm,the 13th,Alex,-,-
+lab appointment,5pm,the 8th,Ana,-,-
+optometrist appointment,10am,thursday,Marie,-,-
+yoga activity,2pm,the 10th,brother,-,-
+lab appointment,10am,friday,aunt,-,-
+optometrist appointment,1pm,the 5th,aunt,-,-
+dinner,6pm,the 16th,father,-,-
+yoga activity,4pm,sunday,Jeff,-,-
+meeting,9am,the 9th,executive team,sign the NDA,conference room 50
+lab appointment,10am,the 12th,father,-,-
+meeting,3pm,the 20th,vice president,go over quarterly report,conference room 102
+swimming activity,10am,the 20th,Martha,-,-
+swimming activity,6pm,monday,Ana,-,-
+doctor appointment,4pm,sunday,Martha,-,-
+optometrist appointment,2 pm,thursday,-,-,-
+swimming activity,7 pm,monday,-,-,-
+meeting,1 pm,wednesday,HR,discuss the merger,conference room 50
+lab appointment,11 am,friday,-,-,-
+conference,2 pm,monday,executive team,discuss the merger,conference room 50
+yoga activity,10 am,monday,-,-,-
+yoga activity,11am,the 3rd,Jon,-,-
+swimming activity,6pm,the 8th,sister,-,-
+tennis activity,1pm,monday,aunt,-,-
+conference,1pm,the 4th,boss,onboard new members,conference room 50
+meeting,9am,the 10th,boss,discuss the company picnic,100 conference room
+conference,6pm,tuesday,infrastructure team,onboard new members,conference room 50
+conference,5pm,tuesday,infrastructure team,discuss the company picnic,conference room 50
+conference,1pm,wednesday,boss,discuss the company picnic,conference room 102
+football activity,2pm,the 10th,Jon,-,-
+lab appointment,7pm,the 8th,Marie,-,-
+optometrist appointment,10am,friday,mother,-,-
+yoga activity,11am,the 3rd,father,-,-
+tennis activity,3pm,the 8th,Marie,-,-
+doctor appointment,3pm,wednesday,Tom,-,-
+football activity,11 am,thursday,-,-,-
+yoga activity,7 pm,thursday,-,-,-
+medicine,10 am,monday,-,-,-
+doctor appointment,10 am,wednesday,-,-,-
+meeting,11 am,tuesday,HR,go over budget,conference room 102
+lab appointment,10 am,tuesday,-,-,-
+football activity,11am,the 19th,Ana,-,-
+football activity,1pm,the 4th,Marie,-,-
+conference,2pm,sunday,vice president,onboard new members,conference room 102
+football activity,5pm,monday,Jon,-,-
+dentist appointment,6pm,the 16th,Marie,-,-
+dinner,6pm,the 2nd,father,-,-
+football activity,2pm,the 4th,Marie,-,-
+swimming activity,11am,the 17th,brother,-,-
+dinner,7pm,the 8th,Tom,-,-
+football activity,11am,the 3rd,Jon,-,-
+optometrist appointment,5pm,saturday,brother,-,-
+conference,11am,sunday,sales team,onboard new members,conference room 100
+tennis activity,11am,the 5th,Tom,-,-
+dentist appointment,7pm,monday,brother,-,-
+optometrist appointment,2pm,the 9th,Alex,-,-
+swimming activity,11am,the 2nd,sister,-,-
+football activity,2pm,the 12th,Marie,-,-
+tennis activity,3pm,the 3rd,Alex,-,-
+tennis activity,9am,the 15th,mother,-,-
+football activity,2pm,the 2nd,Jeff,-,-
+conference,4pm,the 6th,vice president,discuss the company picnic,conference room 102
+taking medicine,1pm,the 2nd,Martha,-,-
+dinner,5 pm,friday,-,-,-
+conference,2 pm,monday,infrastructure team,discuss the company picnic,conference room 50
+swimming activity,7 pm,friday,-,-,-
+medicine,10 am,thursday,-,-,-
+tennis activity,10 am,friday,-,-,-
+dentist appointment,3 pm,monday,-,-,-
+lab appointment,7pm,the 16th,Marie,-,-
+optometrist appointment,3pm,the 1st,father,-,-
+swimming activity,11am,the 1st,Jon,-,-
+football activity,6pm,the 13th,Martha,-,-
+dentist appointment,3pm,the 19th,sister,-,-
+lab appointment,7pm,the 7th,brother,-,-
+lab appointment,10am,the 8th,Martha,-,-
+doctor appointment,1pm,the 14th,Ana,-,-
+football activity,2 pm,wednesday,-,-,-
+doctor appointment,2 pm,tuesday,-,-,-
+dentist,3 pm,monday,-,-,-
+dinner,5 pm,monday,-,-,-
+swimming activity,3 pm,monday,-,-,-
+lab appointment,2 pm,wednesday,-,-,-
+meeting,3pm,tuesday,HR,sign the NDA,conference room 50
+meeting,11am,the 20th,executive team,go over budget,conference room 100
+conference,5pm,thursday,HR,onboard new members,100 conference room
+swimming activity,9am,the 2nd,Tom,-,-
+optometrist appointment,4pm,the 4th,Martha,-,-
+taking medicine,11am,the 11th,Marie,-,-
+taking medicine,3pm,the 3rd,Marie,-,-
+taking medicine,4pm,the 4th,Tom,-,-
+dinner,5pm,tuesday,Martha,-,-
+football activity,2pm,thursday,Alex,-,-
+lab appointment,5pm,thursday,Alex,-,-
+doctor appointment,11am,the 4th,mother,-,-
+tennis activity,5pm,the 5th,father,-,-
+conference,10am,friday,management,discuss dress code,conference room 100
+doctor appointment,7 pm,monday,-,-,-
+dentist appointment,10 am,tuesday,-,-,-
+swimming activity,1 pm,wednesday,-,-,-
+optometrist appointment,3 pm,friday,-,-,-
+conference,2 pm,thursday,HR,go over budget,conference room 50
+yoga activity,11 am,thursday,-,-,-
+optometrist appointment,10am,sunday,brother,-,-
+tennis activity,6pm,tuesday,sister,-,-
+doctor appointment,10am,wednesday,mother,-,-
+lab appointment,1pm,the 16th,Tom,-,-
+tennis activity,5pm,the 6th,Tom,-,-
+conference,11am,the 10th,sales team,go over budget,conference room 100
+doctor appointment,1pm,the 9th,Jeff,-,-
+doctor appointment,10am,the 12th,Martha,-,-
+tennis activity,2pm,thursday,Marie,-,-
+yoga activity,10am,the 4th,aunt,-,-
+tennis activity,10am,saturday,aunt,-,-
+swimming activity,1pm,friday,aunt,-,-
+taking medicine,7pm,the 4th,sister,-,-
+yoga activity,6pm,thursday,aunt,-,-
+tennis activity,10am,the 13th,Tom,-,-
+doctor appointment,3pm,the 10th,father,-,-
+doctor appointment,7 pm,friday,-,-,-
+yoga activity,2 pm,tuesday,-,-,-
+dentist,7 pm,friday,-,-,-
+conference,10 am,thursday,executive team,discuss the merger,conference room 102
+meeting,7 pm,wednesday,infrastructure team,go over budget,conference room 50
+football activity,11 am,wednesday,-,-,-
+dinner,6pm,the 12th,sister,-,-
+yoga activity,6pm,the 6th,mother,-,-
+taking medicine,3pm,friday,Ana,-,-
+yoga activity,10am,the 6th,Jon,-,-
+optometrist appointment,9am,monday,Marie,-,-
+tennis activity,9am,sunday,Ana,-,-
+tennis activity,6pm,friday,sister,-,-
+football activity,4pm,the 18th,Tom,-,-
+conference,6pm,the 12th,infrastructure team,sign the NDA,100 conference room
+doctor appointment,6pm,thursday,Martha,-,-
+dentist appointment,2pm,the 8th,Jon,-,-
+conference,4pm,the 15th,boss,sign the NDA,100 conference room
+football activity,6pm,friday,aunt,-,-
+tennis activity,5pm,the 11th,father,-,-
+dinner,5pm,wednesday,Tom,-,-
+taking medicine,3pm,the 3rd,Ana,-,-
+taking medicine,5pm,the 8th,Jon,-,-
+lab appointment,10am,saturday,sister,-,-
+meeting,4pm,tuesday,vice president,go over quarterly report,conference room 50
+meeting,5pm,saturday,vice president,go over quarterly report,conference room 102
+lab appointment,5pm,monday,Marie,-,-
+doctor appointment,4pm,the 3rd,Alex,-,-
+swimming activity,1pm,friday,father,-,-
+tennis activity,4pm,the 3rd,Jon,-,-
+medicine,10 am,wednesday,-,-,-
+tennis activity,1 pm,thursday,-,-,-
+dentist appointment,3 pm,friday,-,-,-
+doctor appointment,1 pm,friday,-,-,-
+dinner,5 pm,monday,-,-,-
+lab appointment,11 am,monday,-,-,-
+meeting,3 pm,monday,sales team,discuss the company picnic,conference room 100
+medicine,3 pm,thursday,-,-,-
+yoga activity,11 am,wednesday,-,-,-
+swimming activity,7 pm,wednesday,-,-,-
+dentist,11 am,friday,-,-,-
+lab appointment,7 pm,monday,-,-,-
+dentist appointment,6pm,the 17th,Tom,-,-
+dentist appointment,9am,the 7th,Jeff,-,-
+dentist appointment,2pm,the 5th,sister,-,-
+dentist appointment,3pm,sunday,Ana,-,-
+taking medicine,9am,wednesday,Alex,-,-
+dentist appointment,7pm,saturday,aunt,-,-
+meeting,11am,the 16th,management,onboard new members,conference room 100
+meeting,7pm,the 7th,sales team,go over budget,100 conference room
+tennis activity,1pm,the 4th,Martha,-,-
+meeting,10am,wednesday,executive team,onboard new members,conference room 100
+meeting,4pm,thursday,executive team,discuss dress code,conference room 100
+optometrist appointment,11am,the 2nd,Marie,-,-
+optometrist appointment,1pm,the 6th,father,-,-
+meeting,7pm,the 6th,management,discuss dress code,100 conference room
+lab appointment,1pm,the 18th,Ana,-,-
+taking medicine,5pm,the 17th,Alex,-,-
+swimming activity,1 pm,monday,-,-,-
+medicine,2 pm,wednesday,-,-,-
+optometrist appointment,3 pm,monday,-,-,-
+yoga activity,7 pm,wednesday,-,-,-
+conference,3 pm,friday,infrastructure team,discuss the merger,100 conference room
+doctor appointment,10 am,tuesday,-,-,-
+football activity,3pm,monday,Jeff,-,-
+taking medicine,2pm,the 14th,aunt,-,-
+meeting,5pm,the 6th,executive team,sign the NDA,conference room 102
+doctor appointment,6pm,the 1st,Martha,-,-
+conference,1pm,friday,executive team,onboard new members,100 conference room
+swimming activity,2pm,the 3rd,Alex,-,-
+lab appointment,2pm,the 17th,aunt,-,-
+doctor appointment,2pm,the 6th,Tom,-,-
+dentist appointment,10am,saturday,sister,-,-
+meeting,4pm,sunday,infrastructure team,discuss the merger,conference room 100
+conference,7pm,saturday,HR,discuss the company picnic,conference room 50
+dinner,5pm,monday,father,-,-
+taking medicine,5pm,the 4th,brother,-,-
+tennis activity,6pm,wednesday,Tom,-,-
+yoga activity,9am,tuesday,mother,-,-
+conference,1pm,the 10th,vice president,go over budget,100 conference room
+swimming activity,1pm,the 8th,sister,-,-
+football activity,4pm,thursday,mother,-,-
+optometrist appointment,6pm,the 3rd,brother,-,-
+football activity,6pm,the 8th,Martha,-,-
+tennis activity,3pm,sunday,father,-,-
+yoga activity,5pm,thursday,Jon,-,-
+dentist appointment,7pm,the 6th,Jon,-,-
+conference,9am,the 15th,boss,discuss the company picnic,100 conference room
+meeting,3pm,the 10th,HR,go over budget,conference room 100
+yoga activity,9am,monday,sister,-,-
+yoga activity,2pm,the 16th,Jeff,-,-
+conference,1pm,saturday,executive team,onboard new members,conference room 102
+yoga activity,7pm,thursday,Jon,-,-
+yoga activity,11am,the 9th,Martha,-,-
+football activity,1 pm,monday,-,-,-
+swimming activity,1 pm,thursday,-,-,-
+yoga activity,3 pm,monday,-,-,-
+tennis activity,11 am,thursday,-,-,-
+dinner,5 pm,wednesday,-,-,-
+meeting,2 pm,friday,HR,discuss the merger,conference room 50
+meeting,2pm,the 12th,vice president,discuss dress code,conference room 102
+taking medicine,7pm,the 18th,Jeff,-,-
+dentist appointment,7pm,the 19th,Alex,-,-
+taking medicine,10am,saturday,Martha,-,-
+swimming activity,11am,the 19th,Jeff,-,-
+meeting,5pm,the 15th,sales team,go over quarterly report,100 conference room
+conference,3pm,the 1st,management,discuss the company picnic,conference room 50
+dentist appointment,5pm,the 4th,sister,-,-
+taking medicine,11am,the 5th,Jeff,-,-
+conference,10am,sunday,HR,discuss dress code,100 conference room
+conference,10am,the 13th,executive team,discuss the merger,conference room 50
+yoga activity,10am,the 13th,Marie,-,-
+dentist appointment,2pm,the 4th,aunt,-,-
+meeting,3pm,saturday,vice president,go over budget,conference room 102
+swimming activity,6pm,the 10th,mother,-,-
+swimming activity,7pm,monday,Jon,-,-
+yoga activity,9am,thursday,aunt,-,-
+meeting,7pm,friday,sales team,discuss dress code,conference room 100
+doctor appointment,1pm,sunday,aunt,-,-
+dentist appointment,9am,the 5th,sister,-,-
+taking medicine,4pm,the 13th,aunt,-,-
+dinner,7pm,monday,sister,-,-
+tennis activity,5pm,the 4th,Ana,-,-
+doctor appointment,9am,the 3rd,Ana,-,-
+taking medicine,6pm,friday,Ana,-,-
+football activity,6pm,the 2nd,Alex,-,-
+swimming activity,6pm,the 6th,aunt,-,-
+doctor appointment,1pm,the 18th,Ana,-,-
+lab appointment,9am,the 9th,Ana,-,-
+lab appointment,4pm,the 13th,brother,-,-
+conference,3pm,saturday,sales team,go over quarterly report,conference room 102
+conference,5pm,the 5th,sales team,discuss the merger,conference room 100
+yoga activity,3pm,the 4th,Tom,-,-
+taking medicine,9am,thursday,Jon,-,-
+lab appointment,9am,sunday,aunt,-,-
+dinner,6pm,monday,mother,-,-
+meeting,5pm,friday,vice president,discuss the merger,conference room 102
+dinner,5pm,the 8th,mother,-,-
+dentist appointment,10am,the 16th,brother,-,-
+meeting,5pm,the 6th,HR,discuss dress code,conference room 50
+conference,10am,the 20th,boss,discuss dress code,conference room 50
+swimming activity,6pm,thursday,father,-,-
+meeting,4pm,the 14th,boss,discuss the company picnic,conference room 100
+meeting,4pm,friday,HR,discuss the company picnic,conference room 100
+doctor appointment,9am,thursday,Jon,-,-
+dinner,6pm,the 10th,father,-,-
+swimming activity,1 pm,friday,-,-,-
+dentist,1 pm,thursday,-,-,-
+dentist appointment,2 pm,monday,-,-,-
+dinner,5 pm,friday,-,-,-
+optometrist appointment,7 pm,wednesday,-,-,-
+meeting,3 pm,thursday,executive team,go over budget,conference room 102
+football activity,5pm,the 1st,Martha,-,-
+taking medicine,5pm,the 8th,Ana,-,-
+dentist appointment,7pm,the 3rd,brother,-,-
+doctor appointment,7pm,the 13th,Jon,-,-
+swimming activity,3pm,the 18th,father,-,-
+conference,6pm,the 14th,management,sign the NDA,100 conference room
+dentist appointment,6pm,the 20th,Jeff,-,-
+meeting,11am,the 17th,management,onboard new members,conference room 100
+doctor appointment,7pm,the 5th,Jeff,-,-
+meeting,2pm,the 8th,vice president,onboard new members,conference room 102
+swimming activity,7pm,monday,Marie,-,-
+yoga activity,10am,monday,Jeff,-,-
+swimming activity,9am,thursday,aunt,-,-
+dentist appointment,5pm,friday,Marie,-,-
+swimming activity,11am,the 8th,Jon,-,-
+swimming activity,3pm,friday,aunt,-,-
+taking medicine,5pm,monday,Martha,-,-
+dinner,7pm,tuesday,Marie,-,-
+meeting,11am,the 3rd,infrastructure team,discuss the company picnic,100 conference room
+football activity,7pm,thursday,brother,-,-
+yoga activity,2pm,the 4th,aunt,-,-
+tennis activity,6pm,the 4th,mother,-,-
+swimming activity,5pm,the 19th,Alex,-,-
+optometrist appointment,3pm,the 3rd,Jon,-,-
+taking medicine,4pm,the 10th,Ana,-,-
+dinner,7pm,saturday,Alex,-,-
+lab appointment,9am,the 13th,sister,-,-
+lab appointment,5pm,the 9th,brother,-,-
+football activity,7pm,the 13th,Alex,-,-
+optometrist appointment,11am,wednesday,aunt,-,-
+taking medicine,7pm,tuesday,Alex,-,-
+football activity,7pm,the 3rd,Jon,-,-
+conference,3pm,the 5th,infrastructure team,discuss dress code,conference room 100
+swimming activity,10am,the 5th,aunt,-,-
+dentist appointment,11am,the 10th,Alex,-,-
+lab appointment,1pm,sunday,Martha,-,-
+lab appointment,3 pm,monday,-,-,-
+optometrist appointment,10 am,wednesday,-,-,-
+football activity,3 pm,friday,-,-,-
+conference,7 pm,monday,sales team,discuss the merger,conference room 50
+tennis activity,1 pm,thursday,-,-,-
+dentist appointment,1 pm,friday,-,-,-
+dinner,6pm,the 11th,Ana,-,-
+dinner,8pm,friday,Jon,-,-
+taking medicine,4pm,the 7th,aunt,-,-
+dentist appointment,11am,tuesday,brother,-,-
+dentist appointment,2pm,wednesday,Martha,-,-
+lab appointment,4pm,the 17th,Ana,-,-
+dentist appointment,4pm,the 18th,aunt,-,-
+taking medicine,3pm,monday,mother,-,-
+dinner,8pm,tuesday,father,-,-
+taking medicine,4pm,thursday,Ana,-,-
+dentist appointment,6pm,the 13th,Jeff,-,-
+tennis activity,7pm,the 13th,Jon,-,-
+doctor appointment,3pm,the 5th,mother,-,-
+doctor appointment,10am,the 8th,Marie,-,-
+meeting,1pm,thursday,sales team,go over budget,conference room 102
+doctor appointment,9am,sunday,brother,-,-
+swimming activity,7pm,the 6th,Ana,-,-
+lab appointment,4pm,the 15th,sister,-,-
+lab appointment,9am,the 5th,father,-,-
+meeting,3pm,the 6th,vice president,discuss dress code,100 conference room
+conference,11am,the 1st,HR,go over budget,conference room 50
+optometrist appointment,4pm,the 10th,aunt,-,-
+conference,2pm,the 11th,infrastructure team,discuss the merger,conference room 102
+doctor appointment,2pm,the 15th,Jon,-,-
+doctor appointment,7pm,wednesday,Tom,-,-
+doctor appointment,7pm,the 3rd,mother,-,-
+yoga activity,9am,the 2nd,brother,-,-
+dentist appointment,11am,the 17th,Jeff,-,-
+doctor appointment,6pm,monday,Jon,-,-
+yoga activity,4pm,the 4th,Tom,-,-
+doctor appointment,11am,the 14th,Marie,-,-
+yoga activity,1pm,the 11th,Jon,-,-
+tennis activity,11am,tuesday,sister,-,-
+yoga activity,1pm,the 3rd,Jeff,-,-
+yoga activity,4pm,the 5th,father,-,-
+conference,6pm,the 8th,infrastructure team,go over budget,100 conference room
+tennis activity,5pm,sunday,sister,-,-
+taking medicine,10am,saturday,father,-,-
+lab appointment,1pm,tuesday,mother,-,-
+dentist appointment,4pm,saturday,brother,-,-
+doctor appointment,11am,the 3rd,Jeff,-,-
+optometrist appointment,11am,wednesday,father,-,-
+football activity,11am,thursday,aunt,-,-
+football activity,2pm,friday,brother,-,-
+tennis activity,9am,friday,brother,-,-
+dentist appointment,2pm,thursday,father,-,-
+dentist appointment,11am,the 5th,Martha,-,-
+lab appointment,11am,saturday,Jeff,-,-
+lab appointment,2 pm,thursday,-,-,-
+football activity,1 pm,monday,-,-,-
+optometrist appointment,7 pm,wednesday,-,-,-
+doctor appointment,10 am,wednesday,-,-,-
+yoga activity,1 pm,thursday,-,-,-
+meeting,10 am,friday,executive team,go over budget,conference room 100
+tennis activity,5pm,monday,father,-,-
+dinner,8pm,the 13th,sister,-,-
+yoga activity,11am,the 20th,sister,-,-
+conference,4pm,thursday,infrastructure team,discuss the merger,100 conference room
+doctor appointment,7pm,sunday,Alex,-,-
+taking medicine,2pm,the 13th,Marie,-,-
+tennis activity,5pm,the 5th,father,-,-
+meeting,1pm,sunday,boss,discuss the merger,conference room 100
+conference,1pm,the 17th,infrastructure team,discuss dress code,conference room 50
+doctor appointment,11am,thursday,Jon,-,-
+doctor appointment,3pm,the 11th,sister,-,-
+optometrist appointment,10am,the 9th,Martha,-,-
+swimming activity,2pm,the 7th,Jeff,-,-
+tennis activity,1pm,the 19th,father,-,-
+conference,3pm,the 5th,HR,onboard new members,conference room 102
+dentist appointment,10am,the 14th,Jeff,-,-
+doctor appointment,11 am,friday,-,-,-
+dinner,5 pm,thursday,-,-,-
+conference,10 am,friday,infrastructure team,discuss the merger,conference room 102
+lab appointment,11 am,wednesday,-,-,-
+medicine,10 am,wednesday,-,-,-
+yoga activity,10 am,thursday,-,-,-
+tennis activity,7 pm,thursday,-,-,-
+swimming activity,2 pm,thursday,-,-,-
+lab appointment,1 pm,tuesday,-,-,-
+medicine,3 pm,thursday,-,-,-
+meeting,1 pm,wednesday,executive team,discuss the company picnic,100 conference room
+conference,1 pm,monday,sales team,discuss the merger,100 conference room
+dentist appointment,10am,the 10th,Tom,-,-
+conference,3pm,the 13th,infrastructure team,discuss dress code,conference room 50
+football activity,10am,the 4th,Jon,-,-
+taking medicine,7pm,sunday,aunt,-,-
+yoga activity,6pm,the 10th,sister,-,-
+swimming activity,1pm,the 13th,Tom,-,-
+dentist appointment,10am,the 11th,Jeff,-,-
+tennis activity,4pm,friday,Tom,-,-
+lab appointment,3pm,the 6th,mother,-,-
+meeting,11am,the 2nd,executive team,sign the NDA,conference room 100
+football activity,3pm,the 7th,Jon,-,-
+dentist appointment,11am,the 7th,Martha,-,-
+dinner,8pm,the 8th,Alex,-,-
+tennis activity,2pm,the 12th,Jon,-,-
+dinner,5 pm,tuesday,-,-,-
+football activity,2 pm,wednesday,-,-,-
+yoga activity,3 pm,wednesday,-,-,-
+lab appointment,10 am,wednesday,-,-,-
+medicine,11 am,monday,-,-,-
+meeting,7 pm,monday,sales team,discuss the merger,conference room 100
+football activity,11am,the 17th,Jeff,-,-
+swimming activity,1pm,the 12th,mother,-,-
+optometrist appointment,11am,wednesday,Marie,-,-
+lab appointment,10am,the 8th,Jon,-,-
+optometrist appointment,5pm,the 14th,Martha,-,-
+swimming activity,9am,the 4th,brother,-,-
+swimming activity,4pm,the 19th,brother,-,-
+taking medicine,4pm,the 10th,mother,-,-
+swimming activity,5pm,tuesday,Jon,-,-
+football activity,4pm,the 13th,Alex,-,-
+dinner,7pm,the 10th,Tom,-,-
+taking medicine,11am,saturday,Jeff,-,-
+conference,9am,the 4th,HR,discuss the company picnic,100 conference room
+meeting,3pm,friday,boss,go over quarterly report,100 conference room
+meeting,2pm,the 8th,HR,go over quarterly report,conference room 102
+lab appointment,9am,the 3rd,Alex,-,-
+tennis activity,10am,monday,Ana,-,-
+meeting,4pm,the 17th,infrastructure team,discuss the merger,100 conference room
+doctor appointment,7pm,the 20th,Martha,-,-
+taking medicine,2pm,the 2nd,Ana,-,-
+yoga activity,1pm,the 17th,mother,-,-
+optometrist appointment,11am,the 6th,Jon,-,-
+lab appointment,2pm,the 18th,Martha,-,-
+meeting,9am,the 5th,HR,go over quarterly report,conference room 102
+taking medicine,9am,friday,Jon,-,-
+meeting,11am,the 18th,infrastructure team,discuss the company picnic,conference room 50
+lab appointment,10am,the 10th,Marie,-,-
+taking medicine,9am,the 10th,Tom,-,-
+meeting,1pm,the 19th,infrastructure team,go over quarterly report,conference room 102
+meeting,5pm,the 12th,sales team,discuss dress code,conference room 100
+lab appointment,6pm,the 20th,brother,-,-
+conference,2pm,sunday,HR,go over budget,conference room 50
+conference,2 pm,monday,infrastructure team,go over budget,conference room 102
+tennis activity,11 am,wednesday,-,-,-
+lab appointment,1 pm,friday,-,-,-
+meeting,1 pm,friday,sales team,go over budget,conference room 102
+swimming activity,7 pm,monday,-,-,-
+dentist,3 pm,thursday,-,-,-
+conference,10am,friday,executive team,go over budget,conference room 102
+tennis activity,5pm,the 10th,Marie,-,-
+swimming activity,6pm,the 10th,Martha,-,-
+doctor appointment,6pm,the 8th,aunt,-,-
+yoga activity,5pm,the 10th,aunt,-,-
+meeting,4pm,the 5th,management,go over quarterly report,100 conference room
+meeting,4pm,the 5th,vice president,go over quarterly report,conference room 100
+doctor appointment,9am,sunday,aunt,-,-
+yoga activity,7pm,the 3rd,father,-,-
+optometrist appointment,2pm,saturday,mother,-,-
+dinner,5pm,tuesday,Marie,-,-
+lab appointment,3pm,the 5th,Tom,-,-
+dentist,10 am,thursday,-,-,-
+optometrist appointment,10 am,monday,-,-,-
+medicine,10 am,wednesday,-,-,-
+lab appointment,3 pm,tuesday,-,-,-
+football activity,10 am,monday,-,-,-
+meeting,11 am,tuesday,HR,go over budget,conference room 102
+dinner,5 pm,monday,-,-,-
+tennis activity,10 am,monday,-,-,-
+dentist,10 am,thursday,-,-,-
+swimming activity,3 pm,tuesday,-,-,-
+medicine,10 am,friday,-,-,-
+meeting,1 pm,tuesday,sales team,discuss the company picnic,conference room 102
+meeting,7 pm,thursday,HR,discuss the company picnic,conference room 100
+swimming activity,2 pm,thursday,-,-,-
+football activity,11 am,monday,-,-,-
+yoga activity,7 pm,monday,-,-,-
+dentist,7 pm,friday,-,-,-
+lab appointment,10 am,wednesday,-,-,-
+lab appointment,1 pm,wednesday,-,-,-
+doctor appointment,7 pm,monday,-,-,-
+dentist,11 am,thursday,-,-,-
+swimming activity,2 pm,thursday,-,-,-
+yoga activity,2 pm,wednesday,-,-,-
+dentist appointment,2 pm,tuesday,-,-,-
+lab appointment,2pm,the 20th,father,-,-
+conference,11am,the 8th,executive team,discuss dress code,conference room 100
+optometrist appointment,10am,tuesday,Alex,-,-
+lab appointment,4pm,the 19th,father,-,-
+football activity,10am,the 18th,mother,-,-
+optometrist appointment,2pm,the 9th,Jon,-,-
+dentist appointment,7pm,friday,father,-,-
+doctor appointment,10am,the 17th,sister,-,-
+doctor appointment,3 pm,thursday,-,-,-
+dentist appointment,1 pm,wednesday,-,-,-
+optometrist appointment,11 am,friday,-,-,-
+dinner,5 pm,tuesday,-,-,-
+football activity,10 am,friday,-,-,-
+tennis activity,10 am,wednesday,-,-,-
+dentist appointment,3pm,the 13th,aunt,-,-
+yoga activity,9am,the 7th,Jon,-,-
+meeting,5pm,the 16th,management,discuss the merger,conference room 50
+conference,1pm,the 15th,executive team,go over budget,100 conference room
+conference,5pm,the 20th,executive team,go over budget,100 conference room
+swimming activity,11am,the 17th,Alex,-,-
+dentist appointment,9am,the 18th,Jon,-,-
+optometrist appointment,3pm,the 2nd,mother,-,-
+optometrist appointment,7pm,the 13th,Ana,-,-
+taking medicine,7pm,the 12th,Jeff,-,-
+taking medicine,11am,the 7th,Marie,-,-
+conference,10am,the 17th,executive team,go over budget,conference room 100
+swimming activity,10am,the 8th,Alex,-,-
+dinner,6pm,the 20th,Jon,-,-
+optometrist appointment,5pm,the 4th,aunt,-,-
+dentist appointment,4pm,sunday,Alex,-,-
+conference,9am,saturday,sales team,discuss the company picnic,conference room 102
+conference,6pm,wednesday,sales team,go over budget,conference room 50
+optometrist appointment,4pm,sunday,Jon,-,-
+football activity,9am,thursday,Marie,-,-
+lab appointment,9am,the 13th,Tom,-,-
+football activity,6pm,thursday,Jeff,-,-
+optometrist appointment,1pm,thursday,Jeff,-,-
+meeting,11am,tuesday,boss,discuss the company picnic,conference room 50
+optometrist appointment,5pm,sunday,Tom,-,-
+yoga activity,7pm,tuesday,Martha,-,-
+taking medicine,10am,the 5th,Martha,-,-
+football activity,11am,the 13th,mother,-,-
+dentist appointment,4pm,friday,sister,-,-
+doctor appointment,11am,the 3rd,brother,-,-
+meeting,7 pm,wednesday,executive team,go over budget,conference room 100
+dentist appointment,1 pm,friday,-,-,-
+tennis activity,2 pm,thursday,-,-,-
+dinner,5 pm,wednesday,-,-,-
+swimming activity,2 pm,tuesday,-,-,-
+doctor appointment,1 pm,tuesday,-,-,-
+medicine,11 am,wednesday,-,-,-
+swimming activity,2 pm,wednesday,-,-,-
+dinner,5 pm,friday,-,-,-
+optometrist appointment,11 am,tuesday,-,-,-
+yoga activity,3 pm,friday,-,-,-
+doctor appointment,11 am,tuesday,-,-,-
+football activity,10am,the 10th,Jon,-,-
+swimming activity,3pm,the 5th,Alex,-,-
+tennis activity,3pm,saturday,Jon,-,-
+conference,6pm,sunday,vice president,go over quarterly report,conference room 100
+optometrist appointment,4pm,saturday,Alex,-,-
+dentist appointment,9am,the 8th,sister,-,-
+doctor appointment,3 pm,wednesday,-,-,-
+dinner,5 pm,wednesday,-,-,-
+swimming activity,3 pm,friday,-,-,-
+lab appointment,10 am,wednesday,-,-,-
+dentist appointment,7 pm,wednesday,-,-,-
+meeting,11 am,wednesday,executive team,discuss the merger,conference room 50
+dinner,7pm,the 6th,Alex,-,-
+dentist appointment,9am,the 8th,Alex,-,-
+football activity,4pm,the 16th,Tom,-,-
+dinner,8pm,the 4th,Jon,-,-
+football activity,2pm,the 19th,Marie,-,-
+football activity,3pm,the 16th,Tom,-,-
+dentist appointment,5pm,the 19th,Marie,-,-
+swimming activity,4pm,the 19th,brother,-,-
+yoga activity,3 pm,tuesday,-,-,-
+conference,10 am,friday,infrastructure team,go over budget,conference room 102
+dentist appointment,10 am,wednesday,-,-,-
+dentist,2 pm,thursday,-,-,-
+optometrist appointment,7 pm,monday,-,-,-
+doctor appointment,10 am,monday,-,-,-
+optometrist appointment,3 pm,thursday,-,-,-
+meeting,1 pm,thursday,sales team,discuss the company picnic,conference room 50
+yoga activity,2 pm,friday,-,-,-
+dinner,5 pm,monday,-,-,-
+tennis activity,7 pm,monday,-,-,-
+swimming activity,3 pm,friday,-,-,-
+taking medicine,6pm,the 9th,Jon,-,-
+football activity,11am,the 20th,Alex,-,-
+taking medicine,4pm,thursday,Tom,-,-
+optometrist appointment,5pm,sunday,Alex,-,-
+conference,7pm,the 1st,management,go over budget,conference room 50
+optometrist appointment,2pm,the 12th,Jeff,-,-
+lab appointment,7pm,the 8th,Martha,-,-
+lab appointment,5pm,the 3rd,Marie,-,-
+dentist,7 pm,wednesday,-,-,-
+conference,10 am,thursday,infrastructure team,discuss the company picnic,conference room 102
+optometrist appointment,7 pm,friday,-,-,-
+medicine,10 am,wednesday,-,-,-
+meeting,2 pm,friday,infrastructure team,discuss the company picnic,conference room 100
+tennis activity,10 am,tuesday,-,-,-
+football activity,1pm,the 6th,Martha,-,-
+doctor appointment,1pm,thursday,Jeff,-,-
+football activity,5pm,the 12th,Marie,-,-
+doctor appointment,9am,the 14th,mother,-,-
+dinner,7pm,friday,Jon,-,-
+football activity,1pm,the 12th,father,-,-
+football activity,4pm,the 17th,Jon,-,-
+football activity,5pm,friday,Jon,-,-
+swimming activity,7pm,the 4th,aunt,-,-
+meeting,4pm,friday,management,discuss dress code,100 conference room
+optometrist appointment,5pm,the 5th,mother,-,-
+football activity,11am,friday,Marie,-,-
+football activity,9am,the 8th,Marie,-,-
+meeting,7pm,friday,management,sign the NDA,conference room 102
+yoga activity,10am,tuesday,Alex,-,-
+dentist appointment,3pm,wednesday,Jeff,-,-
+dentist appointment,4pm,monday,father,-,-
+dentist appointment,1pm,the 12th,aunt,-,-
+doctor appointment,4pm,the 1st,father,-,-
+tennis activity,5pm,the 16th,brother,-,-
+dinner,5pm,the 12th,Ana,-,-
+tennis activity,7pm,the 6th,aunt,-,-
+taking medicine,1pm,the 20th,Ana,-,-
+yoga activity,7pm,thursday,Ana,-,-
+yoga activity,2 pm,monday,-,-,-
+doctor appointment,3 pm,tuesday,-,-,-
+tennis activity,11 am,tuesday,-,-,-
+meeting,7 pm,tuesday,executive team,discuss the company picnic,100 conference room
+dinner,5 pm,thursday,-,-,-
+dentist,1 pm,thursday,-,-,-
+dentist,10 am,monday,-,-,-
+dinner,5 pm,wednesday,-,-,-
+dentist appointment,3 pm,thursday,-,-,-
+meeting,10 am,monday,sales team,discuss the merger,conference room 102
+lab appointment,2 pm,monday,-,-,-
+conference,3 pm,tuesday,infrastructure team,go over budget,conference room 50
+optometrist appointment,2pm,the 13th,brother,-,-
+dentist appointment,2pm,thursday,Marie,-,-
+taking medicine,10am,tuesday,Tom,-,-
+football activity,9am,sunday,Alex,-,-
+lab appointment,5pm,the 4th,Tom,-,-
+dinner,7pm,wednesday,Jon,-,-
+lab appointment,9am,the 8th,Martha,-,-
+swimming activity,10am,the 15th,mother,-,-
+optometrist appointment,7pm,thursday,Marie,-,-
+conference,3pm,the 10th,boss,discuss the merger,conference room 102
+tennis activity,4pm,the 4th,Alex,-,-
+swimming activity,4pm,friday,Jeff,-,-
+lab appointment,5pm,wednesday,Jon,-,-
+swimming activity,5pm,the 17th,father,-,-
+dinner,5pm,monday,sister,-,-
+swimming activity,10am,tuesday,aunt,-,-
+swimming activity,1pm,the 20th,mother,-,-
+yoga activity,2pm,sunday,Jon,-,-
+dentist appointment,1pm,saturday,aunt,-,-
+lab appointment,11am,the 11th,aunt,-,-
+lab appointment,1pm,the 8th,Alex,-,-
+swimming activity,5pm,the 7th,aunt,-,-
+yoga activity,2pm,the 5th,Tom,-,-
+lab appointment,2pm,the 17th,sister,-,-
+lab appointment,6pm,the 10th,brother,-,-
+conference,9am,the 10th,infrastructure team,go over budget,100 conference room
+lab appointment,7pm,the 12th,Jeff,-,-
+dinner,7pm,the 7th,Ana,-,-
+doctor appointment,2pm,thursday,mother,-,-
+yoga activity,3pm,the 1st,Martha,-,-
+meeting,4pm,the 6th,executive team,discuss the company picnic,conference room 50
+meeting,9am,friday,management,onboard new members,100 conference room
+tennis activity,6pm,monday,Jeff,-,-
+swimming activity,5pm,the 5th,mother,-,-
+meeting,10am,saturday,boss,go over quarterly report,conference room 50
+lab appointment,3pm,the 6th,Marie,-,-
+doctor appointment,6pm,the 18th,Jeff,-,-
+conference,3pm,the 14th,boss,go over quarterly report,conference room 50
+conference,10am,the 3rd,vice president,discuss the merger,conference room 102
+dentist appointment,7pm,the 5th,aunt,-,-
+football activity,7pm,the 8th,Tom,-,-
+optometrist appointment,11am,the 5th,mother,-,-
+lab appointment,10am,wednesday,Alex,-,-
+yoga activity,6pm,thursday,sister,-,-
+dentist appointment,3pm,the 17th,Jeff,-,-
+taking medicine,4pm,the 6th,Ana,-,-
+football activity,5pm,saturday,Ana,-,-
+yoga activity,7pm,thursday,Jon,-,-
+swimming activity,1pm,the 8th,aunt,-,-
+swimming activity,6pm,the 8th,Jeff,-,-
+meeting,11am,tuesday,HR,sign the NDA,conference room 100
+swimming activity,11am,the 11th,father,-,-
+swimming activity,2 pm,monday,-,-,-
+optometrist appointment,7 pm,friday,-,-,-
+medicine,1 pm,thursday,-,-,-
+dentist,3 pm,tuesday,-,-,-
+lab appointment,7 pm,thursday,-,-,-
+dentist appointment,2 pm,friday,-,-,-
+yoga activity,5pm,tuesday,brother,-,-
+lab appointment,11am,the 14th,mother,-,-
+swimming activity,9am,the 9th,sister,-,-
+conference,7pm,saturday,vice president,go over budget,conference room 50
+taking medicine,2pm,the 19th,Ana,-,-
+optometrist appointment,10am,the 2nd,Alex,-,-
+lab appointment,1pm,the 11th,Jon,-,-
+dentist appointment,9am,the 6th,aunt,-,-
+lab appointment,2 pm,thursday,-,-,-
+medicine,1 pm,wednesday,-,-,-
+tennis activity,2 pm,tuesday,-,-,-
+doctor appointment,2 pm,wednesday,-,-,-
+meeting,10 am,thursday,HR,discuss the merger,100 conference room
+conference,11 am,friday,HR,discuss the merger,100 conference room
+conference,1pm,the 13th,executive team,discuss the company picnic,conference room 50
+swimming activity,6pm,thursday,Alex,-,-
+tennis activity,4pm,tuesday,brother,-,-
+optometrist appointment,2pm,the 5th,father,-,-
+doctor appointment,4pm,the 4th,sister,-,-
+dentist appointment,2pm,wednesday,father,-,-
+meeting,2 pm,wednesday,HR,discuss the company picnic,100 conference room
+optometrist appointment,3 pm,thursday,-,-,-
+dinner,5 pm,monday,-,-,-
+doctor appointment,1 pm,wednesday,-,-,-
+football activity,3 pm,friday,-,-,-
+dentist,11 am,wednesday,-,-,-
+swimming activity,1 pm,tuesday,-,-,-
+dinner,5 pm,thursday,-,-,-
+doctor appointment,11 am,wednesday,-,-,-
+conference,3 pm,friday,executive team,discuss the merger,conference room 50
+tennis activity,7 pm,friday,-,-,-
+lab appointment,3 pm,wednesday,-,-,-
+dentist,3 pm,wednesday,-,-,-
+yoga activity,11 am,tuesday,-,-,-
+meeting,3 pm,tuesday,executive team,discuss the merger,conference room 100
+swimming activity,2 pm,wednesday,-,-,-
+football activity,3 pm,monday,-,-,-
+dentist appointment,2 pm,friday,-,-,-
+dentist appointment,2pm,the 13th,Ana,-,-
+optometrist appointment,1pm,tuesday,mother,-,-
+dinner,5pm,tuesday,Jeff,-,-
+tennis activity,10am,thursday,Marie,-,-
+dentist appointment,10am,tuesday,Ana,-,-
+doctor appointment,5pm,saturday,aunt,-,-
+tennis activity,1pm,monday,Tom,-,-
+yoga activity,9am,the 8th,Alex,-,-
+football activity,5pm,the 19th,Marie,-,-
+meeting,9am,the 7th,HR,sign the NDA,100 conference room
+taking medicine,1pm,the 3rd,Tom,-,-
+dentist appointment,11am,the 18th,brother,-,-
+doctor appointment,1pm,the 8th,aunt,-,-
+swimming activity,2pm,the 6th,Jeff,-,-
+doctor appointment,5pm,wednesday,Jon,-,-
+yoga activity,10am,the 16th,sister,-,-
+meeting,11am,tuesday,infrastructure team,discuss the merger,conference room 50
+dinner,5pm,the 20th,mother,-,-
+meeting,10am,the 14th,executive team,discuss the company picnic,conference room 102
+lab appointment,7pm,the 17th,aunt,-,-
+doctor appointment,4pm,the 18th,Jeff,-,-
+dentist appointment,2pm,tuesday,aunt,-,-
+dinner,5pm,tuesday,Jon,-,-
+dinner,8pm,the 13th,Jon,-,-
+tennis activity,1 pm,wednesday,-,-,-
+conference,3 pm,friday,HR,discuss the company picnic,conference room 100
+doctor appointment,10 am,monday,-,-,-
+optometrist appointment,11 am,tuesday,-,-,-
+dinner,5 pm,wednesday,-,-,-
+football activity,10 am,thursday,-,-,-
+dinner,7pm,the 5th,Jon,-,-
+tennis activity,6pm,friday,sister,-,-
+dentist appointment,6pm,the 10th,Marie,-,-
+doctor appointment,2pm,the 5th,mother,-,-
+optometrist appointment,5pm,the 4th,Martha,-,-
+taking medicine,9am,the 8th,Alex,-,-
+yoga activity,3pm,sunday,Martha,-,-
+dentist appointment,3pm,monday,Alex,-,-
+dinner,6pm,the 10th,aunt,-,-
+doctor appointment,5pm,monday,Tom,-,-
+taking medicine,6pm,the 5th,mother,-,-
+football activity,4pm,monday,brother,-,-
+dentist appointment,3pm,the 12th,mother,-,-
+football activity,6pm,the 13th,sister,-,-
+dentist appointment,2pm,the 15th,mother,-,-
+optometrist appointment,4pm,the 9th,Marie,-,-
+optometrist appointment,9am,the 2nd,brother,-,-
+meeting,2pm,tuesday,infrastructure team,sign the NDA,conference room 100
+taking medicine,1pm,the 18th,Ana,-,-
+swimming activity,5pm,saturday,Jeff,-,-
+swimming activity,6pm,the 7th,mother,-,-
+taking medicine,2pm,the 19th,brother,-,-
+yoga activity,1pm,the 3rd,Jon,-,-
+yoga activity,1pm,the 16th,aunt,-,-
+conference,10am,the 1st,sales team,go over quarterly report,100 conference room
+doctor appointment,2pm,the 3rd,Alex,-,-
+swimming activity,9am,the 18th,Ana,-,-
+doctor appointment,9am,the 17th,Jeff,-,-
+lab appointment,11 am,thursday,-,-,-
+dentist appointment,1 pm,wednesday,-,-,-
+doctor appointment,11 am,monday,-,-,-
+meeting,11 am,friday,executive team,go over budget,100 conference room
+dinner,5 pm,monday,-,-,-
+football activity,2 pm,friday,-,-,-
+taking medicine,7pm,the 3rd,brother,-,-
+swimming activity,4pm,the 19th,sister,-,-
+football activity,6pm,the 9th,aunt,-,-
+doctor appointment,5pm,the 13th,Martha,-,-
+football activity,4pm,the 8th,Jeff,-,-
+swimming activity,9am,the 8th,Tom,-,-
+football activity,10am,the 15th,father,-,-
+football activity,6pm,the 12th,aunt,-,-
+dinner,5 pm,tuesday,-,-,-
+lab appointment,10 am,monday,-,-,-
+yoga activity,2 pm,tuesday,-,-,-
+meeting,10 am,tuesday,HR,go over budget,conference room 102
+dentist,7 pm,friday,-,-,-
+doctor appointment,10 am,thursday,-,-,-
+doctor appointment,10am,the 15th,Jon,-,-
+doctor appointment,9am,saturday,aunt,-,-
+conference,4pm,saturday,HR,go over budget,conference room 102
+dentist appointment,9am,the 5th,sister,-,-
+lab appointment,7pm,thursday,Alex,-,-
+dentist appointment,2pm,the 13th,mother,-,-
+dentist appointment,7pm,the 13th,Jeff,-,-
+optometrist appointment,5pm,thursday,Jon,-,-
+doctor appointment,7 pm,thursday,-,-,-
+optometrist appointment,7 pm,wednesday,-,-,-
+tennis activity,2 pm,thursday,-,-,-
+football activity,10 am,monday,-,-,-
+conference,3 pm,thursday,executive team,discuss the company picnic,conference room 50
+meeting,10 am,thursday,infrastructure team,discuss the merger,conference room 50
+swimming activity,3pm,the 13th,Jeff,-,-
+yoga activity,9am,sunday,Martha,-,-
+football activity,7pm,thursday,brother,-,-
+meeting,10am,monday,executive team,go over budget,conference room 102
+football activity,3pm,the 5th,Jon,-,-
+dentist appointment,7pm,tuesday,Alex,-,-
+swimming activity,1pm,friday,mother,-,-
+lab appointment,6pm,wednesday,aunt,-,-
+swimming activity,2pm,sunday,brother,-,-
+conference,6pm,the 10th,sales team,discuss dress code,conference room 100
+meeting,7pm,the 4th,executive team,discuss the merger,100 conference room
+tennis activity,11am,sunday,Alex,-,-
+football activity,1pm,thursday,Jeff,-,-
+conference,3pm,wednesday,executive team,go over quarterly report,conference room 102
+dentist appointment,7pm,sunday,Ana,-,-
+swimming activity,11am,the 13th,Marie,-,-
+lab appointment,4pm,monday,father,-,-
+yoga activity,3pm,thursday,Martha,-,-
+meeting,3pm,tuesday,infrastructure team,discuss the company picnic,conference room 102
+dinner,6pm,the 8th,aunt,-,-
+football activity,2pm,sunday,Tom,-,-
+swimming activity,6pm,the 10th,father,-,-
+yoga activity,7 pm,thursday,-,-,-
+medicine,1 pm,friday,-,-,-
+doctor appointment,7 pm,thursday,-,-,-
+conference,2 pm,wednesday,executive team,discuss the company picnic,conference room 100
+dentist,2 pm,friday,-,-,-
+lab appointment,1 pm,monday,-,-,-
+swimming activity,9am,the 20th,aunt,-,-
+conference,10am,the 2nd,management,go over budget,conference room 100
+football activity,4pm,the 8th,mother,-,-
+football activity,4pm,the 14th,Martha,-,-
+dentist appointment,10am,the 6th,sister,-,-
+dentist appointment,2pm,the 16th,sister,-,-
+optometrist appointment,2pm,the 8th,Ana,-,-
+tennis activity,1pm,the 18th,Marie,-,-
+doctor appointment,7 pm,wednesday,-,-,-
+medicine,10 am,monday,-,-,-
+dentist appointment,7 pm,tuesday,-,-,-
+lab appointment,10 am,monday,-,-,-
+yoga activity,10 am,wednesday,-,-,-
+dentist,2 pm,wednesday,-,-,-
+medicine,11 am,wednesday,-,-,-
+swimming activity,1 pm,thursday,-,-,-
+tennis activity,11 am,thursday,-,-,-
+football activity,1 pm,wednesday,-,-,-
+dentist appointment,2 pm,friday,-,-,-
+conference,10 am,wednesday,infrastructure team,go over budget,conference room 50
+swimming activity,9am,the 8th,brother,-,-
+taking medicine,2pm,sunday,Martha,-,-
+lab appointment,10am,the 8th,mother,-,-
+tennis activity,5pm,monday,Martha,-,-
+optometrist appointment,1pm,the 8th,Martha,-,-
+dinner,5pm,sunday,Tom,-,-
+doctor appointment,3 pm,thursday,-,-,-
+dentist,2 pm,friday,-,-,-
+dinner,5 pm,friday,-,-,-
+swimming activity,1 pm,monday,-,-,-
+medicine,2 pm,wednesday,-,-,-
+yoga activity,7 pm,thursday,-,-,-
+yoga activity,11am,the 8th,aunt,-,-
+yoga activity,1pm,thursday,Jeff,-,-
+optometrist appointment,6pm,the 8th,brother,-,-
+taking medicine,1pm,the 5th,Marie,-,-
+swimming activity,4pm,the 12th,Jeff,-,-
+conference,5pm,monday,boss,discuss the company picnic,100 conference room
+yoga activity,5pm,the 2nd,father,-,-
+conference,9am,the 9th,management,go over budget,conference room 50
+tennis activity,5pm,the 15th,aunt,-,-
+optometrist appointment,5pm,the 1st,Martha,-,-
+optometrist appointment,7pm,the 18th,Jeff,-,-
+dinner,7pm,the 1st,sister,-,-
+dentist appointment,5pm,the 16th,mother,-,-
+swimming activity,5pm,the 7th,brother,-,-
+optometrist appointment,1pm,the 20th,Martha,-,-
+doctor appointment,9am,the 6th,Jon,-,-
+dentist appointment,10 am,thursday,-,-,-
+conference,2 pm,wednesday,executive team,discuss the merger,conference room 50
+tennis activity,7 pm,tuesday,-,-,-
+optometrist appointment,2 pm,thursday,-,-,-
+swimming activity,3 pm,wednesday,-,-,-
+yoga activity,10 am,friday,-,-,-
+swimming activity,2pm,thursday,Jeff,-,-
+football activity,7pm,the 2nd,Martha,-,-
+lab appointment,3pm,friday,Marie,-,-
+yoga activity,7pm,the 1st,Jeff,-,-
+yoga activity,10am,the 5th,Marie,-,-
+swimming activity,7pm,the 16th,Jeff,-,-
+optometrist appointment,9am,the 16th,aunt,-,-
+meeting,11am,the 18th,HR,go over quarterly report,conference room 102
+football activity,5pm,the 20th,father,-,-
+meeting,4pm,the 4th,sales team,go over quarterly report,conference room 102
+tennis activity,9am,the 7th,Ana,-,-
+tennis activity,1pm,the 1st,Ana,-,-
+dinner,7pm,the 1st,Martha,-,-
+dentist appointment,3pm,the 15th,Tom,-,-
+swimming activity,4pm,the 10th,Alex,-,-
+conference,2pm,the 18th,sales team,sign the NDA,conference room 102
+meeting,1 pm,wednesday,executive team,go over budget,conference room 100
+dinner,5 pm,monday,-,-,-
+dentist,3 pm,tuesday,-,-,-
+conference,7 pm,wednesday,executive team,discuss the company picnic,conference room 100
+tennis activity,3 pm,tuesday,-,-,-
+swimming activity,1 pm,thursday,-,-,-
+doctor appointment,7 pm,friday,-,-,-
+meeting,3 pm,wednesday,HR,go over budget,conference room 102
+yoga activity,1 pm,tuesday,-,-,-
+dinner,5 pm,monday,-,-,-
+medicine,7 pm,tuesday,-,-,-
+swimming activity,2 pm,friday,-,-,-
+football activity,3 pm,friday,-,-,-
+dentist appointment,11 am,tuesday,-,-,-
+doctor appointment,11 am,friday,-,-,-
+conference,2 pm,thursday,executive team,discuss the company picnic,100 conference room
+medicine,2 pm,monday,-,-,-
+lab appointment,10 am,wednesday,-,-,-
+swimming activity,7 pm,wednesday,-,-,-
+dinner,5 pm,monday,-,-,-
+yoga activity,3 pm,thursday,-,-,-
+dentist,1 pm,monday,-,-,-
+doctor appointment,1 pm,tuesday,-,-,-
+conference,10 am,thursday,executive team,go over budget,conference room 100
+dinner,5 pm,thursday,-,-,-
+football activity,10 am,wednesday,-,-,-
+conference,2 pm,tuesday,infrastructure team,go over budget,conference room 100
+dentist,2 pm,thursday,-,-,-
+meeting,1 pm,wednesday,sales team,discuss the merger,100 conference room
+yoga activity,10 am,wednesday,-,-,-
+taking medicine,2pm,wednesday,aunt,-,-
+football activity,10am,the 13th,Jon,-,-
+optometrist appointment,1pm,the 4th,Alex,-,-
+doctor appointment,4pm,friday,Marie,-,-
+swimming activity,3pm,thursday,sister,-,-
+tennis activity,7pm,thursday,sister,-,-
+conference,11 am,thursday,infrastructure team,go over budget,conference room 100
+swimming activity,10 am,friday,-,-,-
+tennis activity,3 pm,thursday,-,-,-
+dinner,5 pm,wednesday,-,-,-
+lab appointment,7 pm,wednesday,-,-,-
+dentist appointment,10 am,monday,-,-,-
+meeting,7pm,the 9th,HR,discuss the company picnic,conference room 50
+yoga activity,6pm,the 14th,sister,-,-
+football activity,4pm,the 9th,mother,-,-
+dinner,7pm,the 12th,Marie,-,-
+doctor appointment,9am,saturday,father,-,-
+dentist appointment,11am,the 12th,mother,-,-
+meeting,10am,friday,executive team,discuss the merger,conference room 100
+dinner,6pm,the 19th,Ana,-,-
+football activity,11 am,friday,-,-,-
+optometrist appointment,7 pm,monday,-,-,-
+medicine,1 pm,tuesday,-,-,-
+yoga activity,10 am,wednesday,-,-,-
+swimming activity,7 pm,wednesday,-,-,-
+dentist,2 pm,friday,-,-,-
+doctor appointment,2pm,the 5th,sister,-,-
+lab appointment,3pm,monday,sister,-,-
+dinner,5pm,sunday,brother,-,-
+football activity,11am,sunday,Marie,-,-
+tennis activity,6pm,thursday,father,-,-
+meeting,4pm,monday,HR,discuss the merger,conference room 102
+optometrist appointment,2 pm,thursday,-,-,-
+tennis activity,1 pm,friday,-,-,-
+dentist,3 pm,tuesday,-,-,-
+doctor appointment,11 am,monday,-,-,-
+dentist appointment,11 am,monday,-,-,-
+yoga activity,7 pm,wednesday,-,-,-
+conference,3 pm,thursday,HR,discuss the merger,conference room 100
+dentist,2 pm,thursday,-,-,-
+dinner,5 pm,monday,-,-,-
+medicine,3 pm,thursday,-,-,-
+swimming activity,2 pm,friday,-,-,-
+yoga activity,1 pm,tuesday,-,-,-
+doctor appointment,10 am,wednesday,-,-,-
+yoga activity,2 pm,monday,-,-,-
+lab appointment,7 pm,friday,-,-,-
+dentist appointment,1 pm,tuesday,-,-,-
+conference,11 am,wednesday,executive team,discuss the company picnic,conference room 102
+meeting,3 pm,friday,sales team,discuss the company picnic,conference room 100
+yoga activity,3pm,the 4th,sister,-,-
+doctor appointment,1pm,sunday,Alex,-,-
+dentist appointment,2pm,friday,aunt,-,-
+football activity,10am,monday,Martha,-,-
+optometrist appointment,11am,wednesday,Jeff,-,-
+lab appointment,3pm,sunday,Marie,-,-
+football activity,1pm,the 8th,aunt,-,-
+football activity,9am,sunday,sister,-,-
+dinner,7pm,the 15th,aunt,-,-
+dinner,7pm,the 16th,mother,-,-
+meeting,6pm,the 17th,HR,sign the NDA,conference room 100
+doctor appointment,2pm,the 14th,mother,-,-
+meeting,6pm,friday,sales team,discuss the company picnic,conference room 100
+taking medicine,3pm,the 8th,brother,-,-
+conference,9am,the 6th,executive team,discuss the company picnic,conference room 50
+dinner,8pm,the 15th,Tom,-,-
+doctor appointment,11am,the 17th,aunt,-,-
+yoga activity,1pm,the 14th,Ana,-,-
+swimming activity,6pm,thursday,father,-,-
+conference,5pm,friday,HR,discuss dress code,conference room 50
+dentist appointment,6pm,the 13th,Martha,-,-
+optometrist appointment,11am,the 18th,Jeff,-,-
+lab appointment,7pm,the 14th,sister,-,-
+yoga activity,11am,the 3rd,brother,-,-
+dentist appointment,11 am,monday,-,-,-
+lab appointment,10 am,friday,-,-,-
+medicine,10 am,tuesday,-,-,-
+doctor appointment,1 pm,thursday,-,-,-
+conference,7 pm,thursday,executive team,discuss the merger,conference room 102
+meeting,1 pm,monday,HR,go over budget,100 conference room
+football activity,5pm,the 4th,Jeff,-,-
+conference,3pm,the 20th,management,go over quarterly report,conference room 50
+football activity,4pm,saturday,Jeff,-,-
+football activity,11am,the 7th,Martha,-,-
+taking medicine,6pm,monday,aunt,-,-
+dentist appointment,7pm,thursday,Jeff,-,-
+dinner,5pm,the 16th,Tom,-,-
+dentist appointment,3pm,the 6th,brother,-,-
+optometrist appointment,3pm,sunday,Martha,-,-
+conference,9am,the 10th,HR,discuss the merger,100 conference room
+conference,7pm,the 8th,management,discuss the merger,conference room 100
+optometrist appointment,9am,the 8th,Marie,-,-
+doctor appointment,4pm,the 3rd,Martha,-,-
+dentist appointment,5pm,the 8th,brother,-,-
+dinner,7pm,wednesday,Marie,-,-
+lab appointment,7pm,the 10th,aunt,-,-
+meeting,10 am,tuesday,sales team,discuss the merger,100 conference room
+lab appointment,3 pm,tuesday,-,-,-
+tennis activity,3 pm,friday,-,-,-
+swimming activity,11 am,tuesday,-,-,-
+optometrist appointment,3 pm,friday,-,-,-
+dentist,1 pm,thursday,-,-,-
+taking medicine,5pm,the 7th,brother,-,-
+meeting,7pm,the 11th,HR,discuss the merger,100 conference room
+swimming activity,3pm,saturday,Jon,-,-
+yoga activity,3pm,friday,Jeff,-,-
+taking medicine,4pm,monday,Alex,-,-
+swimming activity,11am,wednesday,aunt,-,-
+taking medicine,1pm,the 8th,Jeff,-,-
+dinner,6pm,monday,Tom,-,-
+taking medicine,3pm,the 3rd,Tom,-,-
+dentist appointment,5pm,the 19th,Jon,-,-
+meeting,5pm,the 5th,HR,go over quarterly report,100 conference room
+swimming activity,4pm,tuesday,Marie,-,-
+taking medicine,5pm,saturday,brother,-,-
+conference,10am,saturday,HR,go over budget,conference room 50
+yoga activity,10am,the 14th,Martha,-,-
+taking medicine,7pm,the 17th,sister,-,-
+optometrist appointment,2 pm,tuesday,-,-,-
+football activity,1 pm,wednesday,-,-,-
+conference,11 am,friday,infrastructure team,discuss the company picnic,conference room 102
+lab appointment,3 pm,wednesday,-,-,-
+meeting,2 pm,friday,sales team,discuss the company picnic,100 conference room
+dentist,10 am,thursday,-,-,-
+dinner,5 pm,thursday,-,-,-
+optometrist appointment,7 pm,tuesday,-,-,-
+conference,10 am,monday,executive team,go over budget,conference room 102
+dentist appointment,10 am,monday,-,-,-
+medicine,1 pm,monday,-,-,-
+dentist,1 pm,wednesday,-,-,-
+taking medicine,5pm,sunday,father,-,-
+dinner,5pm,saturday,sister,-,-
+football activity,5pm,the 4th,Tom,-,-
+doctor appointment,6pm,sunday,Jeff,-,-
+meeting,4pm,the 10th,executive team,discuss dress code,conference room 102
+dinner,6pm,thursday,mother,-,-
+dentist appointment,11am,the 3rd,Alex,-,-
+doctor appointment,2pm,the 4th,Tom,-,-
+optometrist appointment,3 pm,friday,-,-,-
+dentist,11 am,thursday,-,-,-
+dinner,5 pm,monday,-,-,-
+swimming activity,3 pm,tuesday,-,-,-
+lab appointment,10 am,monday,-,-,-
+doctor appointment,7 pm,thursday,-,-,-
+dinner,5pm,the 13th,Tom,-,-
+swimming activity,3pm,wednesday,Martha,-,-
+dentist appointment,2pm,monday,Jon,-,-
+meeting,5pm,the 13th,infrastructure team,discuss dress code,conference room 102
+yoga activity,9am,wednesday,Jon,-,-
+conference,5pm,friday,infrastructure team,discuss the merger,100 conference room
+meeting,7pm,the 10th,management,discuss the company picnic,100 conference room
+dentist appointment,9am,friday,sister,-,-
+lab appointment,4pm,saturday,Martha,-,-
+doctor appointment,10am,the 10th,aunt,-,-
+yoga activity,2pm,the 13th,father,-,-
+lab appointment,6pm,sunday,Ana,-,-
+football activity,6pm,saturday,brother,-,-
+dentist appointment,3pm,the 8th,aunt,-,-
+yoga activity,2pm,wednesday,brother,-,-
+doctor appointment,10am,wednesday,Jon,-,-
+tennis activity,9am,tuesday,Marie,-,-
+dentist appointment,3pm,tuesday,aunt,-,-
+conference,2pm,friday,HR,discuss dress code,100 conference room
+dinner,6pm,friday,aunt,-,-
+doctor appointment,6pm,the 4th,Jeff,-,-
+tennis activity,3pm,thursday,Alex,-,-
+optometrist appointment,4pm,thursday,brother,-,-
+lab appointment,7pm,the 3rd,sister,-,-
+tennis activity,9am,the 19th,Alex,-,-
+swimming activity,6pm,saturday,brother,-,-
+doctor appointment,5pm,the 5th,brother,-,-
+doctor appointment,1pm,the 8th,Marie,-,-
+doctor appointment,1 pm,tuesday,-,-,-
+football activity,7 pm,tuesday,-,-,-
+yoga activity,11 am,thursday,-,-,-
+lab appointment,7 pm,wednesday,-,-,-
+swimming activity,2 pm,tuesday,-,-,-
+dentist,1 pm,tuesday,-,-,-
+dentist,10 am,monday,-,-,-
+doctor appointment,11 am,monday,-,-,-
+conference,7 pm,friday,executive team,discuss the company picnic,conference room 50
+football activity,3 pm,thursday,-,-,-
+swimming activity,7 pm,tuesday,-,-,-
+dentist appointment,1 pm,thursday,-,-,-
+football activity,1 pm,monday,-,-,-
+optometrist appointment,1 pm,wednesday,-,-,-
+conference,10 am,friday,infrastructure team,discuss the merger,conference room 100
+doctor appointment,1 pm,wednesday,-,-,-
+dentist,7 pm,thursday,-,-,-
+yoga activity,10 am,tuesday,-,-,-
+doctor appointment,5pm,monday,Tom,-,-
+dentist appointment,3pm,monday,Martha,-,-
+tennis activity,4pm,saturday,brother,-,-
+lab appointment,7pm,wednesday,sister,-,-
+football activity,6pm,the 13th,Jeff,-,-
+doctor appointment,11am,the 5th,father,-,-
+tennis activity,1pm,saturday,aunt,-,-
+doctor appointment,7pm,the 3rd,father,-,-
+yoga activity,5pm,sunday,Tom,-,-
+yoga activity,9am,the 3rd,Tom,-,-
+dentist appointment,1pm,the 10th,Jon,-,-
+football activity,9am,friday,Ana,-,-
+yoga activity,4pm,saturday,Tom,-,-
+swimming activity,2pm,saturday,mother,-,-
+doctor appointment,2pm,wednesday,Tom,-,-
+football activity,9am,the 4th,Jon,-,-
+dinner,5 pm,wednesday,-,-,-
+dentist appointment,1 pm,monday,-,-,-
+doctor appointment,1 pm,monday,-,-,-
+meeting,1 pm,thursday,sales team,go over budget,conference room 50
+dentist,2 pm,wednesday,-,-,-
+yoga activity,11 am,tuesday,-,-,-
+taking medicine,3pm,the 3rd,Marie,-,-
+dentist appointment,4pm,the 3rd,Jon,-,-
+swimming activity,5pm,thursday,aunt,-,-
+conference,10am,sunday,sales team,discuss the merger,conference room 100
+yoga activity,11am,friday,aunt,-,-
+meeting,3pm,the 8th,boss,go over quarterly report,conference room 100
+conference,9am,monday,boss,discuss the merger,conference room 100
+doctor appointment,5pm,the 5th,mother,-,-
+dentist appointment,7pm,the 4th,brother,-,-
+swimming activity,5pm,thursday,Ana,-,-
+doctor appointment,3pm,wednesday,Marie,-,-
+swimming activity,11am,thursday,Marie,-,-
+meeting,3pm,friday,infrastructure team,onboard new members,conference room 50
+dentist appointment,10am,friday,mother,-,-
+football activity,1 pm,monday,-,-,-
+dinner,5 pm,friday,-,-,-
+tennis activity,2 pm,tuesday,-,-,-
+conference,7 pm,monday,sales team,discuss the merger,100 conference room
+swimming activity,3 pm,thursday,-,-,-
+yoga activity,3 pm,monday,-,-,-
+conference,7pm,the 16th,sales team,go over budget,conference room 102
+conference,9am,the 3rd,management,discuss the merger,conference room 100
+optometrist appointment,6pm,friday,Martha,-,-
+swimming activity,2pm,the 18th,aunt,-,-
+yoga activity,10am,the 20th,sister,-,-
+conference,2pm,the 4th,sales team,sign the NDA,conference room 50
+swimming activity,4pm,the 14th,brother,-,-
+yoga activity,2pm,the 12th,aunt,-,-
+lab appointment,5pm,the 19th,aunt,-,-
+conference,6pm,monday,management,discuss the company picnic,conference room 50
+lab appointment,1pm,tuesday,aunt,-,-
+lab appointment,5pm,the 15th,Tom,-,-
+conference,3pm,the 17th,boss,discuss dress code,conference room 50
+tennis activity,9am,monday,Tom,-,-
+lab appointment,2pm,the 6th,Marie,-,-
+conference,2pm,the 13th,HR,sign the NDA,conference room 50
+lab appointment,10am,wednesday,Marie,-,-
+conference,6pm,the 12th,infrastructure team,go over quarterly report,conference room 100
+doctor appointment,7pm,sunday,Jon,-,-
+lab appointment,7pm,sunday,mother,-,-
+lab appointment,10am,the 10th,Ana,-,-
+conference,9am,the 12th,infrastructure team,discuss dress code,100 conference room
+doctor appointment,4pm,the 20th,Alex,-,-
+tennis activity,10am,the 17th,Jeff,-,-
+swimming activity,2pm,thursday,Alex,-,-
+doctor appointment,2pm,the 4th,father,-,-
+swimming activity,1pm,wednesday,Marie,-,-
+meeting,6pm,the 3rd,HR,discuss the company picnic,conference room 100
+lab appointment,9am,sunday,Jon,-,-
+lab appointment,9am,the 8th,Marie,-,-
+swimming activity,3pm,wednesday,mother,-,-
+meeting,3pm,the 4th,executive team,discuss dress code,conference room 50
+tennis activity,9am,the 16th,sister,-,-
+conference,7pm,the 18th,vice president,go over budget,conference room 100
+lab appointment,2pm,sunday,Martha,-,-
+dinner,6pm,the 17th,mother,-,-
+football activity,9am,the 1st,Tom,-,-
+swimming activity,1pm,the 8th,Jeff,-,-
+lab appointment,4pm,the 3rd,Jeff,-,-
+optometrist appointment,4pm,the 19th,Tom,-,-
+dentist appointment,2pm,the 6th,Jon,-,-
+conference,7pm,monday,vice president,discuss dress code,100 conference room
+conference,11am,the 7th,boss,discuss dress code,conference room 102
+football activity,6pm,the 12th,Ana,-,-
+meeting,1pm,friday,HR,sign the NDA,conference room 50
+doctor appointment,11am,the 1st,mother,-,-
+lab appointment,10am,thursday,Marie,-,-
+conference,11am,thursday,infrastructure team,discuss the company picnic,conference room 50
+tennis activity,3pm,friday,Ana,-,-
+meeting,9am,tuesday,infrastructure team,discuss the company picnic,conference room 102
+swimming activity,4pm,the 8th,father,-,-
+conference,3pm,saturday,management,go over quarterly report,conference room 50
+meeting,4pm,the 8th,boss,discuss dress code,conference room 100
+lab appointment,1pm,sunday,Jeff,-,-
+taking medicine,3pm,sunday,Jon,-,-
+meeting,2pm,saturday,vice president,go over budget,100 conference room
+swimming activity,6pm,the 9th,Marie,-,-
+dentist appointment,10am,the 3rd,Jeff,-,-
+dentist appointment,7pm,the 6th,father,-,-
+dentist appointment,10am,the 10th,Jon,-,-
+football activity,10am,the 6th,aunt,-,-
+football activity,7pm,the 18th,Martha,-,-
+dinner,7pm,saturday,Martha,-,-
+optometrist appointment,7pm,the 4th,aunt,-,-
+yoga activity,3 pm,friday,-,-,-
+football activity,1 pm,tuesday,-,-,-
+doctor appointment,3 pm,thursday,-,-,-
+tennis activity,7 pm,monday,-,-,-
+swimming activity,1 pm,tuesday,-,-,-
+dentist,1 pm,wednesday,-,-,-
+swimming activity,4pm,the 5th,Jon,-,-
+meeting,7pm,sunday,vice president,sign the NDA,conference room 50
+meeting,11am,the 8th,management,go over quarterly report,100 conference room
+meeting,6pm,friday,vice president,go over budget,conference room 50
+meeting,1pm,sunday,boss,onboard new members,conference room 50
+dinner,5pm,the 13th,father,-,-
+dinner,7pm,saturday,aunt,-,-
+dinner,6pm,wednesday,aunt,-,-
+swimming activity,1 pm,friday,-,-,-
+tennis activity,11 am,friday,-,-,-
+doctor appointment,11 am,tuesday,-,-,-
+yoga activity,1 pm,thursday,-,-,-
+medicine,3 pm,wednesday,-,-,-
+meeting,7 pm,thursday,HR,discuss the company picnic,conference room 102
+football activity,7 pm,tuesday,-,-,-
+lab appointment,2 pm,wednesday,-,-,-
+optometrist appointment,7 pm,wednesday,-,-,-
+medicine,11 am,monday,-,-,-
+meeting,1 pm,friday,executive team,go over budget,conference room 50
+dinner,5 pm,tuesday,-,-,-
+tennis activity,11 am,monday,-,-,-
+dinner,5 pm,wednesday,-,-,-
+dentist,1 pm,monday,-,-,-
+medicine,10 am,friday,-,-,-
+football activity,10 am,tuesday,-,-,-
+yoga activity,2 pm,tuesday,-,-,-
+dentist appointment,2 pm,friday,-,-,-
+meeting,2 pm,monday,sales team,discuss the company picnic,100 conference room
+dinner,5 pm,monday,-,-,-
+swimming activity,3 pm,monday,-,-,-
+yoga activity,10 am,friday,-,-,-
+tennis activity,10 am,friday,-,-,-
+optometrist appointment,11am,thursday,Tom,-,-
+tennis activity,4pm,tuesday,Martha,-,-
+swimming activity,4pm,the 8th,Jeff,-,-
+optometrist appointment,7pm,the 3rd,Jeff,-,-
+swimming activity,5pm,sunday,Martha,-,-
+swimming activity,2pm,friday,brother,-,-
+taking medicine,7pm,sunday,Ana,-,-
+swimming activity,2pm,tuesday,Ana,-,-
+tennis activity,7pm,sunday,Alex,-,-
+conference,2pm,saturday,boss,go over budget,conference room 100
+football activity,9am,wednesday,Jon,-,-
+yoga activity,4pm,monday,sister,-,-
+taking medicine,3pm,the 8th,Alex,-,-
+dinner,6pm,the 13th,Alex,-,-
+optometrist appointment,11am,the 5th,father,-,-
+doctor appointment,5pm,the 14th,Martha,-,-
+conference,6pm,monday,executive team,sign the NDA,100 conference room
+meeting,9am,the 3rd,vice president,sign the NDA,conference room 102
+meeting,2pm,the 14th,boss,discuss dress code,conference room 102
+taking medicine,9am,the 4th,brother,-,-
+conference,7pm,saturday,boss,discuss the merger,conference room 50
+yoga activity,4pm,the 19th,Tom,-,-
+taking medicine,2pm,the 19th,Tom,-,-
+optometrist appointment,7pm,the 13th,aunt,-,-
+optometrist appointment,4pm,the 1st,Jeff,-,-
+dentist appointment,11am,the 3rd,Jeff,-,-
+football activity,6pm,saturday,Tom,-,-
+dentist appointment,5pm,tuesday,Jeff,-,-
+lab appointment,11am,tuesday,Alex,-,-
+tennis activity,2pm,the 15th,Marie,-,-
+swimming activity,3pm,the 6th,Jon,-,-
+conference,6pm,the 14th,sales team,sign the NDA,conference room 50
+yoga activity,5pm,saturday,Tom,-,-
+taking medicine,4pm,the 16th,Alex,-,-
+swimming activity,3pm,the 2nd,Tom,-,-
+yoga activity,11am,friday,aunt,-,-
+football activity,11am,friday,Tom,-,-
+dinner,8pm,the 12th,Jon,-,-
+tennis activity,7 pm,thursday,-,-,-
+dentist appointment,3 pm,monday,-,-,-
+conference,11 am,friday,HR,discuss the merger,conference room 102
+swimming activity,11 am,tuesday,-,-,-
+doctor appointment,11 am,tuesday,-,-,-
+yoga activity,7 pm,monday,-,-,-
+lab appointment,11 am,monday,-,-,-
+swimming activity,3 pm,wednesday,-,-,-
+yoga activity,3 pm,friday,-,-,-
+doctor appointment,2 pm,friday,-,-,-
+conference,3 pm,wednesday,executive team,discuss the company picnic,100 conference room
+dentist appointment,1 pm,tuesday,-,-,-
+yoga activity,11am,the 10th,Martha,-,-
+tennis activity,1pm,the 15th,father,-,-
+conference,2pm,thursday,vice president,onboard new members,conference room 50
+dinner,7pm,the 13th,Martha,-,-
+tennis activity,10am,the 16th,brother,-,-
+tennis activity,4pm,the 14th,brother,-,-
+dentist appointment,1pm,the 1st,Martha,-,-
+doctor appointment,9am,monday,Jon,-,-
+dentist,7 pm,friday,-,-,-
+meeting,2 pm,friday,executive team,discuss the company picnic,conference room 100
+yoga activity,3 pm,friday,-,-,-
+dinner,5 pm,thursday,-,-,-
+doctor appointment,1 pm,thursday,-,-,-
+lab appointment,11 am,tuesday,-,-,-
+dinner,5pm,tuesday,Jon,-,-
+dinner,6pm,the 4th,father,-,-
+football activity,2pm,tuesday,father,-,-
+conference,3pm,the 2nd,boss,sign the NDA,conference room 102
+meeting,2pm,the 19th,executive team,go over budget,conference room 50
+swimming activity,11am,the 8th,Marie,-,-
+swimming activity,7pm,the 13th,Ana,-,-
+conference,7pm,the 14th,HR,discuss the merger,conference room 100
+dinner,5 pm,friday,-,-,-
+doctor appointment,2 pm,tuesday,-,-,-
+dentist,10 am,wednesday,-,-,-
+dentist appointment,10 am,wednesday,-,-,-
+lab appointment,11 am,wednesday,-,-,-
+football activity,2 pm,tuesday,-,-,-
+doctor appointment,1pm,saturday,Ana,-,-
+meeting,1pm,the 4th,executive team,discuss the company picnic,conference room 102
+yoga activity,4pm,the 16th,Marie,-,-
+tennis activity,7pm,friday,Jeff,-,-
+taking medicine,5pm,the 18th,brother,-,-
+dinner,6pm,tuesday,Ana,-,-
+doctor appointment,5pm,the 7th,Martha,-,-
+meeting,4pm,the 19th,sales team,go over quarterly report,conference room 102
+optometrist appointment,3pm,the 2nd,aunt,-,-
+optometrist appointment,3pm,the 2nd,Alex,-,-
+dentist appointment,9am,thursday,Ana,-,-
+doctor appointment,9am,the 18th,Jeff,-,-
+taking medicine,10am,sunday,Ana,-,-
+optometrist appointment,6pm,the 6th,Jon,-,-
+doctor appointment,11am,the 12th,sister,-,-
+lab appointment,1pm,the 10th,Jeff,-,-
+lab appointment,1 pm,friday,-,-,-
+tennis activity,2 pm,thursday,-,-,-
+swimming activity,2 pm,tuesday,-,-,-
+doctor appointment,1 pm,tuesday,-,-,-
+football activity,7 pm,monday,-,-,-
+conference,11 am,monday,infrastructure team,discuss the merger,conference room 100
+doctor appointment,3 pm,friday,-,-,-
+football activity,2 pm,friday,-,-,-
+dentist appointment,1 pm,friday,-,-,-
+meeting,10 am,tuesday,executive team,discuss the company picnic,conference room 100
+dentist,7 pm,friday,-,-,-
+medicine,7 pm,friday,-,-,-
+football activity,11 am,thursday,-,-,-
+swimming activity,1 pm,friday,-,-,-
+meeting,10 am,thursday,infrastructure team,go over budget,conference room 100
+dentist,1 pm,thursday,-,-,-
+medicine,7 pm,wednesday,-,-,-
+lab appointment,3 pm,tuesday,-,-,-
+conference,11am,the 7th,management,sign the NDA,conference room 100
+doctor appointment,3pm,the 13th,Martha,-,-
+yoga activity,3pm,the 18th,Ana,-,-
+dentist appointment,3pm,the 1st,aunt,-,-
+doctor appointment,5pm,the 19th,Jon,-,-
+doctor appointment,3pm,the 14th,aunt,-,-
+conference,10am,monday,infrastructure team,discuss dress code,conference room 50
+doctor appointment,7pm,saturday,aunt,-,-
+optometrist appointment,2pm,friday,Jon,-,-
+swimming activity,2pm,sunday,brother,-,-
+swimming activity,7pm,monday,Alex,-,-
+tennis activity,5pm,the 10th,mother,-,-
+taking medicine,5pm,the 1st,sister,-,-
+lab appointment,6pm,the 17th,Marie,-,-
+swimming activity,5pm,the 6th,brother,-,-
+optometrist appointment,7pm,wednesday,Martha,-,-
+conference,1pm,the 4th,boss,discuss the company picnic,conference room 50
+doctor appointment,4pm,the 13th,Martha,-,-
+dentist appointment,10am,the 4th,sister,-,-
+football activity,4pm,thursday,Jon,-,-
+swimming activity,11am,the 3rd,Tom,-,-
+meeting,6pm,the 4th,executive team,discuss dress code,conference room 102
+tennis activity,4pm,the 10th,mother,-,-
+dinner,8pm,sunday,aunt,-,-
+optometrist appointment,11am,monday,Jon,-,-
+swimming activity,10am,the 8th,Jon,-,-
+conference,11am,the 13th,executive team,go over quarterly report,conference room 50
+conference,4pm,the 10th,sales team,discuss the company picnic,conference room 102
+tennis activity,7pm,the 5th,Tom,-,-
+football activity,1pm,the 5th,sister,-,-
+doctor appointment,7 pm,monday,-,-,-
+medicine,2 pm,monday,-,-,-
+optometrist appointment,11 am,wednesday,-,-,-
+lab appointment,2 pm,monday,-,-,-
+football activity,2 pm,thursday,-,-,-
+yoga activity,1 pm,wednesday,-,-,-
+swimming activity,10am,the 14th,Jon,-,-
+doctor appointment,11am,the 8th,aunt,-,-
+football activity,2pm,the 10th,brother,-,-
+football activity,11am,monday,mother,-,-
+tennis activity,6pm,the 19th,Tom,-,-
+doctor appointment,6pm,the 8th,Ana,-,-
+swimming activity,3pm,friday,Marie,-,-
+conference,9am,thursday,sales team,discuss dress code,conference room 102
+conference,9am,saturday,infrastructure team,discuss dress code,conference room 100
+dentist appointment,5pm,the 3rd,Jeff,-,-
+yoga activity,7pm,the 10th,brother,-,-
+doctor appointment,1pm,wednesday,Jon,-,-
+football activity,11am,friday,brother,-,-
+football activity,7pm,the 8th,Alex,-,-
+dentist appointment,3pm,saturday,father,-,-
+optometrist appointment,3pm,the 3rd,Martha,-,-
+optometrist appointment,10am,the 3rd,Jeff,-,-
+taking medicine,4pm,the 18th,Alex,-,-
+lab appointment,7pm,the 14th,sister,-,-
+dentist appointment,10am,sunday,aunt,-,-
+taking medicine,9am,the 12th,Ana,-,-
+optometrist appointment,3pm,the 7th,Martha,-,-
+doctor appointment,4pm,wednesday,Alex,-,-
+yoga activity,4pm,the 5th,Jeff,-,-
+doctor appointment,2 pm,tuesday,-,-,-
+football activity,7 pm,tuesday,-,-,-
+dentist appointment,1 pm,friday,-,-,-
+conference,3 pm,tuesday,HR,discuss the merger,conference room 102
+swimming activity,2 pm,tuesday,-,-,-
+tennis activity,7 pm,friday,-,-,-
+doctor appointment,11 am,tuesday,-,-,-
+conference,3 pm,friday,sales team,discuss the merger,conference room 100
+yoga activity,11 am,wednesday,-,-,-
+dentist appointment,3 pm,friday,-,-,-
+optometrist appointment,3 pm,thursday,-,-,-
+swimming activity,7 pm,monday,-,-,-
+dentist appointment,2pm,tuesday,Martha,-,-
+dinner,5pm,the 4th,Alex,-,-
+optometrist appointment,1pm,tuesday,father,-,-
+dentist appointment,9am,sunday,aunt,-,-
+doctor appointment,1pm,tuesday,Martha,-,-
+football activity,7pm,the 8th,Jeff,-,-
+meeting,3pm,wednesday,management,discuss the company picnic,conference room 102
+doctor appointment,11am,wednesday,Ana,-,-
+tennis activity,11 am,tuesday,-,-,-
+doctor appointment,3 pm,monday,-,-,-
+optometrist appointment,1 pm,thursday,-,-,-
+dentist,2 pm,thursday,-,-,-
+medicine,10 am,monday,-,-,-
+dinner,5 pm,friday,-,-,-
+conference,2pm,the 13th,HR,discuss dress code,conference room 102
+dentist appointment,2pm,the 7th,Tom,-,-
+swimming activity,11am,the 6th,Jon,-,-
+lab appointment,6pm,thursday,Ana,-,-
+optometrist appointment,5pm,the 9th,father,-,-
+dinner,5pm,the 2nd,sister,-,-
+meeting,7pm,the 7th,infrastructure team,onboard new members,conference room 50
+lab appointment,3pm,saturday,sister,-,-
+meeting,1 pm,monday,infrastructure team,go over budget,conference room 50
+dentist,11 am,thursday,-,-,-
+dinner,5 pm,wednesday,-,-,-
+conference,10 am,friday,HR,discuss the merger,conference room 100
+dentist appointment,3 pm,wednesday,-,-,-
+optometrist appointment,11 am,thursday,-,-,-
+conference,3pm,friday,boss,discuss the company picnic,100 conference room
+meeting,6pm,sunday,boss,discuss the merger,conference room 102
+yoga activity,3pm,the 4th,sister,-,-
+optometrist appointment,6pm,wednesday,father,-,-
+tennis activity,11am,the 13th,Jon,-,-
+swimming activity,6pm,the 8th,Marie,-,-
+taking medicine,2pm,thursday,Martha,-,-
+optometrist appointment,9am,saturday,father,-,-
+conference,9am,the 4th,boss,discuss dress code,100 conference room
+tennis activity,7pm,thursday,aunt,-,-
+dinner,7pm,tuesday,brother,-,-
+lab appointment,1pm,thursday,aunt,-,-
+dentist,2 pm,friday,-,-,-
+doctor appointment,1 pm,wednesday,-,-,-
+medicine,10 am,friday,-,-,-
+optometrist appointment,10 am,thursday,-,-,-
+lab appointment,2 pm,tuesday,-,-,-
+tennis activity,11 am,thursday,-,-,-
+football activity,1pm,the 10th,Jon,-,-
+lab appointment,4pm,the 9th,aunt,-,-
+lab appointment,10am,thursday,brother,-,-
+football activity,5pm,the 20th,sister,-,-
+optometrist appointment,6pm,the 8th,Alex,-,-
+optometrist appointment,1pm,wednesday,Marie,-,-
+taking medicine,5pm,saturday,Martha,-,-
+lab appointment,9am,sunday,father,-,-
+yoga activity,11 am,friday,-,-,-
+doctor appointment,1 pm,monday,-,-,-
+tennis activity,10 am,wednesday,-,-,-
+dentist,1 pm,wednesday,-,-,-
+dentist appointment,10 am,tuesday,-,-,-
+conference,3 pm,monday,sales team,discuss the merger,conference room 100
+conference,6pm,the 10th,sales team,discuss the company picnic,100 conference room
+doctor appointment,9am,saturday,aunt,-,-
+yoga activity,9am,the 5th,mother,-,-
+taking medicine,1pm,friday,sister,-,-
+lab appointment,9am,the 10th,brother,-,-
+meeting,6pm,thursday,sales team,go over budget,100 conference room
+football activity,7pm,the 10th,Alex,-,-
+football activity,9am,the 10th,Tom,-,-
+meeting,3pm,the 3rd,infrastructure team,discuss the company picnic,conference room 100
+swimming activity,5pm,thursday,Alex,-,-
+football activity,1pm,saturday,Martha,-,-
+football activity,1pm,sunday,Ana,-,-
+taking medicine,6pm,friday,Jon,-,-
+swimming activity,2pm,the 3rd,Jeff,-,-
+meeting,7 pm,tuesday,HR,go over budget,conference room 100
+dentist,3 pm,tuesday,-,-,-
+yoga activity,7 pm,wednesday,-,-,-
+tennis activity,3 pm,wednesday,-,-,-
+optometrist appointment,3 pm,monday,-,-,-
+doctor appointment,2 pm,monday,-,-,-
+conference,1 pm,friday,HR,go over budget,conference room 102
+lab appointment,1 pm,thursday,-,-,-
+tennis activity,10 am,thursday,-,-,-
+meeting,3 pm,wednesday,HR,go over budget,100 conference room
+dinner,5 pm,thursday,-,-,-
+yoga activity,11 am,friday,-,-,-
+yoga activity,11am,the 10th,mother,-,-
+dinner,8pm,the 7th,Tom,-,-
+lab appointment,1pm,monday,Ana,-,-
+meeting,3pm,the 13th,boss,discuss the merger,conference room 100
+dentist appointment,2pm,the 1st,Jeff,-,-
+dinner,5pm,the 20th,Jeff,-,-
+football activity,6pm,the 1st,sister,-,-
+tennis activity,4pm,sunday,father,-,-
