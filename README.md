@@ -1,2 +1,2 @@
 # Project
-Attempt to create a seq2seq, goal-oriented bot
+Attempt to create a sequence-to-sequence dialogue bot for goal-oriented task
