@@ -4,7 +4,7 @@ with open("data.json") as read_file:
 
 keys=list(data.keys())
 
-f = open('multidomen_dialogues.txt', 'w')
+f = open('all_dialogues.txt', 'w')
 
 for k in range(len(data)):
     list_ = []
