@@ -13,6 +13,8 @@ for k in keys_train:
     list_ = []
     count_domain = 0
     need_domain = []
+    dif_domain=[]
+    count_2 = []
     for j in range(len(domain)):
         if (len(list(data[k]["goal"][domain[j]].values())) != 0):
             count_domain += 1
@@ -23,6 +25,31 @@ for k in keys_train:
         f = open(name_files[7], 'a')
     for i in range(len(data[k]["log"])):
         list_.append(data[k]["log"][i]["text"])
+        count = 0
+        if count_domain!=1:
+            if len(data[k]["log"][i]['metadata']) != 0:
+                for d in need_domain:
+                    if list(data[k]["log"][i]['metadata'][domain[d]]["semi"].values()).count('') == 0:
+                        count+=1
+                count_2.append(count)
+                if count == 1:
+                    for d in need_domain:
+                        if list(data[k]["log"][i]['metadata'][domain[d]]["semi"].values()).count('') == 0:
+                            dif_domain.append(domain[d])
+                            list_.append(domain[d])
+                            break
+                elif count_2[len(count_2) - 2] == count and count>1:
+                    if len(dif_domain)!=0 and list(data[k]["log"][i]['metadata'][dif_domain[len(dif_domain) - 1]]["semi"].values()).count('') == 0:
+                        dif_domain.append(dif_domain[len(dif_domain) - 1])
+                        list_.append(dif_domain[len(dif_domain) - 1])
+                else:
+                    for d in need_domain:
+                        if list(data[k]["log"][i]['metadata'][domain[d]]["semi"].values()).count('') == 0:
+                            if len(dif_domain)!=0 and dif_domain[len(dif_domain) - 1] != domain[d]:
+                                dif_domain.append(domain[d])
+                                list_.append(domain[d])
+                                break
+
     for index in list_:
         f.write(index + '\n')
     f.write('***\n')
