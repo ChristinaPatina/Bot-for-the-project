@@ -1,0 +1,832 @@
+Hey there. I am hoping you might be able to tell me what kind of entertainment is happening tonight in town near where I am staying. 
+Not a problem. Where are you staying?
+I am in the northern part of town. 
+Sorry, I don't see any attractions in the _area_. Perhaps another area?
+Would you happen to know if there is a swimming pool in the north? 
+There's actually _Choice_.  Would you like more information on them?
+Yes, please! 
+The _Name_ is _Addr_. The_Addr_ Learner pool is_Addr_,_Addr_. Would you like their phone numbers?
+Yes, please give me the phone number for Jesus Green Outdoor Pool.
+The phone number is _Phone_. Can I help you with anything else? 
+Can you also give me the address and entrance fee for the Jesus Green pool?
+The pool is located _Addr_. I don't have the information for the entrance fee, but you can give them a call at _Phone_.
+Thank you that is all I need, bye.
+Great. Have a great day!
+***
+Are there any places to go in the town centre?
+there are _Choice_, anything in particular you are looking for?
+Not especially, just kicking around the town centre for a few hours and looking for something to do.
+Are you sure? We have so many different places to go - I'd love to get some more input from you.
+I just want something to do in the centre of town, can you tell me what sort of places there are?
+Sure. There is _Type_,_Type_,_Type_,_Type_,_Type_,_Type_, _Type_s,_Type_,_Type_ and_Type_.
+Can you recommend a nightclub?
+_Name_ is a _type_ in _area_. Would you like their contact information?
+Yes please. What's its entrance fee, contact number, and postcode?
+_Name_ has an entrance fee of _Fee_. Their postcode is cb12jb, and their phone number is _Phone_. Is there anything else I can help you with?
+No that is it, adios.
+Have a great day, good bye.
+Thanks for your help.
+Give us a call should you need anything .
+***
+I am trying to find information about ADC Theatre, can you help me?
+_name_ is in the _Area_ of town on _Addr_, would you like their phone number? 
+Yes, please give me the phone number.
+Sure, the phone number is _Phone_.  Can I help you with anything else?
+No, actually that takes care of everything I need. Have a great day now!
+You're quite welcome! Thanks for contacting the Cambridge TownInfo Centre and have a great day!
+***
+Can you find me a cinema in town that I can go to?
+Yes, what part of town would you like? There are _type_s in the _Area_ and_Area_ of town.
+Either area is fine. Can you pick one for me and let me know their address?
+The _Name_ is in the _Area_ area of town and the address is _Addr_,_Addr_. Is there anything else I can help you with today?
+Do you know the entrance fee?
+I'm sorry, the entrance fee for _Name_ is _Fee_. Is there anything else you need?
+Yes, can you tell me their address please?
+_Name_ is located at _Addr_,_Addr_, _Post_. Can I help with anything else today?
+So that would be all. Thanks.
+You're welcome. Enjoy your day.
+***
+I am looking for sports facilities in the town centre.
+I'm sorry, there are no sports in the _area_. Would you like me to look for something else?
+What about colleges?
+There are _Choice_ _type_s in _area_. Are you look for_Fee_ or_Fee_? 
+Please tell me one of the free ones, please.
+_Name_ is _Fee_and located in the _area_.
+OK, great, I'll look that up.  That is all I need for now.  Thanks, and bye.
+You are welcome.  Bye.
+***
+I'm looking for a museum in town. 
+There are _Choice_ great _type_s to choose from. Is there a specific area of town you are looking to visit?
+No specific area. Can you recommend one for me?
+The Byard Art _type_ located in the _Area_ area of town is very nice. Would you like information about it?
+Yes, give me the phone number please.
+Sure! The phone number is _Phone_.
+Thanks! That's all the information I needed. Have a great day!
+Thank you. Have a good day.
+***
+Hello, I would like information on club Salsa
+It is a _Type_ located _Area_ where the entrance fee is _Price_.
+Can you let me have their postcode? 
+Absolutely... Their postcode is _Post_. Is there any other information I can provide you with? 
+No, that's all. Thank you.
+You are welcome. Enjoy your day.
+***
+I need a recommendation for some entertainment in the city. 
+I'd be happy to help you. _Name_ is in the _Area_, and_Name_ is_Area_. Would you like more information?
+Do you have anything else closer to the centre of town? Or perhaps a theater?
+The cambridge arts _type_ is in the _area_ area. Would you like more information?
+Yes please, can I have the phone number and entrance fee.
+Sure.  The phone number is _Phone_, but I'm _Price_.
+That's all I need. Thank you for your assistance!
+You are very welcome! Have fun! Goodbye! 
+***
+I would like to visit some of the architecture here in town. Can you help me with this?
+I can indeed. We have several churches and a school renowned for their _type_. Great Saint Mary's Church charges visitors 2 pounds, but the rest are free.
+Can you give me information on a free one and I'd need to know what area of town it is in please.
+_Name_ is _Price_and it's in the _Area_, located at _Addr_. Their number is _Phone_.
+Thank you very much for your help.
+You are very welcome. Was there anything else I can assist you with? 
+No, thank you, that's all I need today. Bye.
+Have fun! Goodbye! 
+***
+I am looking for a college in the west part of town to visit.
+_Name_ and_Name_ and_Name_ all fit your requirements and entrance here is _Price_. Is there a specific _type_ you would like to see?
+I think I would like to visit both Churchill and Magdalene Colleges. May I have their telephone numbers please?
+The phone number for_Name_ is _Phone_, and the phone number for _Name_ College is_Phone_. Can I help you with anything else today?
+No, thank you. Good day.
+You too!
+***
+I'd like to visit a museum in town. What can you suggest? 
+What area would you like to go to?
+I have no preferences for area, can you just suggest a couple?
+The cambridge contemporary art _type_, and the scott polar _type_ are _Choice_ _Fee_ and in the _Area_.
+Can you give me the address for the scott polar museum?
+Sure! The address is _Addr_. Will that be all?
+That's all the help I need today. Thanks for the help. 
+You're welcome, thank you for calling the Cambridge TownInfo centre. Have a great day.
+***
+I need to find a place to go for entertainment.
+Which part of town would you prefer?
+I would like it in the centre, please.
+We do not have any _type_ in the _area_. Would you like to pick a different area?
+Are there any museums in the centre?
+I'm sorry I am not finding any _name_s in the _area_ of town.  Is there any other part of town that could work for you?
+No, I am only looking for entertainment or museums in the centre of town.   Can you look again?
+_Name_ is a great _Type_in the _area_. It's _Fee_to get in, and it's located at _Addr_. Can I help with anything else?
+No, I appreciate your help.
+You are welcome. Have a great day.
+***
+Hello, I am looking for something to do in the west part of town. It sould involve multiple sports.
+Unfortunately none of those places exist here. Any other preferences?
+Hm, can you tell me about what entertainment venues might be on the west side of town instead?
+There's a fun place called _Name_ at _Addr_,_Addr_,_Addr_.
+Thank you, can I please get an address and postal code.   Is there an entrance fee that will be charged.  
+The address is _Addr_,_Addr_,_Addr_ in postcode _Post_. I'm sorry, _Fee_ if there is an entrance fee. Do you need anything else?
+Nope, that's all I needed today. I appreciate your help!
+You are welcome! Have fun! Goodbye! 
+***
+I want to find a museum in the centre of town please.
+_Name_is a _type_ in the _Area_, entry is _Fee_, would you like more details? 
+Yes, please. May have I have phone number and postcode? 
+Yes, the phone number is _Phone_ and the postcode is _Post_. Can I help with anything else today?
+Nope, that's it. Thank you!
+You're welcome!  Have a great day!
+
+
+***
+I would like information on The Cambridge Corn Exchange
+_Name_ is a _Type_ _Area_ area.  I would be happy to book tickets for you.
+No thanks, I just need their phone number, please.
+The phone number for _Name_ is _Phone_. Is there anything else I can help you with today?
+No that is all I need today. Thank you very much.
+You're welcome, have fun!
+***
+I'm in the centre of town and need suggetions on things to see. 
+I have _Choice_ entries for attractions.  Are you looking for architecture, colleges, parks, nightclubs, or maybe a museum?
+Nothing particular. What is your favorite attraction in the centre of town?
+You might enjoy the _Name_. It's a _Type_.
+Sounds fun.  Do you know the entrance fee?
+I'm sorry, it is not listed.  But if you'd like to call them the phone number is _Phone_.  Can I help you with anything else?
+That will be all today. Thank you very much. 
+Thank you for contacting the help desk. Have a great day.
+***
+My brother told me about this attraction place called Abbey Pool and Astroturf Pitch. Would you be able to tell me where it is?
+Yes, _name_ is a _Type_on the _Area_ of town. What other information would you like?
+Could you tell me the entrance fee for that?
+I'm sorry, I don't have that information.  You could call them at _Phone_ and ask though.  Can I help you with anything else?
+No, thanks. I think that will take care of it. Have a good night!
+You're quite welcome! Thanks for contacting the Cambridge TownInfo Centre and have a great day!
+***
+I would like to visit a museum.
+Great! What area are you looking for? 
+Any area would be fine. Can you recommend one for me? 
+The cambridge and county folk _type_ is in the _Area_ area. Would you care for more information on it?
+Oh yes please.  That sounds wonderful.  Can you get me the address and tell me what the entrance fee is?
+Sure.  It's located at _Addr_ and the fee is _Fee_.  Anything else?
+That's great. Thank you so much.
+You are very welcome! Have a great day! Goodbye! 
+***
+I would like to visit a cinema of the west side.
+I am sorry but I do not have any _type_'s on the _area_ side of town, can I check a diffrent location or help find something else for you?
+How about a museum then? 
+I have _Choice_ _type_s in the _area_ of the city, 6 are _Fee_ entry and one is_Fee_. Do you have a preference for a _type_ or a_Type_?
+I would prefer a museum. One with free entry if possible.
+_Name_ is lovely, and they have _Fee_. Would that fit your needs?
+That is fine. Book me a ticket and get me a reference number.
+We don't have the ability to book tickets for the _type_ from here, but if you'd like to contact them, their phone number is _Phone_. Can I help with anything else?
+That's all, thank you.
+You're welcome. Thank you for using Cambridge TownInfo Centre. Goodbye.
+***
+Can you help me find The Fitzwilliam Museum?
+The Fitzwilliam _type_ is in the _Area_, and is located on _Addr_.
+Can I get the address, attraction type, and area please?
+Sure, it is a _type_ in the _Area_, located on _Addr_.  Can I help you with anything else?
+No, you've been great! Thank you for helping.
+Enjoy your visit to the museum. Goodbye!
+***
+I'm looking for some architecture to visit. What are my options?
+All _type_ is in the _Area_. Your options are _Name_,_Name_,_Name_,_Name_, and_Name_.
+How about All Saints? And could I have a postcode please?
+_Name_'s postcode is _Post_. Is there anything else I can help you with?
+That should be all! Thanks! 
+We hope you enjoy your visit. Thank you for contacting us.
+Thank you, goodbye.
+If you need anything else let us know.
+***
+I would like to find a place to go in the centre of town, that includes multiple sports
+Unfortunately, I am not finding anything that meets your criteria. 
+Are there museums instead?
+There are _Choice_ _type_s in the _area_ of town. How about _Name_ in _Addr_,_Addr_,_Addr_?
+That would be perfect. Thanks for all your help. Have a good night. 
+Is there anything else you need help with? 
+No, that's all.
+Okay, then, enjoy your day.
+***
+I am getting ready to go off to college. I thought while I was in town maybe I could visit one. 
+Great idea! There are _Choice_ entries found! What area of town would you like to visit?
+I think I'd like to visit the centre. 
+There are _Choice_ _type_s in the _Area_ but I recommend visiting Downing _type_ and it is _Fee_ to get in.
+Great!  Can I have the address, please?
+Sure, it's located at _Addr_. 
+Great, thank you very much. That's all I need.
+You're welcome. Have a great day!
+***
+Hello, I'm looking for the museum of classical archaeology, could you tell me more about it?
+Certainly, the _name_ is located at _Addr_ and has _Price_ entrance, phone 01223335153. Do you also need the postcode?
+Yes, I'd like that. Thank you so much!
+The postcode for the _Name_ is _Post_. Is there anything else I can help you with?
+No, you've been very helpful.  Thank you.  Bye.
+You're welcome. Goodbye.
+***
+Yes,  i was wondering if there are any cinemas in the centre of town.
+_Name_ is in the _Area_. 
+Can i get their phone number?
+The number is _Phone_. Is there anything else can I do?
+Thank you. I am all set. 
+You are welcome. Have a nice day!
+***
+Are there any places in the south section of town the has to do with multiple sports?
+Unfortunately, I don't see any that are in the _area_. Would you like me to check in another area of town?
+Do you have in attractions in a type of park in the south?
+We have _Choice_ _type_s in the _area_. I recommend _Name_.
+That sounds nice. Can you give me their address, postcode, and phone number, please?
+I sure can. They are located at _Addr_,_Addr_,_Addr_. Their postcode is cb_Choice__Choice_3ae. The phone number is 01_Choice__Choice_3_Choice_43830. Can I help you with anything else?
+No that was all I needed right now, thanks very much. Goodbye.
+Okay.  Have a great time!
+***
+I'm hoping to find a nightclub in town.
+We have _Choice_ _type_s. Any preference on entrance fee?
+No, can you tell me what the entrance fee is?
+_Name_ costs _Fee_.  The others are a bit more expensive.
+Can you please tell me what the phone number is for The Soul Tree?
+Yes, it is _Phone_.
+What is their postcode?
+The Soul Tree is in postcode _Post_. Can I help with anything else today?
+No thank you. That is all the information I need.
+Thank you, good bye.
+***
+I'm looking for a nightclub to visit in the centre area.
+There are _Choice_ _type_s in the _area_ area, there is _Name_,_Name_,_Name_, soul tree _type_ and the_Name_. Would you like more information on one?
+Can I just get the address for Ballare, please?
+_Name_ is located in _Addr_,_Addr_. Is there anything else I can help you with today?
+Oh, no. That answered all my questions. Thanks. Goodbye!
+Awesome.  Glad we could help!
+***
+Would you be able to help me with a particular attraction?
+Sure, what's it called?
+I am looking for the address, postcode and attraction type for people's portraits exhibition at girton college. Thank you.
+Thank you...the address for the _Type_is _Addr_,_Addr_, _Post_. Is there anything else I can help you with? 
+What is the area?
+It is located in the _Area_. Will that be all today?
+Yes, that will be all.  Thanks for your help.  Bye.
+You're welcome. Thank you for using the Cambridge TownInfo centre. Have a great day.
+***
+I would like to find information on boats in town
+I have about _Choice_ different attractions for _type_ing._Choice_ are in the _Area_ and_Choice_ in the_Area_ and_Area_. Do you have a preference on area? 
+No, any is fine. Can you tell me what area one of them is in and also the entrance fee?
+Cam_type_s is on the_Area_ side. Unfortunately _Fee_on the entrance fee. 
+Okay.  Thanks.  
+You're welcome. Can I assist you with anything else?
+No, that's all for today, goodbye.
+Have a great day! Goodbye! 
+***
+Can you find me a theatre in the centre of town?
+We have _Choice_ such places. Any other preferences?
+What are their entrance fees?
+I'm sorry, but we _Price_ on the theaters' entrance fees. Can I help you with anything else?
+How about an address?
+The cambridge arts _type_ is located at _Addr_. Can I provide you any other information?
+No, that's all I need today. Thank you for your help!
+Glad we could help. Thank you for contacting us and have a great day!
+***
+Good Morning, I am looking for a place to on the east side that has entertainment
+Ok, _Name_ is in the _area_ side of town. Would you like the address?
+Yes, and the postcode please! 
+_Post_ is their postcode.
+Thank You. I think that's all I need.
+You're welcome! Have a great day! Goodbye.
+***
+What theaters are on the east side of town?
+Unfortunately, I don't happen to have any located in the _area_. Can I check in a different area for you?
+Ok, well lets try maybe for a swimming pool instead. 
+_Name_is a _Type_ on the _area_ side of town. Would you like their address?
+No but I would like the number and postcode for The Abbey Pool.
+The phone number is _Phone_. Is there anything else I can assist you with?
+Yes, do you have the Abbey Pool postcode, please?
+Sure, it is _Post_.  Will that be all?
+No, that is it. Thanks.
+Ok thank you for using our service & have a good day.
+***
+I'm looking for an attraction called Cambridge Artworks. Do you have any information on it?
+Sure thing! The entrance is _Fee_! It is located at _Addr_ in postcode _Post_.
+Do you have their phone number? 
+Sure, the phone number is _Phone_. Can I help with anything else?
+No, I think that is good.  Thanks for your help and have a nice day.
+Have a wonderful day and enjoy your trip to Cambridge Artworks!
+Okay. Thank you for all your help.
+You are welcome. Thank you for contacting the help desk, and have a great day.
+***
+Can you please help me find a place to go?
+I've found _Choice_ places for you to go. Do you have any specific ideas in mind?
+I'd like a sports place in the centre please. 
+There are no results matching your query. Can I try a different area or type?
+Okay, are there any cinemas in the centre?
+we have vue _type_
+Okay that will work. Can you please tell me their phone number, postcode and the entrance fee? 
+_Name_ can be reached at _Phone_, the postcode is _Post_. _Fee_, I'm sorry.
+No worries, I'll give them a call and find out. Thanks so much for all your help, goodbye. 
+You're welcome. Good Bye
+***
+Can you please help me find a museum?
+Sure! There are _Choice_of great _type_s to choose from. Is there a specific area of town you are looking for? 
+The centre area. looking for Modern Art and the museums phone number please. 
+I recommend _Name_. Their phone number is _Phone_. 
+Great! That is all I need. Thank you.
+You are welcome! Have a nice day.
+***
+I am trying to find a really neat museum to visit. Would you be able to tell me whats available out there? 
+We have _Choice_ interesting _type_s, such as the _Name_,_Name_, and the_Name_. Anything in particular strike your fancy?
+Are any of them in the centre?
+Actually, I have _Choice_ of them in the _area_ area. Might I suggest the _Name_. It has _Open_ and is located at _Addr_. 
+That would be perfect. Can I get the phone number, please?
+Yes. Their phone number is _Phone_. Can I help you with anything else?
+No, not today, thanks. Goodbye.
+Enjoy your visit. Thank you for calling Cambridge TownInfo Centre. Goodbye.
+***
+Yes, I'm looking for a place to go in the south. 
+Sure let me help you with that. Which type of attraction would you like to visit?
+Can you recommend any good museums there?
+The _Name_ is the _Choice__type_ in the _area_ and the entrance fee is _Fee_.
+What is their phone number?
+_Phone_phone number 
+Can you tell me the postcode?
+The postcode is _Post_.  Is there anything else that I can help you with today?
+Nope, that's all I needed today. Thanks!
+Glad I could be of assistance. Have a great day. 
+***
+I am looking for a place to go in the south.
+There are _Choice_ things to do in the _area_. Do you know what kind of attraction you were looking for?
+I have no preference. What do you recommend?
+Well if you're looking for a _Type_I recommend the _Name_. The phone is _Phone_and the address is _Addr_.
+What is the entrance fee?
+The entrance fee is _Fee_. Anything else today?
+no, thanks, that is it for today
+Okay, I hope you enjoy the rest of your day!
+***
+I am looking for a place to go! 
+I can certainly help you find something. Do you have a type of attraction in mind? 
+I like looking at the architecture of old buildings. I think it says a lot about how we used to live.
+We have _Choice_ of interesting _type_ here in Cambridge. Is there a particular area of town you're interested in? 
+What would you suggest?
+Here are _Choice_ suggestions from _Area_: _Name_ and_Name_, both are _Fee_ to visit. 
+The Holy Trinity Church sounds lovely. Can you give me their postcode, please?
+Yes, their postcode is _Post_. Can I get any other information for you? 
+No that will be all. Thanks.
+You're quite welcome. Thanks for contacting the Cambridge TownInfo Centre and have a great day!
+***
+I'm looking for information about a particular attraction. It's called the Man on the Moon. 
+_Name_ is on _Addr_ in _Area_ area.  Would you like to order tickets?
+Not right now. Can you tell me it's postcode and entrance fee?
+I'm sorry, _Price_ in our database regarding their entrance fee, but their postcode is _Post_. Can I help you with anything else?
+No, that's all. Thanks.
+Thank you, goodbye.
+***
+Are there any multiple sports in the centre of town?
+Sorry, not in the _area_. Should I check another area?
+Well, how about a theatre then? I need the phone number.
+There are _Choice_ _Type_ in the town _area_. What address are you staying at so I can find the closest one to you?
+I'm not sure yet. Which one do you recommend?
+I think the _Name_ is great! Would you like more information?
+Yes, I need the entrance fee and phone number?
+_Price_ but their phone number is _Phone_. Is there anything else I can assist you with?
+No thanks, that is all the information I need. Thank you for your time.
+I'm happy to be of help. Goodbye!
+***
+Hi! Can you help me find an attraction to visit in the centre of town? 
+I have _Choice_ options. Did you have an idea what type of attraction you were looking to visit?
+Surprise me. I just need the attraction type, address, and postcode.
+_Name_ is one of my favorite _Type_.  It is at _Addr_,_Addr_,_Addr_, post code _Post_.  Does that sound good?
+That's great. Thanks.
+Is there anything else I can help you with?
+No thanks.  You've been a great help.  Have a nice day.  Bye.
+Thank you. Have a great day, goodbye.
+***
+Hello, I am looking for some entertainment.
+We've got _Choice_ attractions _Area_, is there a particular area you were looking at?
+Nothing in particular. What do you recommend?
+I recommend _Name_ in the _Area_.
+Awesome, could you please give me their phone number?
+Sure, their phone number is _Phone_. Is there anything else I can help you with today?
+No, I think that's it for today. Thank you. Goodbye.
+You're welcome and thanks for using our help desk. Goodbye.
+***
+Do you have information about the Cambridge Museum of Technology?
+Yes, the _name_ is in _Area_. The entrance fee in _Fee_. Would you like a ticket?
+Not at this moment. I would like the museum's postcode, though.
+Their postcode is _Post_
+Thanks.  And it is an actual museum, correct?
+Yes, it is a _type_. Is there anything else you would like to know?
+No, that will cover it. Thanks so much, you've been very helpful.
+Your welcome. Enjoy visit at the cambridge museum of technology 
+***
+I'm in the north area of town and need to get a room to stay in. 
+_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_A_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_r_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_ _type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_y_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_o_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_u_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_ _type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_l_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_o_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_o_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_k_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_i_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_g_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_ _type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_f_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_o_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_r_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_ _type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_ _type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_r_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_o_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_o_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_,_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_ _type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_o_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_r_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_ _type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_o_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_t_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_h_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_r_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_ _type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_t_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_y_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_p_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_ _type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_o_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_f_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_ _type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_s_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_r_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_v_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_i_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_c_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_?_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_n_type___type_a_type_r_type_e_type_a_type___type_a_type___type_a_type_r_type_e_type_a_type___type_m_type___type_a_type_r_type_e_type_a_type___type_e_type___type_a_type_r_type_e_type_a_type___type___type___type_a_type_r_type_e_type_a_type___type_
+Sorry. I'm actually looking for some type of attraction I can go to up in the north. Any suggestions?
+I have _Choice_ different kinds, what type would you like?
+How about your favorite? What type is that?
+I really like the River_Type_ Georgina.  Do you need any information about something like this?
+Yes, what type of attraction is this? Also, could I get the address and postcode?
+It is a _Type_.  The address is _Addr_,_Addr_ and the postcode is _Post_.  Is there anything else you'd like to know?
+I think that is all. Thanks
+You're welcome. Thanks for contacting the Cambridge TownInfo Centre!
+***
+I'm trying to find a good museum in town.
+There are _Choice_ of _type_s in town. What side of town are you in?
+I am open to any side of town! 
+Would you be interested in _Name_?
+That would be great. Can I get the postcode, please?
+Sure.  The postcode is _Post_.  Is there anything else I can answer for you today?
+No, that's all. You've been a great help, thanks. I'm sure my visit will be fun. Goodbye!
+Thank you, goodbye.
+***
+I'm looking for the Kings Hedges Learner Pool. Can you give me their contact info?
+_Name_ phone number is _Phone_, they are located at _Addr_,_Addr_, _Post_. Can I help with anything else? 
+Yes, what area of town is that exactly?
+It is in _Area_, would you like help with anything else? 
+No that is all I need today. Thank you very much!
+You're very welcome! Goodbye!
+***
+I need information on the town centre. 
+Okay I can help with that. What information are you looking for?
+I want to know what attractions are in the centre, please.
+There are _Choice_ wonderful attractions in the _area_ area.  Do you have a specific interest in mind or would you like me to make some suggestions?
+Pick one and I would need the entrance fee and attraction type.
+I recommend the _Name_. It's an _Type_attraction, and it's _Fee_to get in.
+I'll have to check that out. Thank you, that's all the info I needed.
+Okay, thank you for calling the Cambridge TownInfo centre. Have a great day.
+***
+Are there places in town centre of architectural interest?
+There are _Choice_ _Type_ and_Type_ in town, what would you like to see? 
+Surprise me. What are the entrance fees?
+_Name_ is beautiful, and, better yet, it's _Open_!
+That sounds great, thanks so much for your help!
+You are very welcome.  Is there anything else I can help you with?
+No thank you. That's all I needed.
+Thank You, have a nice day. Goodbye.
+***
+Can you see if there are any entertainment attractions in the centre of town?
+Unfortunately there are no _type_ attractions in the _area_ of town. Is there a different area of town that would work for you? 
+What about a museum?
+Yes, there are _Choice_ _type_s. I'd recommend _Name_. It's at 98 King Street cb_Choice_ln and has _Price_ entrance. Would that work for you?
+Yes, that will work great. Can I get their phone number please? 
+Certainly. The _Name_'s phone number is _Phone_. Is there anything else I can help you with today?
+No, that's all I need.  Thanks!
+You are welcome.  Have a great day.  Bye.
+***
+I am looking for a museum to visit! 
+Do you have a preference for which area of town?
+I don't care which part of town it's in. I don't mind doing some walking.
+How about _Name_? It's located in the _Area_, at _Addr_.
+That sounds interesting! What is the post code?
+The postcode for _Name_ is _Post_. Is there anything else you need?
+That'll be all. Thank you!
+Have a great trip!
+***
+I am looking for nearby museums 
+We have _Choice_ fine _type_s in town. Is there a certain area you would like?
+No particular area. May I have the phone number of one you recommend?
+i recommend _Name_
+That sounds good, what is their phone number? 
+Their phone number is 012_Choice_314960. Is there anything else I can assist you with?
+That would be it thank you for all your help.
+I hope you enjoy the museum, and have a great day!
+***
+I'm looking for a park in the south part of town.
+I have _Choice_ _type_s to choose from. Both are _Fee_ to get in. _Name_ and_Name_. Which do you prefer? 
+What's the address for Wandlebury? May I have their phone number, too?
+_Name_ is located on the _Addr_,_Addr_, in_Addr_.  Their phone number is 01_Choice__Choice_3_Choice_43830.  Is there anything else I can assist you with today?
+No, you've answered all of my questions.  Thanks so much.  Bye.
+You're welcome. Enjoy your time at Wandlebury!
+***
+I'm looking for boating activities in town.
+Certainly, we have _Choice_ interesting _type_s. Is there an area of town that you prefer? 
+I do not have a preference. 
+There's Cam_type_s, River_type_ Georgina,_Name_, and_Name_. Would you like more information on any of these?
+Yes, can you tell me the postcode for the Riverboat Georgina, please?
+Sure.  It is _Post_.  Is there anything else I can help you with?
+No, that'll do it for today. Thanks very much for your help!
+You're very welcome! Thanks for contacting the Cambridge TownInfo Centre and have a great day!
+***
+I'm looking for some info on an attraction called Kettle's Yard.
+Absolutely! The _Fee_! It is located in the _Area_. The address is _Addr_! 
+Great thank you for all your help, that's all that I needed to know.
+You're very welcome! Thanks for contacting Cambridge TownInfo centre and have a great day!
+***
+I am looking for a theatre to visit. Would you have any suggestions?
+There are _Choice_ _type_s in town, 4 _Area_ and 1_Area_, do you have a preference for area? 
+The one on the south side, please. Could you tell me it's postcode and if it has an entry fee?
+_Name_ is in the _area_ area. The postcode is _Post_. The entrance fee is _Price_. Would you like the phone number?
+Unlisted!  What a pain.  Okay, I suppose give me the phone number, thanks.
+Sure thing. The phone number is 01223_Choice_11_Choice_11. How else may I help you?
+That's all the information I need. Thank you!
+You're welcome, have a great day. 
+***
+Are there any entertainment spots in the town centre?
+Nothing specifically marked _type_, although we do offer quite a lot to do, from _Type_ to_Type_. 
+Do you have any colleges in the centre area?
+You're in luck. There are _Choice_. I'd recommend visiting _Name_ on _Addr_. Entrance is _Fee_. Would that work for you?
+That sounds perfect. Can you tell me their address and postcode, please?
+Yes, their post code is _Post_and the address is on _Addr_.
+Great, thank you!
+No problem.  Is that all you needed today?
+It is. Thanks again.
+Thank you, goodbye.
+***
+I would like to go to a park in the center of town.
+There is the _Name_which is a _type_.  Will this work for you?
+Yes, what is the address and phone number?
+Their address is _Addr_ and phone number is _Phone_. Is there anything else I can help you with?
+No, that would be all.  Thanks!
+Sure, have a great day.  Bye.
+***
+Can you tell me about the Cambridge university botanic gardens.
+The botanic gardens is a lovely part of the university which is open to the public for a fee of 4 pounds.
+***
+I'm looking for an attraction called Williams Art and Antiques.
+_Name_ is at _Addr_,_Addr_.  Would you like me to book tickets?
+No thank you. Just the area and postcode please.
+It is in the _Area_and the postcode is _Post_.  Is there anything else you need help with today?
+No that's all I needed. Thank you!
+Thank you and enjoy your visit to Williams Art and Antiques!
+***
+I am looking for information on the town centre.
+I can help with that. What information are you looking for?
+Can you recommend a favorite place to go?
+We have _Choice_great attractions in _Area_, from _Type_ to_Type_. Is there a particular kind of attraction you'd like to visit?
+No particular attraction but I do need it to be in the centre. 
+I like _Name_ that's a _Type_in the _area_. Would that interest you? 
+That sounds interesting. How much do they charge for entrance?
+There is no entrance fee, it is _Fee_.
+Thanks, that's all I needed today. Goodbye!
+Thank you, have a great time!  Goodbye.
+***
+I'm a tourist from out of town. But, I was trying to find something fun to do near my hotel. Could you recommend a place?
+I would be more than happy to recommend an attraction, first could you tell me in what part of town your hotel is located?
+It is in the centre of town. 
+There are _Choice_ of places to go in the _Area_. What type of attraction are you looking for?
+Really anything will do. I have to kill some time in between appointments. Can you recommend something and send me the address please?
+How about the _Name_? Their address is _Addr_, in the _area_ of town, and they have _Price_.
+That will do! Thank you very much.
+Is there anything else I can assist you with today?
+Nope, that's all I needed.Thanks so much!
+Oh, you are most welcome. The museum will be awesome. 
+***
+Good afternoon. It's such a beautiful day out and I am visiting here. Can you tell me if there is a park nearby to where I am? 
+I have _Choice_ _type_s in the area, four are _Fee_ and one is _Fee_. If you want to give me your location I can narrow down the results.
+What's in the center of town?
+_Name_ is in the center of the _type_. It is located in _Addr_, the entrance is 4_Fee_.
+That sounds interesting.  Can you just give me their phone number please?
+Their phone number is _Phone_. Can I assist you with anything else?
+No, that's everything. Thank you!
+Have a great day! Goodbye! 
+***
+I want to tour a college in the centre of town. What's available?
+I have _Choice_ different options available. Did you want one with _Fee_ entrance?
+Entrance fee is not an issue. 
+_Name_ is _Fee_ to enter
+Can I have the postcode and address for that college? 
+Yes, it's located at _Addr_, postcode _Post_	. Is there any other information you need? 
+No, that's it.  Thanks.
+Thank you, goodbye.
+***
+Can you help me find a swimmingpool?
+Sure, what part of town are you looking for?
+Something in the North, please.
+There are _Choice_ _Type_ in the _area_ side. Would you like more information on either one or is there anything else I can assist you with today?
+Yes, I want the address and entrance fee to both please.
+_Name_ is located _Addr_. There is _Fee_.
+Okay thank you so much!
+You are welcome. Do you need anything else?
+No, that is it, thank you.
+Thank you, goodbye.
+***
+Tell me what colleges are in the west side of town
+There are _Choice_ _type_s on the _area_ side. _Choice_ have _Fee_ entrance and_Choice_ cost_Fee_. Is there anything else i can help you with? 
+What are the phone numbers for these colleges?
+Churchill _type_'s phone number is _Phone_. 
+That's it.  Thanks!
+Have a great day!
+***
+I am looking for a swimming pool to go to in the north.
+There are two _Type_ to go to in the _area_. Would you rather go to _Name_ or_Name_?
+Great can I get their phone number?
+The phone number for _Name_ is _Phone_, and the number for _Name_ is _Phone_. Is there anything else I can do to help?
+No, thank you.
+Okay. well I have no information on entrance fee but I do have their locations specifics. Would you like those as well?
+No, thank you.
+Well I'm glad I could help you and if there's anything else you need, please call us again.
+***
+Yes, hi. Can you help me locate a cinema. 
+There are _Choice_ _type_s. _Choice_ is in the _Area_._Choice_ is on the_Area_.  Is there anything else i can help you with today? 
+No, that's all I need. 
+Okay. Have a nice day.
+Good bye. 
+Goodbye and thanks for contacting us
+***
+Can you help me locate a swimming pool?
+Yes, there are _Choice_ _Type_,_Choice_ in the _Area_,_Choice_ in the_Area_ and_Choice_ in the_Area_.  Which area would you like?
+Could you give me the address and postcode of one in the North please?
+The _Name_ is _Addr_, and their postcode is cb_Choice_3px. Is there anything else i can help you with today?
+No thanks. I think that should do it. Have a great day. 
+You're welcome. Goodbye!
+***
+I am looking for a place to go.
+Okay, what kind of place are you looking for?
+Nothing in particular. What's the phone number, type, and fee for your favorite place?
+What area will you be staying in and what kind of things do you like?
+I would like the attraction to be in the centre.
+There are _Choice_. What type are you intersted in?
+anything that is good, just recommend any
+Would you be interested in an _Type_ attraction such as great _Name_? They have a _Fee_ entrance fee or there are _Choice_ available for_Fee_.
+May I have the phone number please?
+_Phone_ is the phone number 
+Thank you very much that would be it.
+Enjoy your visit and let us know if you need help with other arrangements in the future.
+I will and thank you for your assistance.
+You're very welcome.
+***
+I am looking for a museum to visit.
+There are _Choice__type_s in town.  Do you have a preference in area? 
+No, what can you recommend?
+Do you like modern art? _Name_ is great, and admission is _Fee_.
+Well, the price is great. What is there postcode?
+Their postcode is _Post_. Is there anything else you need help with today?
+No, you have been very helpful. Thank you.
+You're welcome. Have a great time!
+***
+Yes, i would like help locating an attraction. 
+OK - what type of attraction are you looking for, and in what part of town?
+I'm looking for the entrance fee for Castle Galleries. 
+Their entrance fee is _Fee_. 
+Thanks for the recommendation. That's all the help I need today. 
+You're welcome and thanks for using our help desk. Goodbye.
+***
+Hi! I'm looking for somewhere to go in the centre area. 
+Great! The _area_ has _Choice_ attractions. Are you interested in a particular type?
+I would love to maybe tour a college if I can. 
+We have _Choice_ _type_s in the _area_ area. The downing _type_ is one that is _Fee_ to enter. Would you like more information on this one?
+Yes, and do you have the address and phone number?
+_Name_ is on _Addr_ and the phone number is _Phone_. Is there anything else I can help you with?
+No thank you. You have been very helpful. Have a great day.
+My pleasure. Thank you for calling Cambridge TownInfo Centre. Goodbye.
+***
+Are there museums in the town centre?
+Yes, there are _Choice_ _type_s in the _area_ of town. What other information would you like?
+Can you recommend one and give me their address and postcode? 
+I definitely recommend the _Name_. It's _Fee_ to get in. They are located on _Addr_,_Addr_. The postcode is _Post_. 
+Thanks so much, that sounds perfect.
+Is there anything else I can help you with today?
+No, I think that covers everything. Thanks so much for your help.
+You're welcome, enjoy your visit. 
+***
+I'm looking for a place in the centre of town that is a nightclub.
+There are _Choice_ _type_s in the _area_ area, the one with the lowest entrance fee is soul tree _type_ which is _Fee_ to get in. 
+That sounds like it will work. Can I get their address and postcode? 
+Of course! They're located at _Addr_ with postcode _Post_. Anything else I can do for you?
+No, that's all I need today. Thank you for your help!
+You are welcome! Have fun! Goodbye! 
+***
+Hello, I am looking for People's Portraits Exhibition at Girton College, can you help me?
+Yes.  I see _Name_.  Would you like the address?
+yes, I would like the area and the postcode. 
+It is located in the _Area_, at postcode _Post_. Anything else for you today?
+That is all I need for today. Thanks for your help!
+Have a great day!
+***
+Hello I am looking for a place to go, can you help me?
+I have found _Choice_ place for you. Do you have any specific ideas in mind?
+What attraction types do you have in the west?
+There are mostly _Type_ and_Type_ in the _area_. Would you be interested in one of those?
+Sure, can you recommend one to me and give me the address and type?
+Clare _Type_ is a _Type_, it is located on _Addr_, post code _Post_
+Great! Thank you for all of your help.
+You're quite welcome! Will that be all for today?
+You have helped with what I needed, thank you, goodbye!
+Thank you and enjoy your visit.
+***
+Can you help me find a college in the centre of town? 
+There are a whopping _Choice_ _type_s in the _area_ of the city.  Would you like me to suggest one for you? 
+Which is the best college in the Centre and how can I contact them by phone?
+there are _Choice_ options . can i recommend one for you
+Please recommend one in the centre and I would also like the phone number.
+christ's _type_ is nice.
+That sounds great, can I please get their phone number?
+Of course, their phone number is _Phone_. Is there anything else that I can help you with today?
+That would be all thank you very much.
+Thank you for calling. Have a great day.
+***
+I'm looking for a multiple sports attraction in the centre of town
+I'm afraid that we don't have that type of attraction in the _area_ of town. Perhaps somewhere else? or a different type of attraction?
+Sure, is there a nightclub in that part of town?
+I am sorry, but I did not find a _Type_in the _Area_. If you like I can search in the _Area_, where there are _Choice_ _Type_.
+Would you mind double checking. I thought I visited a nightclub in the centre of town before. 
+Oh, my. I do apologize. I was wrong. There are _Choice_ different _type_s available. _Name_,_Name_,_Name_,_Name_. 
+Could you tell me the entrance fee and phone number for Club Salsa?
+Entry is _Fee_, and the number is _Phone_.
+Thank you for answering all my questions. That's all I need.
+Of course, let me know if you need anything else. 
+***
+Give me information about museums in the west side of town.
+There are _Choice_ _type_s in the _area_ side of town. I highly recommend checking out _Name_ if you've got the time.
+What is the full address and zipcode of Cafe Jello Gallery?
+_Name_ is located at _name_,_Addr_. Their postcode is _Post_. Is there anything else I can assist you with today?
+No that'll be all. Thanks so much!
+Okay, great. Have a great trip. Goodbye.
+***
+I'm trying to find a concert hall in the east part of town.
+Unfortunately, I don't have any listings for _Type_ on the _area_ side. Can I check another area of town for you? 
+How about an entertainment attraction instead? 
+There are _Choice_ _type_ attractions on the _area_ side. Would you like more information?
+Yes and can I have the phone number and address of one of attraction?
+Sure.  _Name_ can be reached at _Phone_.  It is on _Addr_, postcode _Post_.  Can I help you with anything else today?
+Thanks. That's all I need for now.
+Okay Thank you for calling.
+***
+Do you have any details for Jesus Green Outdoor Pool?
+Yes, which details would you like to have?
+I'd like the attraction type, phone number, and entrance fee, please.
+The _Name_ is a _Type_ on the _Area_ end of the city. We don't have any information regarding their entrance fee, but their phone number if _Phone_.
+Alright, that's all. Thank you.
+Thank you, goodbye.
+***
+I am looking for information on the Kings college attraction
+_Name_ is located in the _Area_ at _Addr_. Phone number _Phone_. Is there any other information you need?
+What is the postcode?
+The post code is _Post_
+That is all I needed today, thanks!
+Glad to be of help. Have a great day.
+***
+What attractions do you have in town, preferably near the centre?
+We have _Choice_ attractions in the _area_, _Type_,_Type_,_Type_
+Can you recommend a college in the centre and tell me the entrance fee?
+There are _Choice_ _type_s in the _area_ of town with entrance fees ranging _Price_. Do you have a preference on entry price? 
+Which is your favorite? And what is its entrance fee?
+My favorite is _Name_ and there is _Price_.
+Great, that's all I need. Thank you!
+Thank you, goodbye.
+***
+I'm looking for a museum to visit in the centre of town.
+There are _Choice__type_s in the city _area_. Might I recommend the _type_ of archaelogy and anthropology?
+Tell me more about the anthropology museum please.
+The _name_ is _Price_to get into and is located at the _Addr_. Their phone number is _Phone_.
+What is their postcode?
+Their postcode is _Post_. If you would like to reach them directly, their phone number is _Phone_. Anything else I can help with? 
+No, that is all.  Thanks so much.
+Glad to help.
+***
+Hi I am looking to go to a museum in town please.
+We offer _Choice_ _type_s. Any location preferences?
+Not really. Can you just tell me your favorite and let me know how it will be for me to get in? Oh, and the postcode, for my GPS.
+Sure. Cafe Jello Gallery is my personal favorite. The postcode is cb30af. It is free to get in.
+Great, thank you!
+You're welcome!  Glad to help.
+***
+I am looking for a museum in the town centre.
+May I suggest _Name_ located at _Addr_. The phone number is _Phone_. Admission is _Fee_. 
+Sounds perfect.  What is the postcode?
+The post code is _Post_. Is there anything else you would like to know?
+No, that will be all thank you.
+Thank you and have a pleasant visit, goodbye!
+***
+I'm looking for some entertainment in the center of town.
+I am very sorry there are no results for _type_ in the _area_ area, would you like to try another area or different attraction?
+How about a theatre?
+There are _Choice_ _type_s located in the _area_ of town. How does _Name_ sound?
+That sounds good, what's the phone number?
+The phone number for the cambridge arts _type_ is _Phone_. Can I offer you any other information today?
+Thank you, that's all I need right now. Bye.
+You're very welcome. Goodbye.
+***
+Do you have information about the Saint Barnabas Press Gallery?
+I do, it is located in the _Area_ and is a _Type_, what information would you like about it?
+That's all I needed, thanks so much for your help!
+You are very welcome! Enjoy your trip to the museum!
+***
+Hello.  I'm looking for a place to go in the centre of town. 
+There are _Choice_ of attractions in the _area_ of town. Do you have a specific type in mind?
+No, just architecture. I would also like the phone number and postcode please.
+May I suggest _Name_? the post code is _Post_.
+That sounds great! Can you give me the phone number as well?
+The phone number for _name_ is _Phone_.
+Thanks, that's all I needed today. Goodbye!
+Enjoy your visit to Cambridge, and have a great day!
+***
+Hi! Can you please help me? I'm looking for information on Great Saint Mary's Church.
+Yes I can! _Name_ is located in the _Area_ at _Addr_ in postcode _Post_. The entry fee is _Price_. 
+Thanks very much, that's all I need for now. Goodbye.
+Okay.  Let us know if you need more help.
+***
+Hi, I am looking for a entertainment attraction to visit. Do you have any recommendations?
+What area will you be going to?
+The area doe not matter, just some entertainment. 
+How about the _Name_?
+Sounds good. Could you give me their address please?
+Their address is _Addr_. Is there anything else I can assist you with?
+Yes, I also need their postcode and phone number. 
+Okay, sure. The postcode is _Post_ and the phone number is _Phone_. Anything else?
+Great, thank you for all of your help.
+No, problem. Will that be all for you today?
+Yes, thank you. Goodbye.
+Thank you, goodbye.
+***
+Can you find information about nightclubs?
+Yes, would you like to find a _type_ in the _Area_ or_Area_ part of town? Most of them are in the _Area_.
+Location doesn't really matter.  Is there an entrance fee?
+Yes, all of the listed entrance fees are _Fee_.  The _Name_ is nice.
+Club Salsa sounds right up my alley. Can I get the address and phone number please? 
+_Name_'s address is _Addr_ and their phone number is _Phone_.
+Okay, great! Thanks for your help!
+You're welcome. Can I help you with anything else?
+No thanks. That's it.
+Have fun! Goodbye! 
+***
