@@ -1221,7 +1221,7 @@ I'm going to thanh binh.
 Great.  You are booked with a _Car_.
 I need the contact number please. 
 Certainly. The contact number is _Phone_. Can I help you with anything else?
-No.that’s all I need. Thanks! 
+No.thatÂ’s all I need. Thanks! 
 You're more than welcome!
 ***
 I would like to book a taxi departing from Leverton House and arriving by 07:30.
