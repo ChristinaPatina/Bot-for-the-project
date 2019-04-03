@@ -49,14 +49,15 @@ def replacement(d, k, i, str):
         if len(data[k]["log"][i]['metadata']) == 0:
             return str
         else:
-            if data[k]["log"][i]['metadata'][d]["semi"].get (s) != None:
+            if data[k]["log"][i]['metadata'][d]["semi"].get(s) != None:
                 kb.append(data[k]["log"][i]['metadata'][d]["semi"].get(s))
-            if data[k]["log"][i]['metadata'][d]["book"].get (s) != None:
-                kb.append(data[k]["log"][i]['metadata'][d]["book"].get(s))
+            if data[k]["log"][i]['metadata'][d]["book"].get(s) != None:
+                if data[k]["log"][i]['metadata'][d]["book"].get(s) != "":
+                    kb.append(data[k]["log"][i]['metadata'][d]["book"].get(s))
                 if len(data[k]["log"][i]['metadata'][d]["book"]["booked"]) != 0:
                     for s2 in slots:
-                        if data[k]["log"][i]['metadata'][d]["book"]["booked"].get(s2) != None:
-                            kb2.append(data[k]["log"][i]['metadata'][d]["book"]["booked"].get(s2))
+                        if data[k]["log"][i]['metadata'][d]["book"]["booked"][0].get(s2) != None:
+                            kb2.append(data[k]["log"][i]['metadata'][d]["book"]["booked"][0].get(s2))
                             sl = s2
             for kb_i in kb:
                 z = '_' + s + '_'
@@ -72,33 +73,48 @@ def replacement(d, k, i, str):
 
     slots.clear()
 
-    key = k[0:-5]
+    key = k[0:-5] #the name of the element in the file without .json
     keys = list(acts[key].keys())
-
     for keys_i in keys:
-        keys_in_keys = list(acts[key][keys_i].keys())
-        for kk_i in keys_in_keys:
-            print(len(kk_i))
-            for ii in range(len(acts[key][keys_i][kk_i])):
-                if acts[key][keys_i][kk_i][ii][0] != "none":
-                    if acts[key][keys_i][kk_i][ii][1] != "?":
-                        slots2.append(acts[key][keys_i][kk_i][ii][0])
-                        if slots2.count(acts[key][keys_i][kk_i][ii][0]) == 2:
-                            slots2.remove(acts[key][keys_i][kk_i][ii][0])
-        keys_in_keys.clear()
+        if acts[key][keys_i]!="No Annotation":
+            keys_in_keys = list(acts[key][keys_i].keys())
+            for kk_i in keys_in_keys:
+                for ii in range(len(acts[key][keys_i][kk_i])):
+                    if acts[key][keys_i][kk_i][ii][0] != "none":
+                        if acts[key][keys_i][kk_i][ii][1] != "?":
+                            slots2.append(acts[key][keys_i][kk_i][ii][0])
+                            kb.append(acts[key][keys_i][kk_i][ii][1])
+                            for s2 in slots2:
+                                for kb_i in kb:
+                                    z = '_' + s2 + '_'
+                                    str = re.sub(kb_i, z, str)
+                            slots2.clear()
+                            kb.clear()
+            keys_in_keys.clear()
 
-    for s2 in slots2:
-        for keys_in in keys:
-            keys_in_keys_ = list(acts[key][keys_in].keys())
-            for kk_in in keys_in_keys_:
-                for ind in range(len(acts[key][keys_in][kk_in])):
-                    if acts[key][keys_in][kk_in][ind][0] == s2:
-                        kb.append(acts[key][keys_in][kk_in][ind][1])
-            keys_in_keys_.clear()
+    if d=='police':
+        with open("police_db.json") as read_file:
+            pol_db = json.load(read_file)
 
-        for kb_i in kb:
-            z = '_' + s2 + '_'
-            str = re.sub(kb_i, z, str)
+        slot_keys=list(pol_db[0].keys())
+        for k in slot_keys:
+            z = '_' + k + '_'
+            if k=='id':
+                continue
+            else:
+                str = re.sub(pol_db[0].get(k), z, str)
+
+    if d=='hospital':
+        with open("hospital_db.json") as read_file:
+            hosp_db = json.load(read_file)
+        slots_k_hosp=['department','phone']
+        for id in slots_k_hosp:
+            for i in range(len(hosp_db)):
+                kb.append(hosp_db[i].get(id))
+            for kb_i in kb:
+                z = '_' + id + '_'
+                str = re.sub(kb_i, z, str)
+            kb.clear()
 
     return str
 
@@ -108,9 +124,9 @@ def normalization(one_domain, name_file):
     f = open(name_file, 'w')
     for k in keys_train:
         list_ = []
-        count_domain = 0
-        need_domain = []
-        domen = []
+        count_domain = 0 #how many domains does the dialogue include
+        need_domain = [] #indexes of domains
+        domen = [] #domain names
         for j in range(len(domain)):
             if len(list(data[k]["goal"][domain[j]].values())) != 0:
                 count_domain += 1
@@ -133,5 +149,5 @@ def normalization(one_domain, name_file):
                 f.write('***\n')
     f.close()
 
-
+#for each domain need do this
 normalization('restaurant', norm_files[6])
