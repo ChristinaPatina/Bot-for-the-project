@@ -24,7 +24,8 @@ for k in keys_train:
     else:
         f = open(name_files[7], 'a')
     for i in range(len(data[k]["log"])):
-        list_.append(data[k]["log"][i]["text"])
+        string = re.sub("\n", " ", data[k]["log"][i]["text"])
+        list_.append(string)
         count = 0
         if count_domain!=1:
             if len(data[k]["log"][i]['metadata']) != 0:
