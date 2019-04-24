@@ -53,11 +53,11 @@ for k in keys_train:
                         list_.append(dif_domain[len(dif_domain) - 1])
                         counter+=1
                 else:
-                    for d in need_domain:
-                        if list(data[k]["log"][i]['metadata'][domain[d]]["semi"].values()).count('') == 0:
-                            if len(dif_domain)!=0 and dif_domain[len(dif_domain) - 1] != domain[d]:
-                                dif_domain.append(domain[d])
-                                list_.append(domain[d])
+                    for d in domain:
+                        if len(list(data[k]["log"][i]['metadata'][d]["semi"].values()))!=0 and list(data[k]["log"][i]['metadata'][d]["semi"].values()).count('') == 0:
+                            if len(dif_domain)!=0 and dif_domain[len(dif_domain) - 1] != d:
+                                dif_domain.append(d)
+                                list_.append(d)
                                 counter+=1
                                 break
     if len(list_)!=0:
