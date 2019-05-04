@@ -164,8 +164,6 @@ def replacement(d, k, i, str):
     slots2 = []
     sl = ""
 
-    str = re.sub("\n", " ", str)
-
     str_buf = [str]
     my_dict = dict()
 
@@ -301,6 +299,7 @@ def replacement(d, k, i, str):
 
     
     def normalization(one_domain, name_file):
+
     f = open(name_file, 'w')
     for k in keys_train:
         list_ = []
@@ -319,12 +318,13 @@ def replacement(d, k, i, str):
         if one_domain != 'multi' and k.find("MUL") == -1:
             if len(list(data[k]["goal"][one_domain].values())) != 0:
                 for i in range(len(data[k]["log"])):
+                    str = re.sub("\n", " ", data[k]["log"][i]["text"])
                     if i < len(data[k]["log"]) - 2:
-                        string = replacement(one_domain, k, i, data[k]["log"][i]["text"])
+                        string = replacement(one_domain, k, i, str)
                         list_.append(string)
                     else:
-                        list_.append(data[k]["log"][i]["text"])
-                        tagging(data[k]["log"][i]["text"], dict())
+                        list_.append(str)
+                        #tagging(str, dict())
                 for index in list_:
                     f.write(index + '\n')
                 f.write('***\n')
@@ -336,11 +336,12 @@ def replacement(d, k, i, str):
                     if len(list(data[k]["goal"][d].values())) != 0:
                         for i in range(len(data[k]["log"])):
                             if count == 0:
+                                str = re.sub("\n", " ", data[k]["log"][i]["text"])
                                 if i < len(data[k]["log"])-2:
-                                    string = replacement(d, k, i, data[k]["log"][i]["text"])
+                                    string = replacement(d, k, i, str)
                                     list_.append(string)
                                 else:
-                                    list_.append(data[k]["log"][i]["text"])
+                                    list_.append(str)
                             else:
                                 if i < len(data[k]["log"])-2:
                                     string = replacement(d, k, i, list_[i])
