@@ -151,7 +151,7 @@ def tagging(string: str, my_dict: dict):
 
 def replacement(d, k, i, str):
 
-    kb = []
+   kb = []
     kb2 = []
     slots_r = ['address','postcode','phone','name','area','pricerange','type','people','day','time','reference','food']
     slots_hotel = ['address','postcode','phone','name','area','pricerange','type','internet','parking','stars','people','day','stay','reference']
@@ -163,6 +163,8 @@ def replacement(d, k, i, str):
     slots = []
     slots2 = []
     sl = ""
+
+    str = re.sub("\n", " ", str)
 
     str_buf = [str]
     my_dict = dict()
@@ -181,6 +183,9 @@ def replacement(d, k, i, str):
         slots = slots_train
     if d == 'attraction':
         slots = slots_attr
+
+    #if str == "Please book for 1 person, sunday at 17:45.":
+        #print("===")
 
     for s in slots:
         if len(data[k]["log"][i]['metadata']) == 0:
@@ -202,23 +207,23 @@ def replacement(d, k, i, str):
         for kb_i in kb:
             if kb_i != '':
                 z = ' _' + s + '_ '
-                str = re.sub(" " + kb_i, z, str)
+                str = re.sub(" " + kb_i + r"[.,:()?!\s]", z, str)
                 str_buf.append(str)
                 if str_buf[len(str_buf)-2] != str:
-                    print(k,i)#####
+                    #print(k,i)#####
                     kb_i_ = check(str_buf[len(str_buf)-2], kb_i)
-                    str = re.sub(kb_i_, z, str_buf[len(str_buf)-2])
+                    str = re.sub(" " + kb_i_ + r"[.,:()?!\s]", z, str_buf[len(str_buf)-2])
                     str_buf[len(str_buf)-1] = str
                     my_dict[kb_i_] = z[1:-1]
 
         if len(kb2) != 0:
             for kb2_i in kb2:
                 z = ' _' + sl + '_ '
-                str = re.sub(" " + kb2_i, z, str)
+                str = re.sub(" " + kb2_i + r"[.,:()?!\s]", z, str)
                 str_buf.append(str)
                 if str_buf[len(str_buf) - 2] != str:
                     kb2_i_ = check(str_buf[len(str_buf)-2], kb2_i)
-                    str = re.sub(kb2_i_, z, str_buf[len(str_buf)-2])
+                    str = re.sub(" " + kb2_i_ + r"[.,:()?!\s]", z, str_buf[len(str_buf)-2])
                     str_buf[len(str_buf) - 1] = str
                     my_dict[kb2_i_] = z[1:-1]
 
@@ -243,11 +248,11 @@ def replacement(d, k, i, str):
                                     if kb_i == '+44 1223 568988':
                                         continue
                                     z = ' _' + s2 + '_ '
-                                    str = re.sub(" " + kb_i, z, str_buf[len(str_buf) - 1])
+                                    str = re.sub(" " + kb_i + r"[.,:()?!\s]", z, str_buf[len(str_buf) - 1])
                                     str_buf.append(str)
                                     if str_buf[len(str_buf) - 2] != str:
                                         kb_i_ = check(str_buf[len(str_buf)-2], kb_i)
-                                        str = re.sub(kb_i_, z, str_buf[len(str_buf)-2])
+                                        str = re.sub(" " + kb_i_ + r"[.,:()?!\s]", z, str_buf[len(str_buf)-2])
                                         str_buf[len(str_buf) - 1] = str
                                         my_dict[kb_i_] = z[1:-1]
                         slots2.clear()
@@ -263,7 +268,13 @@ def replacement(d, k, i, str):
             if k == 'id':
                 continue
             else:
-                str = re.sub(pol_db[0].get(k), z, str)
+                str = re.sub(" " + pol_db[0].get(k) + r"[.,:()?!\s]", z, str)
+                str_buf.append(str)
+                if str_buf[len(str_buf) - 2] != str:
+                    kb_i_ = check(str_buf[len(str_buf) - 2], pol_db[0].get(k))
+                    str = re.sub(" " + kb_i_ + r"[.,:()?!\s]", z, str_buf[len(str_buf) - 2])
+                    str_buf[len(str_buf) - 1] = str
+                    my_dict[kb_i_] = z[1:-1]
 
     if d == 'hospital':
         with open("hospital_db.json") as read_file:
@@ -274,16 +285,22 @@ def replacement(d, k, i, str):
                 kb.append(hosp_db[i].get(id))
             for kb_i in kb:
                 z = ' _' + id + '_ '
-                str = re.sub(kb_i, z, str)
+                str = re.sub(" " + kb_i + r"[.,:()?!\s]", z, str)
+                str_buf.append(str)
+                if str_buf[len(str_buf) - 2] != str:
+                    kb_i_ = check(str_buf[len(str_buf) - 2], kb_i)
+                    str = re.sub(" " + kb_i_ + r"[.,:()?!\s]", z, str_buf[len(str_buf) - 2])
+                    str_buf[len(str_buf) - 1] = str
+                    my_dict[kb_i_] = z[1:-1]
             kb.clear()
 
     print(str_buf[len(str_buf)-1], '\n', k, i) #####
-    #tagging(str_buf[0], my_dict)
+    tagging(str_buf[0], my_dict)
 
     return str_buf[len(str_buf)-1]
+
     
     def normalization(one_domain, name_file):
-
     f = open(name_file, 'w')
     for k in keys_train:
         list_ = []
