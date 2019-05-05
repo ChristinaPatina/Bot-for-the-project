@@ -1,0 +1,830 @@
+hey there. i am hoping you might be able to tell me what kind of _type_ is happening tonight in town near where i am staying.
+not a problem. where are you staying?
+i am in the northern part of town.
+sorry, i don't see any attractions in the _area_  perhaps another area?
+would you happen to know if there is a swimming pool in the _area_ 
+there's actually _Choice_   would you like more information on them?
+yes, please!
+the _Name_ is _Addr_  the _Addr_ learner pool is _Addr_ _Addr_  would you like their phone numbers?
+yes, please give me the phone number for _Name_ 
+the phone number is _Phone_  can i help you with anything else?
+can you also give me the address and entrance fee for the jesus green pool?
+the pool is located _Addr_  i don't have the information for the entrance fee, but you can give them a call at _Phone_ 
+Thank you that is all I need, bye.
+Great. Have a great day!
+***
+are there any places to go in the town _area_ 
+there are _Choice_  anything in particular you are looking for?
+not especially, just kicking around the town _area_ for a few hours and looking for something to do.
+are you sure? we have so many different places to go - i'd love to get some more input from you.
+i just want something to do in the _area_ of town, can you tell me what sort of places there are?
+sure. _Type_ is _Type_ _Type_  the cinema, _Type_ _Type_ _Type_ _Type_ _Type_ _Type_ and theatres.
+can you recommend a _type_ 
+ _Name_ is a _type_ in _area_  would you like their contact information?
+yes please. what's its entrance fee, contact number, and postcode?
+ _Name_ has an entrance fee of _Fee_  their postcode is cb12jb, and their phone number is _Phone_  is there anything else i can help you with?
+no that is it, adios.
+have a great day, good bye.
+Thanks for your help.
+Give us a call should you need anything .
+***
+i am trying to find information about _name_  can you help me?
+ _name_ is in the _Area_ of town on _Addr_  would you like their phone number?
+yes, please give me the phone number.
+sure, the phone number is _Phone_   can i help you with anything else?
+No, actually that takes care of everything I need. Have a great day now!
+You're quite welcome! Thanks for contacting the Cambridge TownInfo Centre and have a great day!
+***
+can you find me a _type_ in town that i can go to?
+yes, what part of town would you like? there are cinemas in the _Area_ and _Area_ of town.
+either area is fine. can you pick one for me and let me know their address?
+the cineworld _type_ is in the _Area_ area of town and the address is _Addr_ _Addr_  is there anything else i can help you with today?
+do you know the entrance fee?
+i'm sorry, the entrance fee for cineworld _type_ is _Fee_  is there anything else you need?
+yes, can you tell me their address please?
+cineworld _type_ is located at _Addr_ _Addr_ _Post_  can i help with anything else today?
+So that would be all. Thanks.
+You're welcome. Enjoy your day.
+***
+i am looking for sports facilities in the town _area_ 
+i'm sorry, there are no sports in the _area_  would you like me to look for something else?
+what about colleges?
+there are _Choice_ colleges in _area_  are you look for _Fee_ or _Fee_ 
+please tell me one of the free ones, please.
+emmanuel _type_ is free and located in the _area_ 
+OK, great, I'll look that up.  That is all I need for now.  Thanks, and bye.
+You are welcome.  Bye.
+***
+i'm looking for a _type_ in town.
+there are _Choice_ great _Type_ to choose from. is there a specific area of town you are looking to visit?
+no specific area. can you recommend one for me?
+the byard art _type_ located in the _Area_ area of town is very nice. would you like information about it?
+yes, give me the phone number please.
+sure! the phone number is _Phone_ 
+Thanks! That's all the information I needed. Have a great day!
+Thank you. Have a good day.
+***
+hello, i would like information on _name_ 
+it is a _Type_ located _Area_ where the entrance fee is _Price_ 
+can you let me have their postcode?
+absolutely... their postcode is _Post_  is there any other information i can provide you with?
+No, that's all. Thank you.
+You are welcome. Enjoy your day.
+***
+i need a recommendation for some _type_ in the city.
+i'd be happy to help you. _Name_ is in the _Area_  and _Name_ is in the east. would you like more information?
+do you have anything else closer to the _area_ of town? or perhaps a theater?
+the cambridge arts _type_ is in the _area_ area. would you like more information?
+yes please, can i have the phone number and entrance fee.
+sure.  the phone number is _Phone_  but i'm _Price_ 
+That's all I need. Thank you for your assistance!
+You are very welcome! Have fun! Goodbye! 
+***
+i would like to visit some of the _type_ here in town. can you help me with this?
+i can indeed. we have several churches and a school renowned for their _type_  great saint mary's church charges visitors 2 pounds, but the rest are free.
+can you give me information on a free one and i'd need to know what area of town it is in please.
+ _Name_ is free and it's in the _Area_  located at _Addr_  their number is _Phone_ 
+thank you very much for your help.
+you are very welcome. was there anything else i can assist you with?
+No, thank you, that's all I need today. Bye.
+Have fun! Goodbye! 
+***
+i am looking for a _type_ in the _area_ part of town to visit.
+ _Name_ and churchill _type_ and _Name_ all fit your requirements and entrance here is _Price_  is there a specific _type_ you would like to see?
+i think i would like to visit both churchill and _Name_ colleges. may i have their telephone numbers please?
+the phone number for churchill _type_ is _Phone_  and the phone number for _Name_ _type_ is _Phone_  can i help you with anything else today?
+No, thank you. Good day.
+You too!
+***
+i'd like to visit a _type_ in town. what can you suggest?
+what area would you like to go to?
+i have no preferences for area, can you just suggest a couple?
+the cambridge contemporary art _type_  and the scott polar _type_ are _Choice_ _Fee_ and in the _Area_ 
+can you give me the address for the _name_ 
+sure! the address is _Addr_  will that be all?
+That's all the help I need today. Thanks for the help. 
+You're welcome, thank you for calling the Cambridge TownInfo centre. Have a great day.
+***
+i need to find a place to go for _type_ 
+which part of town would you prefer?
+i would like it in the _area_  please.
+we do not have any _type_ in the _area_  would you like to pick a different area?
+are there any museums in the _area_ 
+i'm sorry i am not finding any museums in the _area_ of town.  is there any other part of town that could work for you?
+no, i am only looking for entertainment or museums in the _area_ of town.   can you look again?
+ _Name_ is a great museum in the _area_  it's free to get in, and it's located at _Addr_  can i help with anything else?
+No, I appreciate your help.
+You are welcome. Have a great day.
+***
+hello, i am looking for something to do in the _area_ part of town. it sould involve multiple sports.
+unfortunately none of those places exist here. any other preferences?
+hm, can you tell me about what _type_ venues might be on the _area_ side of town instead?
+there's a fun place called _Name_ at _Addr_ _Addr_ _Addr_ 
+thank you, can i please get an address and postal code.   is there an entrance fee that will be charged. .
+the address is _Addr_ _Addr_ _Addr_ in postcode _Post_  i'm sorry, i do not know if there is an entrance fee. do you need anything else?
+Nope, that's all I needed today. I appreciate your help!
+You are welcome! Have fun! Goodbye! 
+***
+i want to find a _type_ in the _area_ of town please.
+castle galleries is a _type_ in the _Area_  entry is _Fee_  would you like more details?
+yes, please. may have i have phone number and postcode?
+yes, the phone number is _Phone_ and the postcode is _Post_  can i help with anything else today?
+Nope, that's it. Thank you!
+You're welcome!  Have a great day!  
+***
+i would like information on _name_ 
+ _name_ is a _Type_ _Area_ area.  i would be happy to book tickets for you.
+no thanks, i just need their phone number, please.
+the phone number for the cambridge corn exchange is _Phone_  is there anything else i can help you with today?
+No that is all I need today. Thank you very much.
+You're welcome, have fun!
+***
+i'm in the _area_ of town and need suggetions on things to see.
+i have _Choice_ entries for attractions.  are you looking for architecture, colleges, parks, nightclubs, or maybe a museum?
+nothing particular. what is your favorite attraction in the _area_ of town?
+you might enjoy the _Name_  it's a _Type_ 
+sounds fun.  do you know the entrance fee?
+i'm sorry, it is not listed.  but if you'd like to call them the phone number is _Phone_   can i help you with anything else?
+That will be all today. Thank you very much. 
+Thank you for contacting the help desk. Have a great day.
+***
+my brother told me about this attraction place called _name_  would you be able to tell me where it is?
+yes, _name_ is a swimming pool on the _Area_ of town. what other information would you like?
+could you tell me the entrance fee for that?
+i'm sorry, i don't have that information.  you could call them at _Phone_ and ask though.  can i help you with anything else?
+No, thanks. I think that will take care of it. Have a good night!
+You're quite welcome! Thanks for contacting the Cambridge TownInfo Centre and have a great day!
+***
+i would like to visit a _type_ 
+great! what area are you looking for?
+any area would be fine. can you recommend one for me?
+the cambridge and county folk _type_ is in the _Area_ area. would you care for more information on it?
+oh yes please.  that sounds wonderful.  can you get me the address and tell me what the entrance fee is?
+sure.  it's located at _Addr_ and the fee is _Fee_   anything else?
+That's great. Thank you so much.
+You are very welcome! Have a great day! Goodbye! 
+***
+i would like to visit a _type_ of the _area_ side.
+i am sorry but i do not have any _Type_ on the _area_ side of town, can i check a diffrent location or help find something else for you?
+how about a _type_ then?
+i have _Choice_ _type_ in the _area_ of the city, 6 are _Fee_ entry and one is _Fee_  do you have a preference for a _Type_ or a _Type_ 
+i would prefer a _type_  one with _Fee_ entry if possible.
+the _type_ of classical archaeology is lovely, and they have _Fee_  would that fit your needs?
+that is fine. book me a ticket and get me a reference number.
+we don't have the ability to book tickets for the _type_ from here, but if you'd like to contact them, their phone number is _Phone_  can i help with anything else?
+That's all, thank you.
+You're welcome. Thank you for using Cambridge TownInfo Centre. Goodbye.
+***
+can you help me find _name_ 
+ _name_ is in the _Area_  and is located on _Addr_ 
+can i get the address, attraction type, and area please?
+sure, it is a _type_ in the _Area_  located on _Addr_   can i help you with anything else?
+No, you've been great! Thank you for helping.
+Enjoy your visit to the museum. Goodbye!
+***
+i'm looking for some _type_ to visit. what are my options?
+all _type_ is in the _Area_  your options are all saints church, _Name_ _Name_ _Name_  and _Name_ 
+how about all saints? and could i have a postcode please?
+ _Name_ postcode is _Post_  is there anything else i can help you with?
+that should be all! thanks!
+we hope you enjoy your visit. thank you for contacting us.
+Thank you, goodbye.
+If you need anything else let us know.
+***
+i would like to find a place to go in the _area_ of town, that includes multiple _type_ 
+unfortunately, i am not finding anything that meets your criteria.
+are there _Type_ instead?
+there are _Choice_ _Type_ in the _area_ of town. how about _Name_ in _Addr_ _Addr_ _Addr_ 
+that would be perfect. thanks for all your help. have a good night.
+is there anything else you need help with?
+No, that's all.
+Okay, then, enjoy your day.
+***
+i am getting ready to go off to _type_  i thought while i was in town maybe i could visit one.
+great idea! there are _Choice_ entries found! what area of town would you like to visit?
+i think i'd like to visit the _area_ 
+there are _Choice_ _type_ in the _Area_ but i recommend visiting _Name_ and it is _Fee_ to get in.
+great!  can i have the address, please?
+sure, it's located at _Addr_ 
+Great, thank you very much. That's all I need.
+You're welcome. Have a great day!
+***
+hello, i'm looking for the _name_  could you tell me more about it?
+certainly, the _name_ is located at _Addr_ and has _Price_ entrance, phone 01223335153. do you also need the postcode?
+yes, i'd like that. thank you so much!
+the postcode for the _name_ is _Post_  is there anything else i can help you with?
+No, you've been very helpful.  Thank you.  Bye.
+You're welcome. Goodbye.
+***
+yes,  i was wondering if there are any cinemas in the _area_ of town.
+vue _type_ is in the _Area_ 
+can i get their phone number?
+the number is _Phone_  is there anything else can i do?
+Thank you. I am all set. 
+You are welcome. Have a nice day!
+***
+are there any places in the _area_ section of town the has to do with multiple sports?
+unfortunately, i don't see any that are in the _area_  would you like me to check in another area of town?
+do you have in attractions in a type of _type_ in the _area_ 
+we have _Choice_ _type_ in the _area_  i recommend _Name_ 
+that sounds nice. can you give me their address, postcode, and phone number, please?
+i sure can. they are located at _Addr_ _Addr_ _Addr_  their postcode is _Post_  the phone number is _Phone_  can i help you with anything else?
+No that was all I needed right now, thanks very much. Goodbye.
+Okay.  Have a great time!
+***
+i'm hoping to find a _type_ in town.
+we have _Choice_ nightclubs. any preference on entrance fee?
+no, can you tell me what the entrance fee is?
+the soul tree _type_ costs _Fee_   the others are a bit more expensive.
+can you please tell me what the phone number is for the soul tree?
+yes, it is _Phone_ 
+what is their postcode?
+the soul tree is in postcode _Post_  can i help with anything else today?
+No thank you. That is all the information I need.
+Thank you, good bye.
+***
+i'm looking for a _type_ to visit in the _area_ area.
+there are _Choice_ _type_ in the _area_ area, there is _Name_ _Name_ _Name_ _Name_ and the _Name_  would you like more information on one?
+can i just get the address for _Name_  please?
+the _Name_ is located in _Addr_  lion yard. is there anything else i can help you with today?
+Oh, no. That answered all my questions. Thanks. Goodbye!
+Awesome.  Glad we could help!
+***
+would you be able to help me with a particular attraction?
+sure, what's it called?
+i am looking for the address, postcode and attraction type for _name_  thank you.
+thank you...the address for the museum is _Addr_ _Addr_  _Post_  is there anything else i can help you with?
+what is the area?
+it is located in the _Area_  will that be all today?
+Yes, that will be all.  Thanks for your help.  Bye.
+You're welcome. Thank you for using the Cambridge TownInfo centre. Have a great day.
+***
+i would like to find information on boats in town.
+i have about _Choice_ different attractions for _Type_ _Choice_ are in the _Area_ and _Choice_ in the _Area_ and _Area_  do you have a preference on area?
+no, any is fine. can you tell me what area _Choice_ of them is in and also the entrance fee?
+ _Name_ is on the _Area_ side. unfortunately i don't have information on the entrance fee.
+okay.  thanks. .
+you're welcome. can i assist you with anything else?
+No, that's all for today, goodbye.
+Have a great day! Goodbye! 
+***
+can you find me a _type_ in the _area_ of town?
+we have _Choice_ such places. any other preferences?
+what are their entrance fees?
+i'm sorry, but we _Price_ on the theaters' entrance fees. can i help you with anything else?
+how about an address?
+the cambridge arts _type_ is located at _Addr_  can i provide you any other information?
+No, that's all I need today. Thank you for your help!
+Glad we could help. Thank you for contacting us and have a great day!
+***
+good morning, i am looking for a place to on the _area_ side that has _type_ 
+ok, _Name_ is in the _area_ side of town. would you like the address?
+yes, and the postcode please!
+ _Post_ is their postcode.
+Thank You. I think that's all I need.
+You're welcome! Have a great day! Goodbye.
+***
+what theaters are on the _area_ side of town?
+unfortunately, i don't happen to have any located in the _area_  can i check in a different area for you?
+ok, well lets try maybe for a _Type_ instead.
+the abbey pool and astroturf pitch is a _Type_ on the _area_ side of town. would you like their address?
+no but i would like the number and postcode for the abbey pool.
+the phone number is _Phone_  is there anything else i can assist you with?
+yes, do you have the abbey pool postcode, please?
+sure, it is _Post_   will that be all?
+No, that is it. Thanks.
+Ok thank you for using our service & have a good day.
+***
+i'm looking for an attraction called _name_  do you have any information on it?
+sure thing! the entrance is _Fee_  it is located at _Addr_ in postcode _Post_ 
+do you have their phone number?
+sure, the phone number is _Phone_  can i help with anything else?
+no, i think that is good.  thanks for your help and have a nice day.
+have a wonderful day and enjoy your trip to _name_ 
+Okay. Thank you for all your help.
+You are welcome. Thank you for contacting the help desk, and have a great day.
+***
+can you please help me find a place to go?
+i've found _Choice_ places for you to go. do you have any specific ideas in mind?
+i'd like a sports place in the _area_ please.
+there are no results matching your query. can i try a different area or type?
+okay, are there any cinemas in the _area_ 
+we have _Name_ _type_ 
+okay that will work. can you please tell me their phone number, postcode and the entrance fee?
+ _Name_ can be reached at _Phone_  the postcode is _Post_   i do not have entrance fee information, i'm sorry.
+No worries, I'll give them a call and find out. Thanks so much for all your help, goodbye. 
+You're welcome. Good Bye
+***
+can you please help me find a _type_ 
+sure! there are plenty of great museums to choose from. is there a specific area of town you are looking for?
+the centre area. looking for modern art and the museums phone number please.
+i recommend _Name_  their phone number is _Phone_ 
+Great! That is all I need. Thank you.
+You are welcome! Have a nice day.
+***
+i am trying to find a really neat _type_ to visit. would you be able to tell me whats available out there?
+we have _Choice_ interesting _type_  such as the _Name_ _Name_  and the _Name_  anything in particular strike your fancy?
+are any of them in the _area_ 
+actually, i have _Choice_ of them in the _area_ area. might i suggest the _Name_  it has _Open_ and is located at _Addr_ 
+that would be perfect. can i get the phone number, please?
+yes. their phone number is _Phone_  can i help you with anything else?
+No, not today, thanks. Goodbye.
+Enjoy your visit. Thank you for calling Cambridge TownInfo Centre. Goodbye.
+***
+yes, i'm looking for a place to go in the _area_ 
+sure let me help you with that. which type of attraction would you like to visit?
+can you recommend any good museums there?
+the _Name_ is the only _type_ in the _area_ and the entrance _Fee_ is free.
+what is their phone number?
+01223464646 phone number.
+can you tell me the postcode?
+the postcode is _Post_   is there anything else that i can help you with today?
+Nope, that's all I needed today. Thanks!
+Glad I could be of assistance. Have a great day. 
+***
+i am looking for a place to go in the _area_ 
+there are _Choice_ things to do in the _area_  do you know what kind of attraction you were looking for?
+i have no preference. what do you recommend?
+well if you're looking for a museum i recommend the _Name_  the phone is 01223464646 and the address is _Addr_ 
+what is the entrance fee?
+the entrance _Fee_ is free. anything else today?
+no, thanks, that is it for today
+Okay, I hope you enjoy the rest of your day!
+***
+i am looking for a place to go!
+i can certainly help you find something. do you have a type of attraction in mind?
+i like looking at the _type_ of old buildings. i think it says a lot about how we used to live.
+we have _Choice_ of interesting _type_ here in cambridge. is there a particular area of town you're interested in?
+what would you suggest?
+here are _Choice_ suggestions from _Area_ _Name_ and _Name_  both are _Fee_ to visit.
+the _Name_ sounds lovely. can you give me their postcode, please?
+yes, their postcode is _Post_  can i get any other information for you?
+No that will be all. Thanks.
+You're quite welcome. Thanks for contacting the Cambridge TownInfo Centre and have a great day!
+***
+i'm looking for information about a particular attraction. it's called _name_ 
+ _name_ is on _Addr_ in _Area_ area.  would you like to order tickets?
+not right now. can you tell me it's postcode and entrance fee?
+i'm sorry, _Price_ in our database regarding their entrance fee, but their postcode is _Post_  can i help you with anything else?
+No, that's all. Thanks.
+Thank you, goodbye.
+***
+are there any multiple sports in the _area_ of town?
+sorry, not in the _area_  should i check another area?
+well, how about a _type_ then? i need the phone number.
+there are _Choice_ _Type_ in the town _area_  what address are you staying at so i can find the closest one to you?
+i'm not sure yet. which one do you recommend?
+i think the mumford _type_ is great! would you like more information?
+yes, i need the entrance fee and phone number?
+ _Price_ but their phone number is _Phone_  is there anything else i can assist you with?
+No thanks, that is all the information I need. Thank you for your time.
+I'm happy to be of help. Goodbye!
+***
+hi! can you help me find an attraction to visit in the _area_ of town?
+i have _Choice_ options. did you have an idea what type of attraction you were looking to visit?
+surprise me. i just need the attraction type, address, and postcode.
+ _Name_ is one of my favorite _Type_   it is at unit su43, _Addr_ _Addr_  post code _Post_   does that sound good?
+that's great. thanks.
+is there anything else i can help you with?
+No thanks.  You've been a great help.  Have a nice day.  Bye.
+Thank you. Have a great day, goodbye.
+***
+hello, i am looking for some entertainment.
+we've got _Choice_ attractions _Area_  is there a particular area you were looking at?
+nothing in particular. what do you recommend?
+i recommend _Name_ in the _Area_ 
+awesome, could you please give me their phone number?
+sure, their phone number is _Phone_  is there anything else i can help you with today?
+No, I think that's it for today. Thank you. Goodbye.
+You're welcome and thanks for using our help desk. Goodbye.
+***
+do you have information about the _name_ 
+yes, the _name_ is in the east part of town. the entrance fee in _Fee_  would you like a ticket?
+not at this moment. i would like the museum's postcode, though.
+their postcode is _Post_ 
+thanks.  and it is an actual _type_  correct?
+yes, it is a _type_  is there anything else you would like to know?
+No, that will cover it. Thanks so much, you've been very helpful.
+Your welcome. Enjoy visit at the cambridge museum of technology 
+***
+i'm in the north area of town and need to get a room to stay in.
+are you looking for a room, or another type of service?
+sorry. i'm actually looking for some type of attraction i can go to up in the _area_  any suggestions?
+i have _Choice_ different kinds, what type would you like?
+how about your favorite? what type is that?
+i really like the river _Type_ georgina.  do you need any information about something like this?
+yes, what type of attraction is this? also, could i get the address and postcode?
+it is a _Type_   the address is _Addr_ _Addr_ and the postcode is _Post_   is there anything else you'd like to know?
+I think that is all. Thanks
+You're welcome. Thanks for contacting the Cambridge TownInfo Centre!
+***
+i'm trying to find a good _type_ in town.
+there are _Choice_ of museums in town. what side of town are you in?
+i am open to any side of town!
+would you be interested in _Name_ 
+that would be great. can i get the postcode, please?
+sure.  the postcode is _Post_   is there anything else i can answer for you today?
+No, that's all. You've been a great help, thanks. I'm sure my visit will be fun. Goodbye!
+Thank you, goodbye.
+***
+i'm looking for the _name_  can you give me their contact info?
+ _Name_ phone number is _Phone_  they are located at _Addr_ _Addr_  _Post_  can i help with anything else?
+yes, what area of town is that exactly?
+it is in _Area_  would you like help with anything else?
+No that is all I need today. Thank you very much!
+You're very welcome! Goodbye!
+***
+i need information on the town _area_ 
+okay i can help with that. what information are you looking for?
+i want to know what attractions are in the _area_  please.
+there are _Choice_ wonderful attractions in the _area_ area.  do you have a specific interest in mind or would you like me to make some suggestions?
+pick one and i would need the entrance fee and attraction type.
+i recommend the _Name_  it's an architecture attraction, and it's free to get in.
+I'll have to check that out. Thank you, that's all the info I needed.
+Okay, thank you for calling the Cambridge TownInfo centre. Have a great day.
+***
+are there places in town _area_ of architectural interest?
+there are _Choice_ _Type_ and _Type_ in town, what would you like to see?
+surprise me. what are the entrance fees?
+ _Name_ is beautiful, and, better yet, it's _Open_ 
+that sounds great, thanks so much for your help!
+you are very welcome.  is there anything else i can help you with?
+No thank you. That's all I needed.
+Thank You, have a nice day. Goodbye.
+***
+can you see if there are any _type_ attractions in the _area_ of town?
+unfortunately there are no _type_ attractions in the _area_ of town. is there a different area of town that would work for you?
+what about a _type_ 
+yes, there are _Choice_ _Type_  i'd recommend _Name_  it's at _Addr_ and has _Price_ entrance. would that work for you?
+yes, that will work great. can i get their phone number please?
+certainly. the broughton house gallery's phone number is _Phone_  is there anything else i can help you with today?
+No, that's all I need.  Thanks!
+You are welcome.  Have a great day.  Bye.
+***
+i am looking for a _type_ to visit!
+do you have a preference for which area of town?
+i don't care which part of town it's in. i don't mind doing some walking.
+how about _Name_  it's located in the _Area_  at _Addr_ 
+that sounds interesting! what is the post code?
+the postcode for _Name_ is _Post_  is there anything else you need?
+That'll be all. Thank you!
+Have a great trip!
+***
+i am looking for nearby museums.
+we have _Choice_ _Type_ in town. is there a certain area you would like?
+no particular area. may i have the phone number of one you recommend?
+i recommend _Name_ 
+that sounds good, what is their phone number?
+their phone number is _Phone_  is there anything else i can assist you with?
+That would be it thank you for all your help.
+I hope you enjoy the museum, and have a great day!
+***
+i'm looking for a _type_ in the _area_ part of town.
+i have _Choice_ _type_ to choose from. both are _Fee_ to get in. _Name_ and _Name_  which do you prefer?
+what's the address for wandlebury? may i have their phone number, too?
+ _name_ is located on the _Addr_ _Addr_  in _Addr_   their phone number is _Phone_   is there anything else i can assist you with today?
+No, you've answered all of my questions.  Thanks so much.  Bye.
+You're welcome. Enjoy your time at Wandlebury!
+***
+i'm looking for boating activities in town.
+certainly, we have _Choice_ interesting boats. is there an area of town that you prefer?
+i do not have a preference.
+there's _Name_  river _type_ georgina, _Name_  and _Name_  would you like more information on any of these?
+yes, can you tell me the postcode for the _name_  please?
+sure.  it is _Post_   is there anything else i can help you with?
+No, that'll do it for today. Thanks very much for your help!
+You're very welcome! Thanks for contacting the Cambridge TownInfo Centre and have a great day!
+***
+i'm looking for some info on an attraction called _name_ 
+absolutely! the _Fee_  it is located in the _Area_  the address is _Addr_ 
+Great thank you for all your help, that's all that I needed to know.
+You're very welcome! Thanks for contacting Cambridge TownInfo centre and have a great day!
+***
+i am looking for a _type_ to visit. would you have any suggestions?
+ _Type_ are _Choice_ theatres in town, 4 in the centre and 1 in the south, do you have a preference for area?
+the one on the _area_ side, please. could you tell me it's postcode and if it has an entry fee?
+ _Name_ is in the _area_ area. the postcode is _Post_  the entrance fee is _Price_  would you like the phone number?
+unlisted!  what a pain.  okay, i suppose give me the phone number, thanks.
+sure thing. the phone number is _Phone_  how else may i help you?
+That's all the information I need. Thank you!
+You're welcome, have a great day. 
+***
+are there any _type_ spots in the town _area_ 
+nothing specifically marked _type_  although we do offer quite a lot to do, from _Type_ to _Type_ 
+do you have any colleges in the _area_ area?
+you're in luck. there are _Choice_  i'd recommend visiting downing _type_ on _Addr_  entrance is _Fee_  would that work for you?
+that sounds perfect. can you tell me their address and postcode, please?
+yes, their post code is cb21dq and the address is on _Addr_ 
+great, thank you!
+no problem.  is that all you needed today?
+It is. Thanks again.
+Thank you, goodbye.
+***
+i would like to go to a _type_ in the center of town.
+there is the cambridge university botanic gardens which is a _type_   will this work for you?
+yes, what is the address and phone number?
+their address is _Addr_ and phone number is _Phone_  is there anything else i can help you with?
+No, that would be all.  Thanks!
+Sure, have a great day.  Bye.
+***
+Can you tell me about the Cambridge university botanic gardens.
+The botanic gardens is a lovely part of the university which is open to the public for a fee of 4 pounds.
+***
+i'm looking for an attraction called _name_ 
+ _name_ is at _Addr_ _Addr_   would you like me to book tickets?
+no thank you. just the area and postcode please.
+it is in the centre and the postcode is _Post_   is there anything else you need help with today?
+No that's all I needed. Thank you!
+Thank you and enjoy your visit to Williams Art and Antiques!
+***
+i am looking for information on the town _area_ 
+i can help with that. what information are you looking for?
+can you recommend a favorite place to go?
+we have many great attractions in _Area_  from _Type_ to _Type_  is there a particular kind of attraction you'd like to visit?
+no particular attraction but i do need it to be in the _area_ 
+i like _Name_ that's a museum in the _area_  would that interest you?
+that sounds interesting. how much do they charge for entrance?
+there is no entrance _Fee_  it is free.
+Thanks, that's all I needed today. Goodbye!
+Thank you, have a great time!  Goodbye.
+***
+i'm a tourist from out of town. but, i was trying to find something fun to do near my hotel. could you recommend a place?
+i would be more than happy to recommend an attraction, first could you tell me in what part of town your hotel is located?
+it is in the _area_ of town.
+there are _Choice_ of places to go in the _Area_  what type of attraction are you looking for?
+really anything will do. i have to kill some time in between appointments. can you recommend something and send me the address please?
+how about the _Name_  their address is _Addr_  in the _area_ of town, and they have _Price_ 
+that will do! thank you very much.
+is there anything else i can assist you with today?
+Nope, that's all I needed.Thanks so much!
+Oh, you are most welcome. The museum will be awesome. 
+***
+good afternoon. it's such a beautiful day out and i am visiting here. can you tell me if there is a _type_ nearby to where i am?
+i have _Choice_ _Type_ in the area, four are _Fee_ and one is _Fee_  if you want to give me your location i can narrow down the results.
+what's in the center of town?
+ _Name_ is in the center of the _type_  it is located in _Addr_  the entrance is 4 _Fee_ 
+that sounds interesting.  can you just give me their phone number please?
+their phone number is _Phone_  can i assist you with anything else?
+No, that's everything. Thank you!
+Have a great day! Goodbye! 
+***
+i want to tour a _type_ in the _area_ of town. what's available?
+i have _Choice_ different options available. did you want one with _Fee_ entrance?
+entrance fee is not an issue.
+christ's _type_ is _Fee_ to enter.
+can i have the postcode and address for that _type_ 
+yes, it's located at _Addr_  postcode _Post_ . is there any other information you need?
+No, that's it.  Thanks.
+Thank you, goodbye.
+***
+can you help me find a _type_ 
+sure, what part of town are you looking for?
+something in the _area_  please.
+there are _Choice_ _Type_ in the _area_ side. would you like more information on either one or is there anything else i can assist you with today?
+yes, i want the address and entrance fee to both please.
+ _Name_ is located _Addr_  there is _Fee_ 
+okay thank you so much!
+you are welcome. do you need anything else?
+No, that is it, thank you.
+Thank you, goodbye.
+***
+tell me what colleges are in the _area_ side of town.
+there are _Choice_ colleges on the _area_ side. _Choice_ have _Fee_ entrance and _Choice_ cost _Fee_  is there anything else i can help you with?
+what are the phone numbers for these colleges?
+churchill college's phone number is _Phone_ 
+That's it.  Thanks!
+Have a great day!
+***
+i am looking for a swimming pool to go to in the _area_ 
+there are two _Type_ to go to in the _area_  would you rather go to _Name_ or _Name_ 
+great can i get their phone number?
+the phone number for _Name_ is _Phone_  and the number for _Name_ is _Phone_  is there anything else i can do to help?
+no, thank you.
+okay. well i have no information on entrance fee but i do have their locations specifics. would you like those as well?
+No, thank you.
+Well I'm glad I could help you and if there's anything else you need, please call us again.
+***
+yes, hi. can you help me locate a _type_ 
+there are _Choice_ _Type_ _Choice_ is in the _Area_  the other is on the _Area_   is there anything else i can help you with today?
+no, that's all i need.
+okay. have a nice day.
+Good bye. 
+Goodbye and thanks for contacting us
+***
+can you help me locate a swimming pool?
+yes, there are _Choice_ _Type_ _Choice_ in the _Area_ _Choice_ in the _Area_ and _Choice_ in the _Area_   which area would you like?
+could you give me the address and postcode of one in the _Area_ please?
+the _Name_ is _Addr_  and their postcode is _Post_  is there anything else i can help you with today?
+No thanks. I think that should do it. Have a great day. 
+You're welcome. Goodbye!
+***
+i am looking for a place to go.
+okay, what kind of place are you looking for?
+nothing in particular. what's the phone number, type, and fee for your favorite place?
+what area will you be staying in and what kind of things do you like?
+i would like the attraction to be in the _area_ 
+there are _Choice_  what type are you intersted in?
+anything that is good, just recommend any.
+would you be interested in an _Type_ attraction such as great _Name_  they have a _Fee_ entrance _Fee_ or _Choice_ are others available for free.
+may i have the phone number please?
+ _Phone_ is the phone number.
+thank you very much that would be it.
+enjoy your visit and let us know if you need help with other arrangements in the future.
+I will and thank you for your assistance.
+You're very welcome.
+***
+i am looking for a _type_ to visit.
+there are many _Type_ in town.  do you have a preference in area?
+no, what can you recommend?
+do you like modern art? _Name_ is great, and admission is _Fee_ 
+well, the price is great. what is there postcode?
+their postcode is _Post_  is there anything else you need help with today?
+No, you have been very helpful. Thank you.
+You're welcome. Have a great time!
+***
+yes, i would like help locating an attraction.
+ok - what type of attraction are you looking for, and in what part of town?
+i'm looking for the entrance fee for _name_ 
+their entrance _Fee_ is free.
+Thanks for the recommendation. That's all the help I need today. 
+You're welcome and thanks for using our help desk. Goodbye.
+***
+hi! i'm looking for somewhere to go in the _area_ area.
+great! the _area_ has _Choice_ attractions. are you interested in a particular type?
+i would love to maybe tour a _type_ if i can.
+we have _Choice_ _type_ in the _area_ area. the _Name_ is one that is _Fee_ to enter. would you like more information on this one?
+yes, and do you have the address and phone number?
+downing _type_ is on _Addr_ and the phone number is _Phone_  is there anything else i can help you with?
+No thank you. You have been very helpful. Have a great day.
+My pleasure. Thank you for calling Cambridge TownInfo Centre. Goodbye.
+***
+are there _Type_ in the town _area_ 
+yes, there are _Choice_ _Type_ in the _area_ of town. what other information would you like?
+can you recommend one and give me their address and postcode?
+i definitely recommend the _Name_  it's _Fee_ to get in. they are located on _Addr_  no. 5 dale's brewery. the postcode is _Post_ 
+thanks so much, that sounds perfect.
+is there anything else i can help you with today?
+No, I think that covers everything. Thanks so much for your help.
+You're welcome, enjoy your visit. 
+***
+i'm looking for a place in the _area_ of town that is a _type_ 
+there are _Choice_ _type_ in the _area_ area, the one with the lowest entrance fee is _Name_ which is _Fee_ to get in.
+that sounds like it will work. can i get their address and postcode?
+of course! they're located at _Addr_ with postcode _Post_  anything else i can do for you?
+No, that's all I need today. Thank you for your help!
+You are welcome! Have fun! Goodbye! 
+***
+hello, i am looking for _name_  can you help me?
+yes.  i see _Name_   would you like the address?
+yes, i would like the area and the postcode.
+it is located in the _Area_  at postcode _Post_  anything else for you today?
+That is all I need for today. Thanks for your help!
+Have a great day!
+***
+hello i am looking for a place to go, can you help me?
+i have found _Choice_ place for you. do you have any specific ideas in mind?
+what attraction types do you have in the _area_ 
+there are mostly _Type_ and _Type_ in the _area_  would you be interested in one of those?
+sure, can you recommend one to me and give me the address and type?
+clare _Type_ is a _Type_  it is located on _Addr_  post code _Post_ 
+great! thank you for all of your help.
+you're quite welcome! will that be all for today?
+You have helped with what I needed, thank you, goodbye!
+Thank you and enjoy your visit.
+***
+can you help me find a _type_ in the _area_ of town?
+there are a whopping _Choice_ _Type_ in the _area_ of the city.  would you like me to suggest one for you?
+which is the best _type_ in the _area_ and how can i contact them by phone?
+there are _Choice_ options . can i recommend one for you.
+please recommend one in the _area_ and i would also like the phone number.
+christ's _type_ is nice.
+that sounds great, can i please get their phone number?
+of course, their phone number is _Phone_  is there anything else that i can help you with today?
+That would be all thank you very much.
+Thank you for calling. Have a great day.
+***
+i'm looking for a multiple sports attraction in the _area_ of town.
+i'm afraid that we don't have that type of attraction in the _area_ of town. perhaps somewhere else? or a different type of attraction?
+sure, is there a nightclub in that part of town?
+i am sorry, but i did not find a _Type_ in the _Area_  if you like i can search in the _Area_  where there are a lot nightclubs.
+would you mind double checking. i thought i visited a _type_ in the _area_ of town before.
+oh, my. i do apologize. i was wrong. there are _Choice_ different _Type_ available. the ballare, _Name_ _Name_  the soul tree and the fez club.
+could you tell me the entrance fee and phone number for _name_ 
+entry is _Fee_  and the number is _Phone_ 
+Thank you for answering all my questions. That's all I need.
+Of course, let me know if you need anything else. 
+***
+give me information about museums in the _area_ side of town.
+there are _Choice_ museums in the _area_ side of town. i highly recommend checking out the _Name_ if you've got the time.
+what is the full address and zipcode of _name_ 
+ _name_ is located at _name_ _Addr_  their postcode is _Post_  is there anything else i can assist you with today?
+No that'll be all. Thanks so much!
+Okay, great. Have a great trip. Goodbye.
+***
+i'm trying to find a concert hall in the _area_ part of town.
+unfortunately, i don't have any listings for _Type_ on the _area_ side. can i check another area of town for you?
+how about an _type_ attraction instead?
+there are _Choice_ _type_ attractions on the _area_ side. would you like more information?
+yes and can i have the phone number and address of one of attraction?
+sure. _Name_ can be reached at _Phone_   it is on _Addr_  postcode _Post_   can i help you with anything else today?
+Thanks. That's all I need for now.
+Okay Thank you for calling.
+***
+do you have any details for _name_ 
+yes, which details would you like to have?
+i'd like the attraction type, phone number, and entrance fee, please.
+the _name_ is a _Type_ on the _Area_ end of the city. we don't have any information regarding their entrance fee, but their phone number if _Phone_ 
+Alright, that's all. Thank you.
+Thank you, goodbye.
+***
+i am looking for information on the _Name_ attraction.
+ _Name_ is located in the _Area_ at _Addr_  phone number _Phone_  is there any other information you need?
+what is the postcode?
+the post code is _Post_ 
+That is all I needed today, thanks!
+Glad to be of help. Have a great day.
+***
+what attractions do you have in town, preferably near the _area_ 
+we have _Choice_ attractions in the _area_ _Type_ _Type_ _Type_ 
+can you recommend a _type_ in the _area_ and tell me the entrance fee?
+there are _Choice_ _Type_ in the _area_ of town with entrance fees ranging _Price_  do you have a preference on entry price?
+which is your favorite? and what is its entrance fee?
+my favorite is christ's _type_ and there is _Price_ 
+Great, that's all I need. Thank you!
+Thank you, goodbye.
+***
+i'm looking for a _type_ to visit in the _area_ of town.
+there are eleven _type_ in the city _area_  might i recommend the _Name_ 
+tell me more about the anthropology _type_ please.
+the _name_ is free to get into and is located at the _Addr_  their phone number is _Phone_ 
+what is their postcode?
+their postcode is _Post_  if you would like to reach them directly, their phone number is _Phone_  anything else i can help with?
+No, that is all.  Thanks so much.
+Glad to help.
+***
+hi i am looking to go to a _type_ in town please.
+we offer _Choice_ _Type_  any location preferences?
+not really. can you just tell me your favorite and let me know how it will be for me to get in? oh, and the postcode, for my gps.
+sure. cafe jello gallery is my personal favorite. the postcode is cb30af. it is free to get in.
+Great, thank you!
+You're welcome!  Glad to help.
+***
+i am looking for a _type_ in the town _area_ 
+may i suggest _Name_ located at _Addr_  the phone number is _Phone_  admission is _Fee_ 
+sounds perfect.  what is the postcode?
+the post code is _Post_  is there anything else you would like to know?
+No, that will be all thank you.
+Thank you and have a pleasant visit, goodbye!
+***
+i'm looking for some _type_ in the center of town.
+i am very sorry there are no results for _type_ in the _area_ area, would you like to try another area or different attraction?
+how about a _type_ 
+ _type_ are _Choice_ theatres located in the _area_ of town. how does _Name_ sound?
+that sounds good, what's the phone number?
+the phone number for the cambridge arts _type_ is _Phone_  can i offer you any other information today?
+Thank you, that's all I need right now. Bye.
+You're very welcome. Goodbye.
+***
+do you have information about the _name_ 
+i do, it is located in the _Area_ and is a _Type_  what information would you like about it?
+That's all I needed, thanks so much for your help!
+You are very welcome! Enjoy your trip to the museum!
+***
+hello.  i'm looking for a place to go in the _area_ of town.
+there are _Choice_ of attractions in the _area_ of town. do you have a specific type in mind?
+no, just _type_  i would also like the phone number and postcode please.
+may i suggest _Name_  the post code is _Post_ 
+that sounds great! can you give me the phone number as well?
+the phone number for _name_ is _Phone_ 
+Thanks, that's all I needed today. Goodbye!
+Enjoy your visit to Cambridge, and have a great day!
+***
+hi! can you please help me? i'm looking for information on _name_ 
+yes i can! _name_ is located in the _Area_ at _Addr_ in postcode _Post_  the entry fee is _Price_ 
+Thanks very much, that's all I need for now. Goodbye.
+Okay.  Let us know if you need more help.
+***
+hi, i am looking for a _type_ attraction to visit. do you have any recommendations?
+what area will you be going to?
+the area doe not matter, just some _type_ 
+how about the _Name_ 
+sounds good. could you give me their address please?
+their address is _Addr_  is there anything else i can assist you with?
+yes, i also need their postcode and phone number.
+okay, sure. the postcode is _Post_ and the phone number is _Phone_  anything else?
+great, thank you for all of your help.
+no, problem. will that be all for you today?
+Yes, thank you. Goodbye.
+Thank you, goodbye.
+***
+can you find information about nightclubs?
+yes, would you like to find a _type_ in the _Area_ or _Area_ part of town? most of them are in the _Area_ 
+location doesn't really matter.  is there an entrance fee?
+yes, all of the listed entrance fees are _Fee_   the _Name_ is nice.
+ _Name_ sounds right up my alley. can i get the address and phone number please?
+club salsa's address is _Addr_ and their phone number is _Phone_ 
+okay, great! thanks for your help!
+you're welcome. can i help you with anything else?
+No thanks. That's it.
+Have fun! Goodbye! 
+***
