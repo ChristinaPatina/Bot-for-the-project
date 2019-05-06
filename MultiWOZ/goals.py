@@ -16,7 +16,7 @@ def goal(data, acts, keys):
     for k in keys:
         if k == 'PMUL3872.json' or k == 'PMUL4707.json' or k == 'PMUL4776.json':
             continue
-        count = 0 # number of move in dialogue
+        count = 0 # number of move in the dialogue
         key = k[0:-5]  # the name of the element in the file without .json
         for i in range(len(data[k]["log"])):
             goal = []
