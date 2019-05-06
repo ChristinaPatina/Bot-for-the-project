@@ -164,7 +164,6 @@ def tagging(string: str, my_dict: dict):
         if flag == 1:
             tags.append("O")
 
-
     #print(len(str_list), len(tags), '\n', tags)##########
     if len(str_list) != len(tags):
         right = False
@@ -174,6 +173,7 @@ def tagging(string: str, my_dict: dict):
     for tag in tags:
         f.write(tag + ' ')
     f.write('\n')
+    
     f.close()
 
 
@@ -224,9 +224,7 @@ def replacement(multi, d, k, i, str):
 
     for s in slots:
         if len(data[k]["log"][i]['metadata']) == 0:
-            #return str
             i = i+1
-        #else:
         if data[k]["log"][i]['metadata'][d]["semi"].get(s) != None:
             w = data[k]["log"][i]['metadata'][d]["semi"].get(s)
             if w != "not mentioned":
@@ -235,7 +233,6 @@ def replacement(multi, d, k, i, str):
             if data[k]["log"][i]['metadata'][d]["book"].get(s) != "":
                 kb.append(data[k]["log"][i]['metadata'][d]["book"].get(s))
             if len(data[k]["log"][i]['metadata'][d]["book"]["booked"]) != 0:
-                #print(k,i,d)
                 for s2 in slots:
                     if data[k]["log"][i]['metadata'][d]["book"]["booked"][0].get(s2) != None:
                         kb2.append(data[k]["log"][i]['metadata'][d]["book"]["booked"][0].get(s2))
@@ -243,7 +240,7 @@ def replacement(multi, d, k, i, str):
 
         for kb_i in kb:
             if kb_i != '' and kb_i != ' ':
-                z = ' _' + s + '_ '
+                z = ' _' + s.lower() + '_ '
                 if len(str_buf) == 2:
                     str = re.sub('(\s)*' + kb_i.lower() + r'[.,:()?!\s]', z, str.lower())
                 else:
@@ -262,7 +259,7 @@ def replacement(multi, d, k, i, str):
         if len(kb2) != 0:
             for kb2_i in kb2:
                 if kb2_i != '' and kb2_i != ' ':
-                    z = ' _' + sl + '_ '
+                    z = ' _' + sl.lower() + '_ '
                     if len(str_buf) == 2:
                         str = re.sub("(\s)*" + kb2_i.lower() + r"[.,:()?!\s]", z, str.lower())
                     else:
@@ -298,7 +295,25 @@ def replacement(multi, d, k, i, str):
                                     if kb_i != '' and kb_i != ' ':
                                         if kb_i == '+44 1223 568988':
                                             continue
-                                        z = ' _' + s2 + '_ '
+                                        if s2 == 'Post':
+                                            s2 = 'postcode'
+                                        if s2 == 'Ref':
+                                            s2 = 'reference'
+                                        if s2 == 'Dest':
+                                            s2 = 'destination'
+                                        if s2 == 'Price':
+                                            s2 = 'pricerange'
+                                        if s2 == 'Addr':
+                                            s2 = 'address'
+                                        if s2 == 'Depart':
+                                            s2 = 'departure'
+                                        if s2 == 'Id':
+                                            s2 = 'trainID'
+                                        if s2 == 'Arrive':
+                                            s2 = 'arriveBy'
+                                        if s2 == 'Leave':
+                                            s2 = 'leaveAt'
+                                        z = ' _' + s2.lower() + '_ '
                                         str = re.sub("(\s)*" + kb_i.lower() + r"[.,:()?!\s]", z, str_buf[len(str_buf) - 1])
                                         str_buf.append(str)
                                         if str_buf[len(str_buf) - 2] != str:
@@ -355,7 +370,7 @@ def replacement(multi, d, k, i, str):
     else:
         return str_buf[len(str_buf)-1], my_dict
 
-
+    
 def normalization(one_domain, name_file):
     f = open(name_file, 'w')
     for k in keys_train:
@@ -421,7 +436,8 @@ def normalization(one_domain, name_file):
             else:
                 continue
     f.close()
-
+    
+   
 normalization('taxi', norm_files[0])
 normalization('police', norm_files[1])
 normalization('hospital', norm_files[2])
