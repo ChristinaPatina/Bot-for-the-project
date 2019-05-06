@@ -1,0 +1,2693 @@
+hello there. i am trying to locate a train for _day_ 
+sure.  where will you be going?
+i am going to _destination_ 
+all right, and where would you like to depart from?
+i'll will be leaving from _departure_ 
+i've got _choice_ trains that are on that route. do you have a preferred departure or arrival time?
+i need on that will leave london after _leaveat_ 
+i have _choice_ trains that will leave after _leaveat_  one leaves at _leaveat_ and one leaves at _leaveat_  which would you prefer?
+what time does the one that leaves at _leaveat_ arrive in _destination_  also, what is the train id?
+the train id is _trainid_ and it arrives by _arriveby_ in _destination_  would you like me to book that one for you?
+no i don't need to book it right now. thanks for the information.
+you're very welcome. is there anything else i can help you with today?
+Nope. Thanks though. Goodbye.
+Let me know if you do need any more help. Good bye.
+***
+i am looking for a train out of _departure_ please.
+where will you be going?
+i want to go to _destination_ 
+when will you be leaving?
+i would like to leave after _leaveat_ on _day_ please.
+ _trainid_ departs at _leaveat_ would that work for you?
+yes, please give me travel time.
+that will be _time_ 
+Great, that's all I need, thanks!
+You are welcome. Please contact us again if we can help in the future. Have a great day. 
+***
+am looking for a train,it should go to _destination_ and should depart from _departure_ 
+what time and day are you looking to travel?
+yes, i would like travel on _day_ and i would need to arrive by _arriveby_ 
+trainid tr9020 leaves _departure_ on _day_ and arrives in _destination_ at _arriveby_ 
+what is the price for the train?
+the cost will be _ticket_  would you like more information about that?
+what time does the train leave?
+it leaves at _leaveat_ 
+Thanks, that's all. Good bye. 
+Goodbye and thanks for using the help desk.
+***
+i need to find a good vegetarian restaurant.
+i'm sorry could you repeat your request?  there seems to be an error.
+i meant train.  i need a train ticket for _day_ 
+where did you want to depart from, sir?
+i am departing from _departure_ and going to _destination_ 
+there are _choice_ trains from _departure_ to _destination_ on _day_  do you want to leave at any certain time?
+what is the first train after _leaveat_ 
+ _trainid_ leaves at _leaveat_ .
+could you give me the arrival time and price also please?
+yes, it arrives by _arriveby_ and costs _ticket_  would you like to book?
+yes, please book the train for _people_ person.
+i've booked you a ticket. the reference number is _reference_  anything else i can assist with?
+i'm confused. did i ask you to book a ticket? i can book my own passage, thank you very much!
+thanks for your service.
+thank you also. have a nice day.
+you also. let us know if we can assist you with anything more.
+Okay, thanks. Goodbye.
+You're welcome. Enjoy your visit to Cambridge!
+***
+i need a train to _destination_ 
+sure, where will you be boarding and what day would you like to leave?
+i will board at king's lynn, before _arriveby_ on _day_ 
+i have _choice_ routes which will arrive in _destination_ by _arriveby_  they leave hourly on the _leaveat_ from 05 _leaveat_ to 12 _leaveat_  lasting _time_  would you like to book?
+i would like the train that arrives closest to _arriveby_ please.  i will also need the departure time.
+ _trainid_ departs _day_ at _leaveat_ and arrives in _destination_ at 12:5 _choice_   would you like to book it?
+no, i am not sure i am traveling just yet.  thanks for the information, i am all set for now.  have a nice day.
+okay, is there anything else i can help you with?
+No.  Goodbye.
+Thanks for contacting the Cambridge TownInfo Centre and have a great day!
+***
+i need a not later than 9:15 train to _destination_ 
+it looks like there's a train for _destination_ with an arrival time of _arriveby_  would you like me to book that for you?
+yes, book me for sunday departing from london kings cross.
+how many tickets will you require?
+ _people_  please.
+your booking is successful. train is leaving at _leaveat_ and it costs _ticket_  your reference number is _reference_  anything else i can help with?
+No thank you that's I need!
+Okay thank you for calling. Don't hesitate to call us again.
+***
+i'd like to find a train to _destination_ 
+there are _choice_ trains going to _destination_  can you give me a departure day and time so that i can narrow down your choices?
+i am looking to go from _departure_  and go on _day_ arriving by _arriveby_ 
+okay, how about the _trainid_ leaving at _leaveat_ and arriving at _arriveby_ with a duration of _time_  the cost is _ticket_  would that work for you?
+that would be perfect!
+great, how many tickets would you like to purchase?
+ _people_ tickets please. can i also have the reference number for the booking?
+your tickets are all booked, reference number _reference_ 
+Thank you so much.  That is all I will need today.
+Thank you for contacting Cambridge TownInfo centre. Have a wonderful day!
+***
+i need a train for _day_ at _leaveat_ and i will be traveling  from _departure_ to _destination_  please book it for _people_ people.
+you are all booked for the _reference_ train. price is _ticket_   reference number _reference_  is there anything else i can help you with?
+yes, my apologies, but can you confirm that the _reference_ train leaves after _leaveat_ 
+it leaves right at _leaveat_  if you'd like to leave later, the next train departs at _leaveat_ 
+the _leaveat_ train is perfect. please book _people_ tickets. thanks.
+it has been booked and your reference number is: _reference_  is there anything else i can do for you?
+No, that is all. Thank you for the help.
+Okay, thank you for calling the Cambridge TownInfo centre. Have a great day.
+***
+yes,  please help me book a train to _destination_ 
+of course, from where will you be departing?
+ _departure_  any time after _leaveat_ on _day_ 
+the first train in the time frame you mentioned is the tr1088 from _departure_ to _destination_ on _day_ at _leaveat_  shall i book that for you?
+can you tell me the arrival time of that train?
+the arrival time is _arriveby_ 
+that works for me. thank you for your help.
+is there anything else i can help you with?  do you need a reservation for that train?
+No that would be all thank you very much.
+Thank you. Have an enjoyable trip.
+***
+ i am looking for a train. the train should go to _destination_ and should depart from _departure_ 
+of course, what day would you like to travel?
+i would like to leave after 09:00 on _day_ 
+there are _choice_ departure times available. did you have a specific time in mind?
+i just need to leave after 9:00. can you book for _people_ people?
+you are all booked for _people_ people on _trainid_ leaving at _leaveat_ and arriving by 10:0 _people_  reference _reference_  fee is _ticket_ payable at the station. anything else?
+That's all for today. Thanks for your help!
+Your welcome.  Please let me know if you need anything else.
+***
+i am looking for a train going to _destination_ 
+sure, where are you departing from and what day?
+i would like to leave broxbourne on _day_ 
+do you have a time you'd like to leave by?
+i'd just like to arrive by _arriveby_ please.
+ _trainid_ will arrive in _destination_ by _arriveby_ on _day_  does this suit your needs?
+yes, please. i need the price and travel time.
+the price is _ticket_  the train leaves at _leaveat_ making the travel time _time_ exactly. is there anything else?
+that is for _trainid_ 
+yes. _trainid_ is _ticket_  would you like to buy a ticket?
+yes i would like a ticket for one.
+your confirmation number is _reference_  may i help you with anything else?
+i think you've answered all of my questions! thank you so much!
+you're welcome. call us again when you need to. we're always here!
+Thank you for your help.
+Not a problem. Have a good time!
+***
+i need a train that will be in _destination_ by 3:00.
+what day will you be travelling?
+i will be travelling on _day_ 
+alright, where will you be departing?
+i'm leaving out of london king's cross.
+what time do you need to be there by? is it _arriveby_ 
+no, i need to arrive by 14:00.
+i have _choice_ train that would be close to those traveling times. it leaves _departure_ at _leaveat_ and arrives in _destination_ at _arriveby_ 
+can i get a ticket for _people_ person and the reference number please.
+i was able to book you _people_ ticket on train _reference_  your total cost is _ticket_ payable at the station. your reference number is _reference_ 
+Thank you. I think that's all I need.
+You're welcome. Have a safe trip. Goodbye.
+***
+i need to leave _departure_ and arrive by _arriveby_   can you book a train for me?
+what time would you like to depart?
+i will depart any time so long as the train arrives by _arriveby_ 
+ok, and what day do you need to travel?
+oh, i need to leave this _day_  just to clarify i want to leave _departure_ going to _destination_ 
+ _trainid_ will arrive in _destination_ _day_ by _arriveby_  it will depart _departure_ at _leaveat_  does this suit your needs?
+yes that is perfect. can you book that and give me a reference number?
+yes i booked it and your reference number is _reference_  will there be anything else?
+No, I think that's going to be all I needed. Thanks. Have a good day. 
+Thank you, Enjoy your day, goodbye.
+***
+i want to book an evening train from _departure_ to _destination_ 
+certainly, there are _choice_ of trains available. which day would you like to travel?
+ _day_ please. i'd like to leave after _leaveat_ 
+train _trainid_ leaves at _departure_ at _leaveat_ and arrives in _destination_ at _arriveby_  would you like to book this trip?
+yes, let's book it for four, please. may i have a reference number?
+alright, i've got _people_ tickets booked leaving at _leaveat_  your reference number is _reference_ 
+Thank you. That is all I need today.
+Okay. Glad I could help you today. Enjoy your journey.
+***
+i'm looking for a train that will be going to _destination_ on _day_ 
+there are _choice_ trains departing from _departure_ and arriving in _destination_ on _day_  do you need to arrive by a certain time?
+i need it to arrive by _leaveat_ 
+how about _trainid_ that leaves at _leaveat_ 
+i want to book for three people. help me get the reference number too.
+i'm sorry for the confusion, that train won't arrive by _arriveby_ _trainid_ will arrive by _arriveby_  does that sound like it will work?
+yes, please book for _people_ people. i will need a reference number also.
+booking was successful, the total fee is _ticket_   reference number is : _reference_ 
+thank you for your help!
+you're certainly welcome. my pleasure, sir. anything else i may do for you today?
+You've covered it all. Thanks a million. Goodbye.
+Happy to be of service. Please let us know if we can assist you in the future.
+***
+i need a train to _destination_ 
+ok, when and where are you leaving from?
+i'll be leaving from _departure_ on _day_  and i need to get to _destination_ at or a little before _arriveby_ 
+i can get you a train arriving at _destination_ at _arriveby_  how many tickets will you be needing?
+just one, please.
+i booked train id _trainid_  your price is _ticket_   is there anything else i can do for you?
+yes i need the reference number for the booking please.
+yes that is _reference_  is there anything else i can help you with today?
+No, that's all. Thank you very much for your help.
+You are welcome. Have a nice day.
+***
+i need a train to leave from london's cross.
+what day would you like the train for?
+i'd like it to be for _day_ 
+i have a train that leaves _destination_ at _leaveat_ and arrives by _arriveby_ at a price of _ticket_  is that ok?
+yes, it is perfect. thank you.
+i'm sorry i had that completely mixed up. there is a train leaving _departure_ at _leaveat_ and arriving in _destination_ at _arriveby_  does that work?
+yes please book that and give me the reference number of the booking.
+yes i was able to book that and your reference number is _reference_  cost of the ticket will be _ticket_  is there anything else?
+No that will be all thank you.
+Glad to help.  Have a nice day.  Good bye.
+***
+i need a train to _destination_ that arrives by _people_ 00.
+where are you departing from?
+i am leaving from _departure_ on _day_ 
+okay, i've got a training leaving at _leaveat_ and arriving by _arriveby_  will that be good?
+perfect. i'd like _people_ tickets please.
+okay i have booked you _people_ tickets on this train. your reference number is _reference_  is there anything else?
+Okay. Thank you for your help. That is all I believe.
+Sure.  Glad to have helped.
+***
+i'm looking for a train please.
+where are you leaving from and where would you like to go?
+i plan to leave from _departure_ to go to _destination_ 
+okay. there are _choice_ trains that go from _departure_ to _destination_  would you like to narrow it down by day or time?
+i want to leave on _day_ and arrive by 12:15.
+trainid	departure	destination	day	leaveat	arriveby	price	duration	book (optional) tr1542 _departure_ _destination_ _day_ _leaveat_ _arriveby_ 10.24 pounds	49 minutes	 tr58 _choice_ _departure_ _destination_ _day_ 07:54	08:43	10.24 pounds	49 minutes _trainid_ _departure_ _destination_ _day_ 09:54	10:43	10.24 pounds	49 minutes	 tr8225 _departure_ _destination_ _day_ 11:54	12:43	10.24 pounds	49 minutes	 are the opitions.
+thank you, i will check them out and get back to you.
+you are welcome. call back anytime you are ready to book.
+that information is very overwhelming. can you please pick the best option that meets my criteria and book for _people_ people.
+i would like to book the _trainid_ _departure_ _destination_ _day_ _leaveat_ _arriveby_  please.
+i think you're confused. i need the info, you're the help desk.
+i apologize for the mistake. i have booked six tickets for you and your party on the _reference_ train departing from _departure_ at _leaveat_ and arriving at _destination_ at _arriveby_ 
+that's more like it. and, what's the reference number?
+your reference number is _reference_  the total fee is _ticket_ payable at the station. may i help with something else?
+That was all. Thank you
+Thanks for using our services.
+***
+i am looking for a train departing _departure_ 
+i'd love to help! where is your destination?
+i need to g to _destination_ on _day_ 
+is there a particular time you would like to leave by?
+no, i just need to arrive by _arriveby_ 
+train _trainid_ arrives at _arriveby_ would that work?
+Yes, that will be perfect. What's the travel time?
+The departure time from cambridge to liverpool street on saturday will be at 05:59.
+***
+i'd like a train to _destination_ to arrive by _arriveby_ 
+sure, which day would you like to travel?
+i am travelling on _day_ and going to _departure_ 
+might i suggest train _trainid_ leaving _departure_ at _leaveat_ and arriving at _destination_ at _arriveby_  would that work for you?
+yes, that does work.  could you book it for _people_ person please?
+okay, i went ahead and reserved your ticket for train id _reference_  the cost will be _ticket_ payable at the station, and your reference number is _reference_ 
+That's everything I needed. Thank you!
+You're welcome. Have a great day!
+***
+good afternoon, i need to make arrangements to leave _departure_ on _leaveat_ by train. would you help me please?
+what is your destination?
+ _destination_ is my destination.
+there are _choice_ options. what time would you like to depart?
+i wish to leave sometime after _leaveat_ 
+how about _trainid_ 
+thats still alright. give mee the reference number too please.
+how many tickets do you need, please? is it one?
+i need _people_ tickets please.
+the booking was successful, your reference number is _reference_  the total fee will be _ticket_  payable at the station. is there anything else i can help you with?
+No that's all I needed. Thank you!
+You're welcome,have a nice day and a wonderful trip.
+***
+i need a train to take me from _departure_ to _destination_ 
+sure. what time would you like to depart?
+i don't know.  i want to get there at _arriveby_ though.
+also, what day will you be travelling?
+i will be travelling on _day_ 
+alright, the latest train that fits your criteria is _trainid_  which will arrive at _arriveby_  is that alright by you?
+yes that will be fine thank you. can you tell me how long the journey will be and how much it will cost and when the train leaves?
+yes travel time is _time_ and the cost of the ticket is _ticket_ 
+what is the exact departure time please?
+the train leaves _departure_ at _leaveat_  is there anything else i can help you with today?
+can you book me a seat on the train please?
+i'd be happy to. just one ticket or how many would you like?
+Actually, I am not ready to book quite yet.  Thank you for all of your help.  Have a nice day.  Bye.
+You have a nice day also.  Good bye.
+***
+i am looking for a train. the train should depart from _departure_ and should go to _destination_ 
+there are _choice_ trains available.  do you have a specific day or time in mind?
+i would like to travel on _day_ 
+great, and what time on _day_ would you like to either leave after or arrive by?
+i need to leave after _leaveat_ 
+can i book for you?
+yes i need it booked for _people_ people.
+the total fee is _ticket_ payable at the station . reference number is : _reference_  is there anything else i can assist you with?
+No that would be it thank you very much.
+You're welcome. Have an amazing trip!
+***
+am looking for a train it should leave on _day_ and should go to _destination_ 
+ok, what is your departure site?
+i would like to leave from huntingdon and get to _destination_ by 9:00 pm.
+please confirm you are leaving from huntingdon and want to arrive at _arriveby_ 
+yes, that is correct.
+ booking was successful, the total fee is _ticket_ payable at the station . reference number is : _reference_ 
+thank you for all of your help! have a great day!
+thank you for using our services.  do you need any further assistance?
+No I don't need anything
+You are very welcome. Please let me know if you need anything in the future.
+***
+yes, i need a train that is leaving from _departure_ on _day_ 
+ _trainid_ _departure_ _destination_ _day_ _leaveat_ _arriveby_ _ticket_ _time_  would you like  me to book you on this schedule?
+i need to leave after _leaveat_ and it should go to _destination_ 
+train _trainid_ leaves at _arriveby_ and arrives in _destination_ at 17:52. would this work for you?
+this works perfectly, thank you!
+is there anything else i can help you with today?
+how much would the train ride cost me?
+the train is _ticket_ per person.
+can you give me the travel time?
+the travel time is _time_ 
+Fantastic, thank you, that should be all.
+Thank you for using this service, have a nice day.
+***
+i need to book a train.
+where are you departing from, and what is your destination?
+i'm at _departure_ and would like to go to _destination_ 
+the travel time for that route is _time_  what day would you be traveling?
+i would like to travel this _day_ and need to leave after _leaveat_ 
+there are _choice_ trains that leave after _choice_ 15, did you have a specific arrival time in mind?
+no, anytime after _choice_ 15 is fine. maybe the first train after that time.
+okay i have the _leaveat_ that arrives at _arriveby_  would you like to book that?
+yes, that works, i need the travel time, and the train id please.
+sure, train id is _trainid_ and travel time is _time_   how many tickets do you need?
+i actually don't need to book right now. sorry for the confusion.
+ok, is that all you needed today, then?
+Yes that's all the info I needed thank you!
+You're quite welcome. Thanks for contacting the Cambridge TownInfo Centre and have a great day!
+***
+can you help me book a train on _day_ 
+where is the destination?
+i want to go to _destination_ 
+there are _choice_ trains leaving cambridge for _destination_ on _day_  do you have a departure time in mind?
+i need it to leave after _leaveat_ please.
+can i book for you?
+yes please book just one ticket for me.
+tr1159 leaves at _leaveat_ and the fee of _ticket_ is payable at the station. is there anything else i can assist you with?
+yes, what is the reference number for the reservation?
+the reference # is _reference_  is there anything else i can help with today?
+No that is all for now. Thank you for all your help.
+Happy to be of help, and I hope you have a great day!
+***
+yes, i need a train for _day_ 
+what time of day would you like to travel, and to where?
+i'm departing from _departure_ on _day_ and need to arrive in _destination_ by _arriveby_ 
+train _trainid_ leaves _departure_ at _leaveat_ and arrives in _destination_ at _arriveby_  would you like me to book this train?
+yes how long is the travel time?
+travel time will be _time_ 
+Great! This information is all I need. Thank you for your help.
+You are welcome. Have a nice day.
+***
+i am looking for a train going to _destination_ and should leave on _day_ 
+where will you departing from?
+i am departing from _departure_ and want the train to arrive by _arriveby_ 
+okay, what time do you want to leave?
+it doesn't matter, just as long as it arrive by _arriveby_ 
+how about train _trainid_ 
+tell me the price and travel time please.
+ _leaveat_ _arriveby_ _ticket_ 163 minutes there you go.
+Thank you for your help
+You are welcome. Have a nice train ride. 
+***
+i am looking for a train going from _departure_ to _destination_ 
+i'd be happy to help with that. what day and time are you traveling?
+the train needs to leave on _day_ after _leaveat_ 
+do you need to arrive by a certain time?
+no, just the closest time after _leaveat_ for _people_ tickets please.
+ _trainid_ leaves at _leaveat_ on _day_  would you like to book a ticket?
+yes please. can i have the reference number for the booking?
+i have booked your train for _people_ and your reference number is _reference_   can i help you with anything else today?
+No, that will be all.  Thanks for your help.
+You are welcome! Have fun! Goodbye! 
+***
+i need to a train heading to new street station in birmingham, do you have info for that?
+where do you want to depart from?
+i'd like a train that can get me from _departure_ to _destination_ on _day_ by _arriveby_ 
+the tr1162 leaves at _leaveat_ and will arrive at _arriveby_   is that alright?
+yes that will fine. can you tell me the travel time for that?
+it will be _time_ 
+Thank you for your help. That will be all.
+You're welcome, thank you for using our service.
+***
+i need a train from _departure_ that can arrive by _arriveby_ 
+certainly. where is your destination?
+i want to go to broxbourne, please.
+what day do you want to travel?
+the train needs to leave by _day_ and i need three tickets.  i would also like the reference number once you book it please?
+i booked it you reference number is _reference_ 
+Thank you, that's all I needed.
+You are welcome. Your total for the three tickets is 42.96 pounds. You can pay at the station.
+***
+i need a train leaving from _departure_ 
+absolutely, what day of departure and what destination location?
+i am heading to _destination_ and would need the train for _day_ please. oh and i need to leave after _leaveat_ sometime.
+okay, the _trainid_ train leaves at _leaveat_ and arrives at _arriveby_  would you like to purchase tickets?
+yes i need that for _people_ people please.
+i have booked your tickets. _ticket_ is payable at the station. the reference number is _reference_ 
+Thanks, that's all I need. Have a nice day.
+My pleasure. Thank you.
+***
+i am looking for a train that leaves _departure_ and goes to _destination_ 
+i have found _choice_  is there a day and time you are looking for?
+i plan to leave this _day_ 
+okay, is there a specific time you would like to leave or arrive by?
+i would like to arrive in _destination_ by 8:15.
+ _trainid_ arrives in _destination_ on _day_ by _arriveby_  will this suit you?
+tell me about the departure and travel time.
+ _trainid_ departs at _leaveat_ and total duration is _time_  do you need to reserve a seat?
+Not yet, I was just looking for information. Thank you for all of your help.
+Not a problem and should you need any other information, feel free to call back. Goodbye!
+***
+i'm actually in need of a train leaving _day_ after _leaveat_ from _departure_ to _destination_   can you find me one?
+certainly, the earliest train by your specifications is _trainid_  leaving at _leaveat_ and arriving at _arriveby_  would you like to book that train?
+great. can you please give me the travel time and price?
+yes, the travel time is _time_  and the price is _ticket_ 
+thank you! that's all i needed.
+your very welcome! have a nice day!
+Thank you very much.
+Okay. Thank you again.
+***
+hi, i'm looking to catch a train to _destination_  are there any that depart at or around _leaveat_ 
+there are departures _choice_ from _departure_ at _leaveat_  would you like any more information of train times or help booking a train?
+does that train leave on _day_ 
+yes! we have _choice_ trains leaving on _day_ to _destination_  what time would you like to arrive by?
+no preference.
+the train closest to your preferred departure time is _trainid_  going from _departure_ to _destination_ at _leaveat_  would you like me to book that for you?
+sure thing, i'd like _people_ tickets please.
+booking was successful, the total fee is _ticket_ payable at the station. your reference number is : _reference_ 
+thank you!
+you're welcome. can i help with anything else?
+Thanks so much for all your help.
+You're welcome. Good-bye.
+***
+i need a train that is leaving on _day_ and leaving after _leaveat_ 
+i would be happy to help you. i have _choice_ trains departing _day_  what day/time will you be departing and what is your destination?
+i need to leave _departure_ after _leaveat_ to go to _destination_ 
+i have trains leaving to there, what time would you like to arrive by?
+that really shouldn't matter, i just need the booking for _people_ 
+okay, you have _people_ tickets reserved on _reference_  the total fee is _ticket_ payable at the station, and your reference number is _reference_ 
+Thanks, that's all I need. Have a nice day.
+Okay great. glad we could be of help.
+***
+i am looking for a train to _destination_ on _day_ 
+certainly, do you know from where you will be departing, and at what time?
+I will depart at Birmingham New Street and should arrive by 11:30. Can you help me with this?
+Of course I can. There are 6 possibilities, at what time would you like to leave? 
+***
+i'm .looking for a train departing from _departure_ 
+i'd love to help! where's your destination?
+i need to go to _destination_ on _day_ 
+i have _choice_ trains that day from _departure_ to _destination_  what time would you like to leave?
+i want to leave sometime after _leaveat_ 
+ok, i have _trainid_ that leaves _day_ at _leaveat_  would you like me to book it?
+yes, please, for _people_ people.
+booking was successful, the total fee is _ticket_ payable at the station. reference number is : _reference_ 
+Thanks! Have a good day.
+Thanks for using Cambridge TownInfo centre! Have a nice day!
+***
+i am in need of a train that can arrive by _arriveby_ an leave on _day_ 
+there are _choice_ trains that match your requirements. what is your destination, and from where are you traveling?
+i want to get to _destination_ please.
+there is a train that arrives at _destination_ at _arriveby_  would you like to book that?
+does it depart from _departure_ 
+yes, the train goes from _departure_ to _destination_ on _day_  it departs at _leaveat_ and arrives at _arriveby_  there is also a train that arrives at _arriveby_ on the same route.
+let me get the train id and price for the one arriving at _arriveby_ 
+the train id is _trainid_ and the cost is _ticket_  can i book that for you?
+No, but I have all the information I need. Thanks.
+You are quite welcome!
+***
+i am looking for a train. the train should depart from _departure_ and should go to _destination_ 
+i can find you a train. what day and time would you like to travel?
+i need to arrive by _arriveby_ 
+i have trains that meet you criteria for most days of the week, do you have a day or departure time preference?
+i want to leave on _day_ 
+ _trainid_ arrives at _leaveat_ on _day_  would you like me to book it for you?
+yes, i would. could you book that for _people_ people, please?
+the booking was successful, the total fee is _ticket_ payable at the station. the reference number is _reference_ 
+thank you so much for your help.
+welcome again next time.enjoy the journey.
+Thank you that is all I need.
+Thank you for using the Cambridge TownInfo centre. Goodbye for now.
+***
+i would like to book a hotel room for two.
+okay, is it possible you meant to say you needed to find a train? i can help you with that.
+yes, sorry.  i need to leave _departure_ on _day_ 
+and what is your destination?
+ _destination_  please give me departure time and travel time.
+would leaving at _leaveat_ and arriving at 5:52 work?
+it most certainly would, thank you.  i am not ready to book, can you just give me the travel time for that trip?
+the travel time is _time_  is there anything else?
+No, that's all, thanks.
+You're welcome. Have a great day!
+***
+i am looking for a train to _destination_ 
+ok.  where are you leaving out of?
+i'm leaving out of _departure_ 
+great there are _choice_ trains, do you have a day or time?
+i need to arrive by _arriveby_ on _day_ 
+ _trainid_ leaves at _leaveat_ and arrives by _arriveby_  would you like to book this train?
+yes for _people_ people please. i will need the reference number.
+ _people_ tickets to arrive by _arriveby_ 
+can i have the reference number for the train booking please?
+i have another train that leaves at _leaveat_ and arrives at _arriveby_ if that would be better?
+that is not better. i would like a reference number for the _people_ tickets already booked, please.
+sure thing. the reference number is _reference_  how else may i help?
+Thanks. That's all I need. Have a good day.
+You as well, enjoy your trip!
+***
+i'd like a train to _destination_ that arrives by _arriveby_ 
+where are you departing from?
+i'm departing from _departure_ 
+i can reserve a seat on _trainid_ departing at _arriveby_ and arriving in _destination_ at 9:52.  how many tickets will you need?
+it doesn't matter to me.
+if you wouldn't like me to book you a ticket, is there anything else you need?
+can you tell me what the travel time for that train is?
+that will be _time_ 
+Okay great. That is all thank you.
+Okay great. Thanks fro calling.
+***
+are there any trains leaving from _departure_ on _day_ 
+yes there are. what is your destination?
+i'm heading to _destination_ 
+we have _choice_ from _departure_ to _destination_  starting at _leaveat_ for _ticket_  what time would you like to leave?
+i am looking for one that will arrive by _arriveby_ 
+tr2125 leaves at _leaveat_ and arrives at _arriveby_  would you like me to book that for you?
+yes, i would also like the reference number for the booking please.
+okay, how many tickets would you like?
+i need that for _people_ people.
+you have _people_ tickets on tr125 leaving _day_ at _leaveat_   reference number is _reference_ _ticket_ will be payable at the station.  can i help you further?
+No, I think I'm all set. Thank you very much for your help!
+Have a great day!
+***
+i am looking for a train that departs from _departure_ on _day_ 
+there's a train that leaves at _leaveat_ and arrives at _arriveby_  is that good?
+no, i actually need to leave after _leaveat_ 
+okay, and what is your destination?
+i need to go to _destination_ after _leaveat_ 
+i have a train that leaves _destination_ on _day_ at _leaveat_ and arrives by _arriveby_  would you like to book tickets?
+yes, that would be great. can you book tickets for _people_ people please. and i'll need a reference number for it.
+booked! your reference number is _reference_  fee is _ticket_  paid at the station. anything else.
+No thank you. That is all.
+Okay great. Glad I could be of assistance.
+***
+i would like to book a train for _day_ departing from _departure_ and arriving at _destination_ at _arriveby_ 
+what time would you like to leave by?
+can you please provide me with the departure time of the train arriving by _arriveby_ or just before?
+the departure time is _leaveat_ 
+what time is it scheduled to arrive?
+the departure time is _leaveat_   may i book some tickets or provide you with further assistance today?
+Thanks so much for your help. That's all today.
+Okay, thank you so much for contacting us. Have a great trip!
+***
+i am looking for a train to go to _destination_ 
+there are _choice_ to travel to _destination_  what time would you like to travel?
+i need to travel after 9am.
+there are _choice_ trains. how does the _trainid_ train that leaves at _leaveat_ sound?
+that will be ok. thank you for your help.
+can i look up anything else for you?
+that's on _day_  right?
+no, that's on friday, actually. on _day_  i have _trainid_ departing cambridge at 9:00, going to _destination_  will that work for you?
+okay very good. what's the train id on that please?
+ _trainid_  would you like for me to get you tickets?
+yes please book that train for me.
+sure, will you be traveling alone?
+yes it's just going to be me.
+i've booked you a ticket. the fee is _ticket_  payable at the station. the reference number is 3xi4v3c _people_  is there anything else i can assist with?
+no, that's all. thank you.
+thanks for your service.
+have a nice day.
+have a great day. let me know if you need any other help.
+I will. Thanks again!
+You're welcome. Please call us again if you need anything else.
+***
+i'm looking for a train that leaves _day_ and arrives by _leaveat_ 
+where is your departure from?
+oh, sorry coming in from _departure_ 
+i have train tr4638 from _departure_ to _destination_ departing at _leaveat_ and arriving at _arriveby_  would that work for you?
+may i make a booking for six people?
+i have successfully booked your tickets. _ticket_ is payable at the station. the reference number is _reference_ 
+Great. Thank you.
+Have a great day!
+***
+i need help finding a train leaving _departure_ after _leaveat_ 
+i found _choice_ trains that leave at that time. what is your destination?
+im going to _departure_ 
+there are no trains leaving _departure_ and also going to _departure_  did you mean to choose another destination?
+the train should leave on _day_ and should go to _destination_ .
+ _trainid_ leaves at _leaveat_ on _day_  can i book it for you?
+yes, please. could you book _people_ tickets?
+booking was successful, the total fee is _ticket_ payable at the station . reference number is : _reference_ 
+thank you for your help.
+thank you so much. have a good day now!
+Thank you good bye.
+You are more than welcome! 
+***
+i am looking for a train. the train should depart from _departure_ and should leave after _leaveat_ 
+there are _choice_ trains that could work for you. do you have a time you'd like to arrive by? or a day of the week you'd like to travel?
+i'm headed to _destination_ on _day_ 
+train _trainid_ leaves _departure_ at _leaveat_ _day_  and will arrive at _destination_ by _arriveby_  would you like me to book it for you?
+i don't want to book yet but could you tell me the travel time?
+should i book for you?
+no i just told you i only want the travel time!
+train _trainid_ leaves at _leaveat_ and arrives by _arriveby_   is there anything else that i can help you with today?
+No that's it.  Thanks.
+Alright then, thanks for calling & have a great day!
+***
+i am looking for a train. the train should go to _destination_ and should arrive by _arriveby_ 
+okay, where are you departing from?
+i want to leave from _departure_ 
+okay, what day of the week are you looking for the train?
+i will depart on wednesday.
+booking was successful, the total fee is _ticket_ payable at the station . reference number is : _reference_ 
+wait, this is for 3 people. are there enough available seats?
+it looks as though they have only booked you for one ticket, i'm sorry.
+could you redo booking for _people_ people please.
+okay, the booking has been revised to reflect three guests. my apologies for that.
+can i get the new reference number?
+of course! you're new reference number is _reference_  can i help you with anything else?
+No- I think you have answered all my questions! Thank you!
+You are welcome.  Enjoy your stay in Cambridge.  Good bye.
+***
+i need a train from _departure_ to _destination_ 
+no problem.  what day will you be leaving, and is there a particular time you would like to board?
+yes, i need to leave on _day_ sometime after _leaveat_ 
+i have a train that leaves _departure_ at _leaveat_ and arrives in _destination_ at _arriveby_  would you like me to book it for you?
+yes, i also would like the reference number.
+sure thing. the number is _reference_  anything else i can do for you?
+i'm sorry, i forgot to specify that i need _people_ tickets. could you change that for me?
+sur _destination_  i have made that change and the new reference number is _reference_  is there anything else i can do for you?
+Thanks I appreciate it. That's all I need!
+You're welcome. Enjoy your trip!
+***
+i am looking for a train that leaves _day_ going to _destination_  do you have a train with those details?
+there are _choice_ trains on _day_ that go to _destination_ from _departure_  what time do you need to leave or arrive, and how many tickets do you need?
+i need to arrive by 13:00.
+there is _choice_ train that arrives at _arriveby_  that trainid _trainid_ 
+i need a booking for _people_ people.
+i've _choice_ that. the price will be 1 _people_ 08 gbp payable at the station. your reference number is ir7hsmg _people_  any else i can do for you?
+No, that will be all
+Thank you, you have been very helpful.
+***
+hi. help me with a train schedule, please.
+i'd be happy to help. let's start with a few questions; which station would you like to depart from and where would you like to go?
+i am looking to depart from _departure_  and i am going to _destination_ 
+okay, great. what day are you wanting to travel?
+i would like to go on _day_ 
+how about _trainid_ that leaves at _leaveat_ 
+that sounds great! i'd like to buy one ticket please.
+could you please confirm if you need to arrive by any particular time?
+i really must arrive by _arriveby_ to make my meeting. .
+ _trainid_ will arrive by _arriveby_  does this suit your needs?
+yes, can you book it for 5 people and please give me the reference number.
+your reference number is _reference_  is there anything else i can help you with?
+That's everything. Thanks so much for your help. Goodbye.
+Thank you for contacting Cambridge TownInfo centre.  Have a nice day!
+***
+hi. i'm looking for a train from _departure_ to _destination_  if there is one.
+okay, what day do you want to leave?
+i would like to leave on _day_ 
+how about _trainid_ 
+well i need to leave after _leaveat_  so if it is after that time that'll work.
+tr9823 will leave at _leaveat_  how does that sound?
+i think that'll work.  i need to reserve two seats, can you help me with that?
+booking was successful, the total fee is _ticket_ payable at the station. reference number is : _reference_ 
+Thank you. That's all I need for now!
+You're very welcome. Have a great day.
+***
+i need some help finding a train. i'm going to _destination_ on _day_ 
+certainly. where are you departing from?
+i's sorry, i meant to say leaving from _departure_ on _day_  heading to king's lynn. i need to arrive by _arriveby_ 
+there are _choice_ trains that will get you there by then, for how many people?
+what is the cost per ticket?
+the price is $9.80 pound per ticket. would you like to book it?
+okay thank you very much.
+we are happy to help. can i assist you with anything else?
+no, that's everything.
+i'm sorry, i may have misunderstood.  the train hasn't been booked yet, should i book it for you now?
+sure, go ahead. thank you.
+alright, you're booked. anything else you need from me?
+no, that's all, thank you!
+how many people will need a ticket for the train?
+I am so sorry for the misunderstanding.  I don't wish to book at the moment.  I am all set.  Have a great day.  Bye.
+No problem.  You have a great day also.  Bye.
+***
+i need help finding a train. it needs to be going to _destination_ and should arrive by _arriveby_ 
+there is _choice_ leaving from _departure_ the refernce number is _reference_ 
+i need to leave _choice_ _day_   does that one leave _choice_ _day_ 
+there is a train that leaves from _departure_ on _day_ that arrives at _destination_ at _arriveby_  shall i book this for you?
+no, i need to leave from _departure_ 
+very well. what time would you like to leave?
+i don't care, just make sure i can be there by _arriveby_ 
+ _trainid_ departs _departure_ at _leaveat_ and arrives in _destination_ at _arriveby_ on _day_  would you like me to book that for you?
+yes i need three seats on the train please.
+great i got you three seats on that train for a total cost of 11 _people_ 40 pounds. your reference number is _reference_ 
+Okay That is all I need.
+Thank you for using Cambridge TownInfo centre. Have a nice day!
+***
+hello, i need a train to come in at 8 am.
+where would you like the train to take you?
+i need to leave from _departure_ and get to _destination_ by 8:00 on _day_ 
+the tr2973 leaves from _departure_ on _day_ at 07:11 and arrives at _destination_ at 07:58. if you want one that leaves more time there is one an hour earlier.
+that one will work, can you get me 7 tickets please?
+alright, i've booked that and it was successful. your reference number is _reference_ and the total fee is _ticket_  anything else?
+That's all for today. Have a great one!
+Thank you, you have a great day as well. Let me know if you need help with anything else.
+***
+i'm looking for a train going to _destination_ 
+the train id is tr5154 and it leaves cambridge on _day_ 
+i am actually leaving on _day_ from cambridge.
+the train id is tr2895 and it leaves cambridge on _day_ .
+Great, can you please book it for 2 people and give me the reference number? Thanks.
+You are all booked for Saturday. The train departs at 05:59 and arrives at 07:27. The price is 13.28 pounds.
+***
+i'd like a train to _destination_ to arrive by 9:45.
+okay, where would you like to depart from?
+i'd like to leave from _departure_  please.
+there are _choice_ trains, do you have a day preference?
+i need to leave on _day_ 
+train _trainid_ leaves on _day_ at _leaveat_ and arrives at _arriveby_  would you like me to book?
+i sure would, thanks.  i will need seats for _people_ people.
+your reference number is : _reference_  the total fee is _ticket_ payable at the station.  is there anything else i can do for you?
+No thank you. Have a great day!
+You as well, enjoy your trip!
+***
+i need a train on _day_  leaving from _departure_ 
+there are _choice_ trains leaving _departure_ on _day_  what time would you like to depart?
+around 08:00 and departing for _destination_ 
+there is a train leaving at _leaveat_  does that work?
+that should work fine can i get tickets for _people_ people?
+i have booked the train for _people_ people. 141. _people_ gbp is payable at the station. the reference number is _reference_ 
+That sounds great.  I appreciate your help.  Bye.
+Okay Glad i could be of help.
+***
+hi! i need a train from _departure_ sometime after 19:30, please.
+that should be no problem! what day are you traveling?
+i would like to go this _day_ to _destination_ 
+ _trainid_ will be departing _departure_ _day_ at _leaveat_  there is also one _leaveat_  would you like to book a ticket for one?
+i'll take the _leaveat_  i'll need _people_ tickets please.
+alright, your tickets have been booked and the reference number is zi1rmkw _people_  is there anything else i can do for you?
+You have been very helpful. Thank you. Goodbye.
+Thank you very much and have a nice day!
+***
+i need a train to _destination_ 
+ok.  where will you be departing from?
+i want to leave from _departure_ on _day_ 
+okay, do you have a desired time for departure or arrival?
+i need to leave after _leaveat_ 
+ _trainid_ departs _departure_ _day_ at _leaveat_  would you like to book a ticket for this train?
+what time does it arrive?
+it arrives at _arriveby_  would you like me to book it for you?
+No, I just needed the information.  I am all set, thanks.  Have a nice day.
+Great! Thank you for using the Cambridge TownInfo centre. Have a wonderful day!
+***
+hello, i'm looking for a train from _departure_ to _destination_ 
+certainly, there are _choice_ trains going that route. can you specify which day you'd like to travel?
+sorry.  i want to leave on _day_ after _leaveat_ 
+there is a train _day_ at _leaveat_  does that work for you?
+yes that works great can i book that for _people_ people please?
+i have confirmed booking for _people_ tickets, your reference number is _reference_   the total fee is _ticket_ payable at the station. can i help with anything else?
+Thanks, that's all I need. Have a nice day.
+Great! I'm glad we could help.
+***
+i need to book a train.  i need it to leave on _leaveat_ after 21:30.  can you book this for me?
+where will you be departing from? and where is your destination?
+i'd like to go from _departure_ to _destination_  please.
+there are _choice_ trains leaving _choice_ _day_  one leaves at 2 _choice_ 16 and arrives at _arriveby_ and the other leaves at 23:16 and arrives at _arriveby_  do either of these work?
+yes. go with the 2 _choice_ 16. book it for _people_ people please.
+booking was successful. the fee is _ticket_ and the reference number is _reference_ 
+Great that's all I needed today, thank you!
+You're welcome. It was a pleasure to assist you. Have a good day. 
+***
+i'm looking for a train please.
+there are several trains where are you going?
+i want to go to _destination_ 
+i can certainly help. where are you departing from?
+i am departing from _departure_ 
+do you have a day in mind to travel?
+ill travel; on _day_  get me the train id and price.
+what time would you like to depart?
+i would like to leave _departure_ after _leaveat_  please.
+i have a train leaving _departure_ at _departure_  the id is tr9805 and it's _ticket_ per ticket.
+thanks for helping.
+you're welcome. anything else i can help you with today?
+No, I only needed the train info. Thanks, again. Goodbye.
+We hope you have a nice time in town. Good bye!
+***
+hi! i need a train to _destination_  i need an early _choice_  arriving there by 8:30.
+i have _choice_ trains that will arrive before that time, is there a particular day you'd like?
+i would like to leave on _day_ 
+i have no trains leaving at that time on _day_  could you pick a different time or date?
+you have no trains departing _departure_ to _destination_ on _day_ that will arrive by 8:30?
+oh wait i have found you _choice_ that departs at _leaveat_ and arrives in _destination_ at _arriveby_  would that do? everything else is later.
+yes that is fine. how long is the journey and how much is the ticket by the way?
+it will be _time_ and the price is _ticket_  shall i book a ticket?
+yes book me a ticket please.
+no problem, your ticket is booked.  the reference number is _reference_ 
+Thank you, that's all I needed today.
+Great! Have a wonderful time! Goodbye! 
+***
+ i am looking for a train. the train should arrive by _arriveby_ and should leave on _day_ 
+and what are your departure and arrival stations?
+i would like to leave _departure_ and go to london liver pool.
+there are _choice_ trains running on _day_ that will meet your needs. would you care to book tickets for one?
+i actually just need to know the price of a ticket please.
+the price of one ticket is _ticket_  may i assist further in any way?
+No thanks, that was all I was hoping to find out! Have a good day!
+Okay, great, I hope you have a nice day too!
+***
+i am  looking for a train.
+alright. where are you headed?
+i'm head to _destination_ from _departure_ on saturday.
+what time are you planning to leave?
+anytime after 8:45.
+ _trainid_ leaves at _leaveat_ and arrives at _arriveby_  it is _ticket_  would you be interested in that?
+i meant to say i want to leave after _leaveat_ 
+great, i have _trainid_ that meets your criteria  and is _ticket_  would you like me to book it?
+yes, please. i booking for one person.
+pardon me, did you say you are traveling on _day_ or sunday?
+i am traveling on _day_ 
+okay, i have _trainid_ that leaves at _leaveat_  the price is _ticket_  would you like me to book it?
+yes please, for one person.
+okay, booking was successful. your reference number is _reference_  anything else?
+Nope, that's all. Thanks!
+you are welcome, enjoy yourself.
+***
+i need a train leaving _departure_ sometime after _leaveat_ please.
+where are you headed?
+i'm going to _destination_ 
+rainid	departure	destination	day	leaveat	arriveby	price	duration	book (optional) tr2420 _departure_ _destination_ friday _leaveat_ _arriveby_ 23.60 pounds	51 minutes	 tr6628 _departure_ _destination_ friday	17:00	17:51	23.60 pounds	51 minutes	 tr1006 _departure_ _destination_ friday	19:00	19:51	23.60 pounds	51 minutes	 tr3055 _departure_ _destination_ friday	21:00	21:51	23.60 pounds	51 minutes	 tr9876 _departure_ _destination_ friday	23:00	23:51	23.60 pounds	51 minutes	these are the available options.
+i'm a little overwhelmed by the information. i am actually leaving on sunday, this seems to be _day_ 
+there s a train that departs at _leaveat_ arriving in _destination_ at _arriveby_  how does that sound?
+i need to depart from _departure_ 
+there is a train running from _departure_ to _destination_ on _day_ that leaves at _leaveat_  the train id is _trainid_  would you like me to book it for you?
+no. i need the train to go from _departure_ to _destination_ on _day_ and leaving after _leaveat_ 
+alright, i have _choice_ options for you. the earliest train that meets your criteria is _trainid_ and leaves at _leaveat_  will that work?
+that sounds great. could i get the price please?
+the price is _ticket_  is there anything else i can help you with?
+I think that's it. Thank you.
+Thanks for your help
+***
+i am looking for a train that departs _departure_ after _leaveat_ on _day_ 
+what is your destination that you would like to go to?
+i'm heading to _destination_  i need to book for _people_ people and can i please get a reference number?
+sure thing. the reference number is _reference_  can i assist with anything else?
+No that will be all . Thank you.
+Thank you for using our service. Please have a great day.
+***
+i need a train on _day_ that leaves after 16:00.
+where will you be leaving from and traveling to?
+i would like to go to _departure_  from _destination_ 
+i found _trainid_ leaving at _leaveat_ would that work for you?
+yes. one ticket. i need the travel time and train id.
+okay, i have you booked on _reference_ from _departure_ to _destination_ leaving _day_ at _leaveat_  arriving _time_ later at _arriveby_  the reference number is _reference_  anything else today?
+I believe I am good for the moment thank you for your help.
+You're welcome!  Have a safe trip!  Goodbye.
+***
+i am looking for a train departing for _destination_ after 8:15am.
+i have a train leaving from _departure_ on _day_ leaving at _leaveat_  how does that sound?
+no thank you, i would like a train that is leaving on thursday and departing from _departure_ 
+these are the possible options trainid	departure	destination	day	leaveat	arriveby	price	duration	book (optional) tr1612 _departure_ _destination_ _day_ _leaveat_ _arriveby_ _ticket_ _time_  tr1958 _departure_ _destination_ _day_ 10:11	10:58 _ticket_ _time_  tr3147 _departure_ _destination_ _day_ 11:11	11:58 _ticket_ _time_  tr6454 _departure_ _destination_ _day_ 12:11	12:58 _ticket_ _time_  tr0674 _departure_ _destination_ _day_ 13:11	13:58 _ticket_ _time_ .
+please pick a train that leaves after 8:15 and going to _destination_  i need the travel time and price.
+ _trainid_ leaves _departure_ at _leaveat_ and arrives at _arriveby_ with a travel time of _time_  the price is _ticket_ 
+Thank you. That is all I needed.
+You're very welcome! Goodbye.
+***
+hello.  could you find a train leaving on _day_ for me?  i need it to arrive by _arriveby_ 
+certainly. where are you going, and where would you like to depart from?
+i will be leaving _departure_ to go to _destination_ 
+tr0449 is going to arrive by _arriveby_ would that work for you?
+sounds good. could you find me a cheap eatery near there when we arrive?
+sure i'd be happy to find a restaurant. are you looking for one in the centre area?
+maybe later. what time does my train leave and how much is the ticket?
+it leaves at _leaveat_ and the cost of the ticket is _ticket_ 
+how long is the travel time going to be?
+it will be a _time_ train ride.
+that will be all.  thank you.
+alright. enjoy your stay in _departure_ 
+Thanks! Have a great day!
+You're welcome. Goodbye!
+***
+i'd like to find a train that departs from _departure_ on _day_  please!
+ok, i just need a little more information. what's your destination and what time would you like to leave?
+i need to leave after _leaveat_ and i am going to _destination_ 
+we have _choice_ trains leaving after _leaveat_ on _day_  was there a specific time you wanted to arrive by?
+any of them will do. can you tell me the price, arrival time and train id of at least one option?
+i have the _trainid_ that leaves at _arriveby_ and arrives by 13:52. it is _ticket_  is there anything else i can help you with?
+I think that is all I need, thank you. 
+You're welcome. Have a great day!
+***
+is there a train schedule for _day_ 
+there are _choice_ trains on _day_  do you have a departure point or destination in mind?
+yes, departing from cambride going to _destination_ 
+what time would you like to leave?
+i don't have a preference for leave time. i need to arrive in _destination_ by _arriveby_ 
+there is the information _trainid_ _departure_ _destination_ _day_ _leaveat_ _arriveby_ _ticket_ _time_ .
+well, that is pretty early, but i think it will work. thank you so much!
+booking was successful, the total fee is _ticket_ payable at the station . reference number is : _reference_ 
+great, thanks for your help.
+do you need any further assistance?
+No that was all. Thanks
+Thanks for allowing me to help you. Have a great day.
+***
+i am looking for a train to _destination_ 
+ok, and what day and time are you looking for?
+i am looking to go from _departure_ to _destination_ and leave after _leaveat_ 
+there are _choice_ trains making that trip, do you have a day you prefer?
+i'll be traveling on _day_ 
+great. you can leave as soon as _leaveat_ or as late as _leaveat_  do you have a preference?
+i will take the 1 _people_ 3 _people_  can you book that for _people_ people and provide me with a reference number please?
+yes certainly. i have you booked and your reference number is _reference_ 
+Thank you so much! Goodbye!
+Have a great day!
+***
+i need to what trains are leaving friday evening.
+where are you looking to depart from?
+i'm leaving from _departure_ 
+there are _choice_ leaving _departure_ all evening. do you know what time you plan to leave?
+not really.  i want to get there by _arriveby_ though.
+ _trainid_ leaves _departure_ at _leaveat_ and arrives in _destination_ at _arriveby_  will this work for you?
+yes, that's perfect. what is the price?
+the price is _ticket_ 
+thank you very much. that is all for today.
+are you certain you don't need further assistance?
+Yes I am sure. Thank you.
+You're welcome.  Thank you for using the Cambridge TownInfo centre.  Goodbye.
+***
+hello.  are there any trains leaving after 8:00 on saturday?
+what is your destination?
+im going to _destination_ 
+where will you be leaving from?
+i would be leaving from _departure_ 
+there is a train leaving at _leaveat_ would that work for you?
+yes, that would be fine. what's the train id and travel time for that one?
+the _departure_ train leaves at _leaveat_ on _day_ 
+can you give me the id for this train and the overall travel time?
+the id is _trainid_ and the total travel time is _time_  can i be of further assistance today?
+That is all I will need. Good bye. 
+Please let us know if we can assist you in the future. Have a great day!
+***
+can you help me find a train? i am looking for that departs from _departure_ on _day_ 
+there are _choice_ trains leaving from _departure_ on _day_  can you give me a destination point so that i can narrow it down for you?
+i would like to go to _destination_ and the train should leave after _leaveat_ 
+the _trainid_ leaves at _leaveat_  will that suit you?
+that would be great. can you get me _people_ tickets on that train?
+alright, you booking was successful, your confirmation number is _reference_ 
+ok. is that also the reference number? thanks.
+that's correct, the number i gave you was the reference number you'll need.  you'll need to pay _ticket_ when you get to the station.  is there anything else?
+okay. thank you very much.
+is there anything i can help you with today?
+No, that would be all. Thanks. Have a night day. 
+Thank you.  You have a night day as well.
+***
+looking for a train going _destination_ 
+okay, for what day and where are you departing from?
+i am looking at traveling on _day_ and departing from _departure_ 
+is there a particular time you would like to leave?
+i want to leave after _leaveat_ 
+train _trainid_ leaves at _leaveat_ and arrives at _arriveby_  would that work?
+yes, i need a booking for _people_ people please.
+ booking was successful, the total fee is _ticket_ payable at the station . reference number is : _reference_ 
+thanks!  that is all i needed.
+our pleasure. please call us again and have a terrific day.
+You too, good bye now.
+Thank you for contacting Cambridge TownInfo centre. Have a nice day!
+***
+i am looking for a train departing from _departure_ 
+when would you like to depart _departure_ 
+yes departing from there heading to _destination_ on _day_ 
+what time would you like to depart or arrive?
+the train should go to _destination_ and should arrive by _arriveby_ 
+i have train _trainid_ departing _departure_ at _leaveat_ and arriving in _destination_ at _arriveby_ 
+please book that for _people_ people.
+booking was successful, the total fee is _ticket_ payable at the station. reference number is : _reference_ 
+Thank you, good bye.
+Great! Have a nice day!
+***
+i am looking to find a train. it needs to go to _destination_ and it has to leave on _day_ 
+i have _choice_ trains travelling to _destination_ on _day_  could you be more specific on when you'd like to depart and from where?
+i'd like to depart from _departure_ after _leaveat_ 
+i have one train departing at _leaveat_  one at _leaveat_  and the last one at _leaveat_  will any of those work?
+yes, _leaveat_ will be fine. i'd like tickets for _people_ people.
+congratulations! your booking was successful with a reference number of _reference_ and a fee of _ticket_  can i help you with anything else?
+That is all.  Thank you.
+You're welcome. Enjoy your day.
+***
+i'm looking for a train please.
+certainly. on what day do you want me to look?
+on _day_ from _departure_ to norway leaving at 2030 hrs.
+i'm sorry, could you confirm your destination so i can get an accurate schedule.
+i'm sorry, i meant _destination_  not norway.
+i couldn't get you to norway but _destination_ is much more doable. i've got the tr2181 to _destination_ leaving at 20:36 with a fare of 17.60gbp. would that suit you?
+that would be perfect. could you book it for _people_ person and provide me a reference number?
+ _reference_ is your reference number. what else may i do for you?
+No, thank you. good bye
+Okay, have a great time and be safe.
+***
+i am looking for a train that will depart on _day_ and arrive by _arriveby_ 
+i have found the _choice_ for the _day_ departures. what is your destination? would you like me to book a trip?
+i am going to cambridge from leicester. and, yes, please book it for me.
+for how many tickets?
+ _people_ please.
+your booking was successful. train id is _reference_  total fee is 211.6 _people_ gbp. reference number is _reference_  anything else i can help with today?
+thank you!
+i'm glad i could help. is there anything else?
+that's all, thank you !
+excellent. have a great day!
+Okay, you too. Thanks again.
+You're welcome. Good-bye.
+***
+i'd like to find a train arriving in _destination_ by 8:00.
+there are _choice_ from _departure_ at _leaveat_ that arrive in _destination_ at _arriveby_   which day were you planning to travel?
+i am planning to travel on _day_ 
+there are _choice_ from _departure_ at _leaveat_ that arrive in _destination_ at _arriveby_  would you like to book tickets?
+yes, i'll need _people_ tickets please.
+your booking was successful, the total fee is _ticket_ payable at the station .the reference number is : _reference_ 
+Great, thanks! That's all I needed.
+You are quite welcome. Have a good day.
+***
+hi, i would like to travel _departure_ from _destination_ by train. could you please tell me when the next train is leaving?
+the next train departing is tr8306 on friday at _leaveat_ set to arrive by _arriveby_   would you like to book that?
+i actually need to leave on _day_ 
+let me confirm you are traveling from _departure_ to _destination_ this _day_  also, what time do you want to leave or arrive?
+i am in _departure_ traveling to _destination_ on _day_  i want to arrive in stevenage by _arriveby_ 
+train id _reference_ price _ticket_ reference number is : _reference_ 
+i'll also need the travel time please.
+the travel time is _time_ 
+ok, great. thanks!
+thank you for using our services, do you need any further assistance?
+No that was everything. Goodbye.
+Thank you for allowing me to help. Have a great day.
+***
+i am looking for a train from _departure_ 
+certainly, where is your destination?
+my destination is _destination_ 
+there are _choice_ trains do you have a day and time you'd like to travel?
+i need to leave _day_ after _leaveat_ 
+i have one leaving _departure_ at _leaveat_ and arriving in _destination_ at _arriveby_  would you like to book it?
+what is the train id and price?
+the train id is tr4018 and the cost of the journey will be _ticket_ 
+That's everything I needed to know thanks.
+You're welcome. Have a great day!
+***
+i need to find a train from _departure_ to _destination_ 
+what day and time would you like to travel?
+i would like to leave on _day_ 
+when would you like to arrive in _destination_ on _day_ 
+i really just need to leave after _leaveat_  the arrival time doesn't really matter.
+should i book it for you?
+yes for _people_  all i would need is the reference number.
+i have booked _people_ tickets for you on tr664 _people_  your reference number is _reference_  what else can i assist with?
+Thanks for being so helpful! I appreciate your time. I'm all set now.
+You're very welcome, I am so glad to have been of service! Have a wonderful day now, bye!
+***
+i  would like to book a train for _day_ at _leaveat_ departing at _departure_ and arrive at _destination_ 
+what time would you like to arrive by?
+i just need to leave after _leaveat_ 
+the tr9286 train goes from _departure_ to _destination_ on _day_ at _leaveat_  shall i book that for one person?
+can you please book it for _people_ people?
+hi..a reservation for _people_ people has been confirmed. the reference number is _reference_ and the price is 40.4gbp payable at the station. anything else i can do?
+No, thank you for your help.
+you are welcome! Have a good day!
+***
+i'm in need of a train leaving boxbourne that can't arrive any later than _arriveby_   can you find me one?
+but of course. i just need a bit more info. what time do you want to leave and on what day?
+i want to leave on monday. it doesn't matter what time the train leaves as long as i arrive by _arriveby_ 
+just to confirm:  is your destination _destination_ or another city?
+yes, my destination is _destination_  and i'll be coming in from _departure_ 
+okay, that helps give us a good start, what day are you wanting to travel?
+ _day_  please. for 6 people.
+it looks like there is a train leaving _departure_ at _arriveby_ and arriving in _destination_ at 13:32. the price is _ticket_ pounds per passenger. shall i book this for you?
+yes, please. i'll need _people_ tickets.
+the booking for _reference_ was successful, the total fee is _ticket_ payable at the station . reference number is : _reference_ 
+Thank you so much. You have been very helpful!
+You are very welcomed. Have a great day!
+***
+i need to book a train to travel to _destination_ leaving after _leaveat_   can you help me with this?
+sure! where would you like to depart from?
+i'll be leaving _departure_ on _day_ 
+there are trains leaving _leaveat_  if can book one of those for you if you like.
+i need to leave after _leaveat_ 
+i can book you on _trainid_ leaving _departure_ at _leaveat_ on _day_   how many tickets should i reserve?
+can you book me _people_ tickets please? i will also need the reference number too.
+i've reserved _people_ tickets for you. your reference number is _reference_ 
+No, that will be everything. Thanks for your help.
+You're welcome, enjoy your trip. 
+***
+yes, i am looking for a train that will be leaving after _leaveat_ on _day_ 
+what is your destination?
+the train should go to _destination_ and should depart from _departure_ 
+tr1395 leaves _departure_ for _destination_ on _day_ at _leaveat_ and arrives by _arriveby_ 
+could you book that for _people_ people, please?
+booking was successful, the total fee is 132. _people_ gbp payable at the station . reference number is : _reference_ 
+Thanks, that's all I need. Good bye.
+Glad to have helped. Goodbye. 
+***
+hello! i'm looking for a train leaving on _day_ departing from _departure_ 
+ok, and what time are you traveling?
+i'd like to leave after _leaveat_ 
+train _trainid_ leaves _departure_ for _destination_ on _day_ at _leaveat_  will this suit your needs?
+that would work for me can i get tickets for _people_ people?
+great! i have booked _reference_ for _people_ people at 2 _people_ 29. your reference number is : _reference_  may i help with anything else?
+No, that is all I really needed. Thanks. Have a great day!
+Glad I could help!
+***
+i need a train to _destination_ on _day_   i'll be departing from _departure_ 
+in order for me to find the best train to suit you, can you provide me with a preferred departure or arrival time?
+we'd like to arrive by _arriveby_ 
+there are _choice_ trains that arrive by _arriveby_   what time would you like to leave?
+what's the latest train i can take that will still get me there by _arriveby_ 
+the latest train leaves at _leaveat_ and arrives at _arriveby_  the cost per ticket is _ticket_  would you like to book this train?
+yes, for _people_ people. please give me reference number.
+perfect. i have booked your trip. reference # _reference_ 
+Great!  Thanks!  That's all I needed!
+Glad I could help! Have a nice day!
+***
+i'm looking for a train from _departure_ 
+let me help you with that, where would you like to go?
+i need to get to _destination_ please.
+what day will you be traveling?
+i'd like to travel on _day_ 
+what time do you need to leave or arrive by?
+I need to leave after 16:15.
+Ok there is one leaving at the same time i'm eager to book it for you
+***
+would you be able to find me a train leaving on _day_ 
+certainly. can you please tell me the location you are departing from and where you would like to go?
+i will be going to leicaster from _departure_  departing after _leaveat_ please.
+i have train _trainid_ leaving at _leaveat_ and arriving at _arriveby_  would that suffice?
+yes, that will work out great. can you please book me _people_ tickets for that train?
+okay, i've booked _people_ tickets for that train. the reference number is _reference_  is there any other information you need?
+That's all that I needed today, thank you!
+It was a pleasure to help. We hope you will use our service again in the future. Have a wonderful night. 
+***
+i am looking for a train leaving after _leaveat_ 
+ok, what are your departure and arrival stations, and what day are you traveling?
+i'll be leaving _departure_ _day_ to head toward _destination_ 
+ok, i have the first available train leaving at _arriveby_ and arriving at 12:52. would that train work for you or would you like to leave later than that?
+that would work for me can i get a train for _people_ people?
+yes, you're booked on tr138 _people_ with reference number _reference_  the total fee is 70. _people_ gbp payable at the station. anything else i can help you with?
+That is all. Thank you so much!
+Okay! Glad I could be of help.
+***
+i'm looking for a train going to _destination_ please.
+what day is this for?
+it will be for _day_ 
+what time would you like to go?
+i just need to arrive by 14:15.
+i have _choice_ different train choices.  depending on how early you want to arrive.  i have one arriving at _arriveby_  one at _arriveby_ and one at _arriveby_ 
+what's the travel time?  knowing that will help me select on a time.
+the travel time is only _time_ 
+when is the departure time for _arriveby_ 
+tr1923 departs cambridge at _leaveat_ and arrives in _destination_ by _arriveby_  total travel time of _time_  do you want to book a ticket?
+not at this time. thank you for your help!
+is there any other information i can get for you at this time?
+No, that's it.  Thanks!
+You're welcome. Enjoy your day.
+***
+i need to find a train going to _destination_ and departing on _day_ 
+the train id is _trainid_ 
+how much is a ticket?
+the train ticket will cost you _ticket_ 
+does that train arrive by _arriveby_  i need to be there by then.
+the _trainid_ is the first train of the day, arriving at _arriveby_  the _choice_ arriving before _arriveby_ would be the _trainid_ arriving at 1 _arriveby_  would you prefer that?
+do either of those trains depart from _departure_  i'd like to leave from there if possible.
+ _trainid_ does depart from _departure_ and arrives at _arriveby_  the _choice_ from _departure_ to _destination_ on _day_ arrives at _arriveby_  it is train _trainid_  which do you prefer?
+the _arriveby_ would work for me!
+alright, how many tickets do you need?
+i can get my own ticket, thank you. how much will it cost?
+the fare is _ticket_  may i help you with anything else?
+no, that's all thanks.
+thanks i have enjoyed the service.
+THE CONVERSTION    IS  ABOUT THE TRAIN   TICKET BOOK 
+You're welcome. Have a great trip!
+***
+hello! i'm looking for a train leaving on _day_ going to _destination_ 
+what time are you looking to leave? morning, afternoon or evening?
+i'd like to leave after _leaveat_ 
+where are you leaving from?
+i am leaving from _departure_ and it should leave after _leaveat_  i would also like a booking for _people_ people.
+i booked _people_ tickets for you on _reference_ leaving _departure_ at _leaveat_  _ticket_ is payable at the station.  reference number is _reference_   will that be all?
+Yes thank you that's all I needed!
+Thank you for using this system!
+***
+ i am  looking for a train. the train should leave on _day_ and should depart from _departure_ 
+i can help with that! where will you be traveling to?
+make that _day_   and i need to go to _destination_ 
+okay, i changed the day of travel to _day_ for you. do you know what time you might want to leave after or arrive by?
+i want to arrive by _arriveby_ please.
+train tr9495 arrives at _arriveby_  would you like to purchase tickets?
+No thanks, that's actually all the info I needed from you today. Thank you!
+Okay, great. Call us back if you need anything else. Goodbye.
+***
+i'm in need of a train that leaves from _departure_ and arrives by _arriveby_ 
+there are _choice_ trains available. could you specify which day?
+i would like to travel on _day_ and my destination is _destination_ 
+i have a train that leaves at _leaveat_ and arrives by _arriveby_  does this work for you?
+okay, can you book that for me? i'm traveling alone.
+i was able to book you that ticket on train tr302 _people_  your total fee will be _ticket_  your reference number is _reference_  can i help with anything else?
+Thanks, that's all I need. Have a nice day.
+Okay glad we could be of help.
+***
+i'm are looking for a train. the train should leave on _day_ and should go to _destination_ 
+there are many trains available.  where will you be departing from?
+i will  be leaving from _departure_ 
+at what time would you like to leave or arrive?
+i need to arrive by _arriveby_ 
+booking was successful, the total fee is _ticket_ payable at the station . reference number is : _reference_ 
+ok, thank you. can you also give me the travel time?
+you are looking at a _time_ journey, any further questions today?
+what is the train id for the one you booked?
+the train id is _reference_  can i help with anything else?
+No, that's all I need. Thank you.
+Okay, you're welcome! I hope you enjoy your trip!
+***
+could you please get me a train?
+sure i can help you find a train.  where are you needing to go and where are you coming from?  what time do you need to leave by?
+i am leaving _departure_ and i need to leave by _leaveat_ 
+what is your destination and day of travel?
+ _destination_ and on _day_  can i just get the travel time for the train? thanks!
+the first train leaving after _leaveat_ is _leaveat_ and the travel time is _time_ 
+that sounds perfect, thank you for your help.
+would you like me to book it for you?
+no, that's ok, i'll get my tickets at the station. i just needed information.
+can i assist you with anything else today?
+no, that's all. thanks.
+i'm sorry, i think i misunderstood you. you want to leave before _leaveat_   you should book _trainid_  leaving at _leaveat_  travel time is _time_ 
+Thank you for correcting that for me. Have a god day
+Thanks for using Cambridge TownInfo centre today, and enjoy your weekend!
+***
+i want to get a train to travel from _departure_ to _destination_ 
+i can assist you with that.  there are _choice_ options available to you leaving _departure_ for _destination_  what day and time would you like?
+i'd like to leave on _day_ after 8:15, please.
+the _choice_ availabe train i have is _trainid_ leaving at _leaveat_ and arriving at _arriveby_  would that suit your schedule or would you prefer a later departure time?
+no, that sounds good.
+how _choice_ tickets would you like me to book?
+just _people_ ticket please.
+you have _people_ ticket to _destination_  train id _reference_  with 10. _people_ gbp payable at the station.  reference number _reference_  can i be of further assistance?
+thank you very much for the assistance.
+you're welcome. do you need anything else today?
+No that is all I need for the day.
+Thank you for calling, goodbye.
+***
+i need a train going to _destination_ 
+where are you leaving from?
+the train should depart from _departure_ and should leave on _day_ 
+there are _choice_ total trips available to you.
+i wish to leave after 8:15.
+how about _trainid_ 
+can i get the price and time travel please.
+trainid	departure	destination	day	leaveat	arriveby	price	duration	book (optional) _trainid_ _departure_ _destination_ _day_ _leaveat_ _arriveby_ _ticket_ _time_ 
+would you be able to send that in a different format?  i just need a price and travel time, that list is confusing.
+sorry about that.  the travel time is _time_ and the cost is _ticket_   anything else i can do for you?
+No, that is all. Good bye.
+Alright. Thank you, and have a great day! 
+***
+hi.  i am looking for a train that goes to _destination_ on _day_   can you help me?
+there are _choice_ trains departing from _departure_ to _destination_ on _day_  each will take _time_  is there a specific time you would prefer to depart?
+i would like to leave after 12:00.
+there is a train leaving _departure_ for _destination_ at _leaveat_ on _day_  would you like me to book it?
+yes, i will need to be on that train.
+okay, how many tickets would you like?
+i need _people_ tickets.
+your booking was successful. the total fee is _ticket_ and the booking number is _reference_  thank you again.
+actually, i need to depart from _departure_  not kings cross. can you change that please?
+tr717 _people_ departs from _departure_ to _destination_ _day_ at _leaveat_  arriving _destination_ at 13: _choice_ _people_  would you like to book this one?
+yes, please book _people_ tickets for that train.  may i please have the reference number?
+your reference number is _reference_ and _ticket_ will be due at the station.  the train leaves _departure_ at _leaveat_   can i further assist you?
+No, thank you. That is all.
+You are welcome.  Have a nice day.  Bye.
+***
+hi.  can you please help me find a train to _destination_   i need to leave on _day_ 
+do you want to arrive or leave at a certain time?
+yes, i need to leave sometime after _leaveat_ from _departure_   it doesn't matter when i get there.
+okay _trainid_ departs at _leaveat_  would you like me to book that for you?
+could you book a trip for five people, and give me the reference number?
+i have those seats booked for you. your reference number is _reference_  you will pay _ticket_ at the station.
+Thank you that's all I needed today. 
+You're welcome. Have a great day! 
+***
+hello! i'd like a train to _destination_  please. i want to arrive by 9:30.
+what day would you be leaving?
+i need to leave _departure_ on _day_ 
+the _trainid_ leaves _departure_ at _leaveat_ and arrives in _destination_ at _arriveby_  costs _ticket_ and has a travel length of _time_  shall i book it for you?
+no, i just needed the information, thank you.
+ok have a safe trip.
+Thank you for your assistance.
+Your very welcome. Have a good day!
+***
+i am looking for a train on _day_ from _departure_ 
+ _trainid_ _departure_ london kings cross _day_ _leaveat_ _arriveby_ _ticket_ _time_ .
+can you verify that it will arrive in _destination_ by 09:00?
+ah, no, you will need another train to get to _destination_  tr5390 leaves at _leaveat_ and _trainid_ leaves at _leaveat_  do you have a preference?
+i don't have a preference i just need to arrive by _arriveby_  can you please provide me the travel time, departure time and price?
+ _trainid_ departs at _leaveat_ and takes _time_ to arrive. the fee is _ticket_  would you like me to book that for you?
+Thanks, that's all. Good bye.
+Reference number is : 8OHSGLQU. if u interested
+***
+i am looking for a train to _destination_ 
+alright, what day are you looking to travel?
+i want to travel this _day_  please.
+okay, and what time do you want to leave?
+i need to leave after _leaveat_ 
+i have _choice_ trains that meet that criteria, where are you departing from?
+i will be leaving _departure_ 
+ _trainid_ will be departing _departure_ at 19:17, would you like to reserve a seat?
+yes, thank you. can you book it for _people_ people and provide the reference number for me?
+there we go, all set. the reference number is _reference_ 
+Marvelous. I am all set to go now. Thank you for your help. Goodbye.
+Thank you for contacting Cambridge TownInfo centre. Have a nice day!
+***
+i need a train on _day_ out of _departure_ 
+what time of day would you like to leave?
+i want to leave on _day_ 
+do you have a time you'd like to leave?
+i'd like to leave after _leaveat_ 
+is that _leaveat_ am or pm?
+looking for a train _day_ leaving _departure_ after _leaveat_ to go to _destination_ 
+i'm sorry, i'm not seeing any trains for that time.  would you like to try another time or a different route?
+no, i'd like a train leaving after _leaveat_ departing from _departure_ and going to _destination_  please take another look?
+there are no trains running at this time. can i narrow your search in any way?
+wow...no, i really needed that time.  i guess not.  thanks anyway.
+i do have a train living at _leaveat_ of that would work for you.
+yes, that works. please book for two people. thanks for checking again.
+it's my pleasure. you're booked with reference _reference_  the total fee is _ticket_ payable at the station. may i help with anything else?
+perfect.  thank you for your help.  have a great day.  bye.
+thank you for using our service, goodbye.
+Have a nice day. 
+Booking was successful, the total fee is 19.6 GBP payable at the station . Reference number is : HXG3N56O.
+***
+i am looking for a train departing from london liverpool please.
+i'll be glad to help. you would like to from _departure_ to what destination, please?
+ _destination_  i'd like to leave after _leaveat_ on _day_ 
+i have _choice_ trains, could you tell me when you would like to arrive by ?
+just any time after _leaveat_  can i get the train id of one of them please?
+tr7943 leaves at _leaveat_ 
+Thank you very much! That is all I need for today.
+Have a great day!
+***
+i need to find a train that is going to arrive in _destination_ by _arriveby_ 
+the latest train arriving in _destination_ is for _arriveby_ and there are several: _trainid_ _trainid_ _trainid_ 
+which one would you like to book?
+that's all up to you!
+book _trainid_ and get me the train id please.
+ _trainid_ is the train id, would you like to book a seat?
+yes, book one for me please. and please make sure this is for sunday.
+ booking was successful, the total fee is _ticket_ . reference number is : _reference_ 
+i didn't need to book a seat, i just needed a train id number.
+as mentioned before the train number is _trainid_  you did ask me to book.   one more time, what exactly did you need?
+sorry about the confusion, i just need a train from steveage to _destination_ that arrives by _arriveby_  i just need the train id.
+ _trainid_ arrives at _arriveby_ 
+Thank you that was everything. Goodbye.
+You're welcome. Goodbye!
+***
+i need to book a train from _departure_ and _destination_ on _day_ and i need to be there at _arriveby_ 
+when would you like to leave by?
+i don't care when i leave as long as i get there by _arriveby_ 
+there are _choice_ trains matching your query. shall i book one?
+can i get the departure and travel time of the train arriving closest to _arriveby_ 
+the travel time is 7 _choice_ minutes.
+and the departure time please? for the train that arrives closest to _arriveby_ 
+the departure time is _leaveat_ and it arrives at _arriveby_  would you like me to book it for you?
+No, thank you and that is all i needed.  
+Thank you, have a nice day, goodbye.
+***
+i am looking for a train. the train should leave on _day_ and should arrive by _arriveby_ 
+where would you like to go?
+i would like to depart from _departure_  and travel to _destination_ 
+is there a time you would like to be picked up  by?
+i want to get there by _arriveby_ 
+the _trainid_ goes from _departure_ to _destination_ on _day_ at _leaveat_ arriving at _arriveby_   shall i book that for you?
+i need to book it right now but what is that travel time?
+the travel time on _trainid_ is _time_  should i book it for you?
+what is the price for that train?
+the price is _ticket_ per ticket. i can make those reservations for you if you'd like.
+Not right now. I need to make sure of how many of us can go. Thank you 
+Glad I could help.
+***
+i'm looking for a train on _day_ that will take me into _destination_ 
+where will you depart from?
+i will be departing from _departure_ 
+there are _choice_ trains do you have a time you'd like to travel?
+yes i need to arrive by _arriveby_ 
+i have _choice_ arriving at _choice_ 35. it leaves _departure_ at _leaveat_  does that work?
+sure, they are normally on time. could you book that for _people_ people please?
+certainly. i have booked you on the _leaveat_ arriving at _choice_ 35 for _people_ people. your reference number is _reference_  will that be all?
+Yes, thanks for your help!
+It was my pleasure to help. Have a wonderful day. 
+***
+i'm looking for a train.
+i have _choice_ _choice_ trains with different routes, to help narrow it down, where will you be departing/arriving, and what day/time?
+the train should depart from _departure_ on _day_ and headed for _destination_  it should arrive by _arriveby_  i would also like you to make a booking for 6 people.
+i have _choice_ trains that would suit you. one arrives at _arriveby_ and the other at _arriveby_  do you have a preference?
+i will take the one that arrives at 15:0 _people_  can you make me a booking for _people_ people on _day_  i will need a reference number.
+sure thing! i've booked the train for _people_  and your reference number is _reference_  is there anything else i can do for you today?
+No, that's all I needed. Thank you for your help - goodbye!
+It was a pleasure to assist you. Please use us again for your future needs. Have a good day. 
+***
+i need to book a train from _departure_ to _destination_   can you help me?
+yes, what day will you be traveling?
+ _day_  after _leaveat_ 
+there are _choice_ trains that match. shall i reserve any tickets for you?
+can you reserve _people_ tickets on the next train after _leaveat_ 
+i reserved you _people_ seats on the _reference_  it leaves at _leaveat_  the total fee of _ticket_ is payable at the station. your reference number is : _reference_ 
+Great sounds perfect!! Thank you so much for all your help.
+No problem. Have a great day and trip. Goodbye.
+***
+hi, i need to take a train on _day_  can you help me?
+absolutely! where will you be heading to and leaving from?
+i need to leave _departure_ for _destination_ _day_ after _leaveat_ 
+there are _choice_ for the same price, _ticket_  is there a certain time you need to arrive by?
+as long as i leave by _leaveat_ it will be fine.  there are _people_ of us.
+okay, booking was successful, the total fee is _ticket_ payable at the station.  your reference number is : _reference_ 
+thank you for all your help.
+we are happy to help. have all of your needs been met?
+Yes they sure have, thanks!
+Thank you, goodbye.
+***
+i am looking for a train leaving _departure_ arriving by 8:30.
+there are _choice_ trains do you have a destination and day?
+yes, i'm headed to _destination_ on _day_ 
+tr89 _choice_ leaves at _leaveat_ and will arrive at _arriveby_  would you like me to book it?
+can you also tell me the travel time?
+duration for this particular trip is _time_ 
+OK, that is all the information I need.  I can't book it quite yet.  Thanks for all of your help.  Have a nice day.
+You're welcome. Have a great day!
+***
+i want to get train tickets for _day_ please, leaving from _departure_  if you would.
+what time do you want to leave at on _day_ and where are you going to?
+hello i need to arrive at _destination_ no later than _arriveby_ 
+i have _choice_ trains that will get you there on time. what time would you like to leave?
+i don't have a preference on leave time.
+ _trainid_ _departure_ _destination_ _day_ _leaveat_ _arriveby_ _ticket_ _time_ .
+thank you. can i get the reference number please.
+how many tickets would you like?
+i don't need to book any tickets. i'll need the departure time, travel time and train id if you could specify them instead of just sending numbers.
+the _trainid_ train leaves at _leaveat_ and takes _time_ to travel.  does that help?
+okay, i believe that's all i need. thanks for your help.
+is there anything else i can help you with today?
+No, thanks. Nothing else.
+You're welcome. Thank you for using the TownInfo centre. Goodbye.
+***
+hi i'm looking for a train that will take me to _destination_  i want to get there by _arriveby_ 
+what day would you like to travel and which station do you wish to depart from?
+i am leaving from _departure_ and i would like to travel on _day_ 
+very well. what time would you like to depart?
+it doesn't matter when i depart.  i just need to arrive in _destination_ by _arriveby_   i will have _people_ people.
+ _trainid_ will arrive in _destination_ by _arriveby_  does this work for you? would you like to book a ticket?
+yes for _people_ people and i will require a reference number.
+great, i have your _people_ tickets booked for the _reference_  the reference number for this is 9vdnjcy _people_  is there anything else i can help you with?
+That is all. Thank you very much! 
+Have a great day!
+***
+i need a train to _departure_ from _destination_ on _day_ 
+there are _choice_ trains, beginning at _leaveat_  do you have a time preference?
+i would like to leave after _leaveat_ please.
+is there a time you need to arrive by?
+no, thank you. i just need the train id and price of the ticket.
+train _trainid_ leaves at _leaveat_ and the price is _ticket_  is there anything else i can do for you today?
+no thanks that is all i need. thanks for the assistance.
+thanks too for choosing us.
+Thank you and goodbye.
+Glad I could help hope you have a great day.
+***
+i am looking for a train to leave on _day_ 
+sure. where are you looking to go?
+i need to arrive at _destination_ by _arriveby_ 
+we have _choice_ such entries. do you have a preference further?
+i just need the train id, departure time, and price of one please.
+ _trainid_ leaves _departure_ at _leaveat_ and arrives in _destination_ by 06:0 _choice_  is this okay?
+can i get the price of the ticket please?
+certainly. it's _ticket_  may i help with anything else?
+No thank you. That is all.
+OK, have a great day.  Bye.
+***
+hello, i am looking for a train heading to _destination_ and i will be departing from _departure_ 
+the first train leaves on _day_ at _leaveat_ and arrives at _arriveby_  should i book it for you?
+No, not at this time. Thank you, good bye.
+Thank you. Enjoy your trip.
+***
+i am looking for a train departing from _departure_ 
+there are _choice_ different options for trains departing _departure_  what date and time do you need a train on?
+i need to get to _destination_ on _day_  and i have to leave after _leaveat_ 
+the first train leaving after _leaveat_ is _trainid_ and leaves at _leaveat_ to get you to petersborough at _arriveby_  would this suit your needs or would you like a later one?
+i'd like to book this train for _people_ people, if possible.
+you're all booked! _people_ tickets from _departure_ to _destination_ at _leaveat_  your reference number is _reference_ 
+Great. Thanks for all your help.
+You are more than welcome. Enjoy the journey.
+***
+i'm looking for a train. the train should depart from _departure_ and should go to _destination_ 
+i can help with that! what day will you be traveling?
+ _day_  leaving sometime after _leaveat_ 
+train _trainid_ will be leaving _departure_ at _leaveat_ on _day_  and will arrive at _destination_ by _arriveby_  would you like me to book it for you?
+yes please! could you please give me a price?
+the price is _ticket_  how many tickets will you be needing?
+thank you very much,that's2 all.
+if you'd like us to reserve tickets for you, please keep us in mind. we would be happy to help with that.
+sure i will, thank you
+You're welcome and thanks for using our help desk. Goodbye.
+***
+oh, yes i'm hoping you can help me with finding a train departing out of _departure_ 
+certainly! where would you like to go?
+i need to go to _destination_ 
+there are _choice_ of trains going there.  what day and time would you like to travel?
+i would like to leave on _day_ afternoon after _leaveat_ 
+i have a train leaving _departure_ at _leaveat_  and arriving on _destination_ at _arriveby_ 
+what is the price on that train?
+the price is _ticket_  payable at the station. may i help with anything else?
+No, that was all I needed. Thank you so much for your help!
+Thank you for contacting us. You have a great trip in cambridge.
+***
+hi, i'm looking for some train information. could you tell me what trains leave on _day_ for _destination_ 
+there are _choice_ entries found. where would you be coming from?
+i'll be departing from cambridge and i need to arrive by 12:00.
+there is a train that arrives at _arriveby_  the trainid is _trainid_  would you like me to book that?
+sure, that sounds great.
+how many seats would you like?
+just one.
+you have been booked!
+thanks!
+can i assist you with anything else today?
+No, thank you very much!
+You are welcome! Have a safe trip!
+***
+i need to make a train reservation for _day_ and i need it to arrive by _arriveby_ 
+sure, i can help with that. can you please let me know where you will be departing from.
+i will be departing from _departure_ 
+and what is your destination?
+i will be going to _destination_ 
+train _trainid_ departing from _departure_ at _leaveat_ and arriving at _destination_ at _arriveby_ will be the best option for you.
+that's an early arrival. is there a later train that arrives before _arriveby_  please?
+there is another train that arrives at _arriveby_   would that work better for you?
+yes, that would work. could you book it for _people_ people?
+your reference number is _reference_  anything else i can help you with?
+No that was all. Thanks!
+thanks  for inquiring with us. good day
+***
+i need a train from _departure_ station on _day_ 
+what is your destination, please?
+i am heading to _destination_ for an important visit. can you get me there by _arriveby_ 
+there is _choice_ train leaving at _leaveat_ arriving at _arriveby_ would that work for you?
+that should be perfect.  how many tickets can i get?
+you can buy up to eight tickets.
+just _choice_ is fine.
+ok. the price is _ticket_ for 1 ticket. do you want me to book it?
+could you tell me the travel time please first?
+yes, it's _time_  may i help with anything else?
+That's all the info I needed today, thank you for your help!
+Thank you! Have a wonderful day!
+***
+i need a train on _day_  arriving by _arriveby_ 
+i can assist you with that.  where are you travelling to and from?
+i'm going from _departure_ to the _destination_ 
+the _trainid_ leaves _departure_ at _leaveat_ and arrives _destination_ at _arriveby_  it's price is 10.10 pounds. there are earlier trains if you wish.
+that one sounds fine. can you book it for _people_ people? i will need the reference number too.
+i have booked your ticket, the reference number is : _reference_  is there anything else i can do for you.
+Not at this time. Thank you so much for everything. Have a great day!
+You are very welcome, goodbye.
+***
+hi, i want to catch a train from _departure_ to _destination_  can you please tell me what the schedule is for the rout?
+i would be happy to help. what day are you wanting to take the train?
+i want to arrive by 15:45 on tuesday.
+booking was successful, the total fee is _ticket_ payable at the station . reference number is : _reference_ 
+Thank you goodbye
+I'm sorry, the schedule for Tuesday shows TR0674 arriving at 15:38 in Cambridge. I will re-book. Is it one ticket you need?
+***
+yes,  please help me book a train on _day_ 
+we have _choice_ of trains that day, is there a specific location?
+i want to go from _departure_ to _destination_ 
+what time would you like to leave?
+i want to leave after _leaveat_ please.
+the first train to _departure_ is at _leaveat_ and arrives at _arriveby_ in _destination_  does this time work for you? or would you like later?
+oh sorry, i wanted a train on _day_  not saturday. anything after _leaveat_ from _departure_  to _destination_ 
+i'm sorry. there is no train leaving from _departure_ to _destination_ on _day_ by _leaveat_  would you like to try a different day or time?
+what are the available options.
+i apologize for the earlier confusion, we do have trains leaving _leaveat_  which time works for you?
+tell me the arrival time of the _leaveat_ train please.
+sure. the _leaveat_ train leaves _departure_ on _day_ and arrives in _destination_ by _arriveby_  would you like me to book that?
+yes, i will book that.
+of course, how many tickets will you need?
+i just need one ticket please.
+i have you booked on the _reference_ train. the total cost is _ticket_  and the reference number is _reference_  is there anything else that i can help you with?
+No that is everything that I need.  Thank you so much for your help.
+Thank you for using the Cambridge TownInfo Centre. Goodbye!
+***
+hi, i need to get in from king's lynn to _destination_ 
+there are _choice_ trains making that trip, do you have a day and time you want to travel?
+i'm looking to leave _day_ after _leaveat_  if you could book me a reservation for that time period that would be great.
+ _trainid_ departs at _leaveat_  can you tell me how many tickets you need?
+i need _people_ please.
+booking was successful, the total fee is _ticket_ payable at the station. reference number is : _reference_  is there anything else i can help with?
+No thank you. That is all I need.
+Have a great day!
+***
+i am looking for a train departing from _destination_ 
+where will you be leaving from?
+ _departure_  on tuesday.
+what time are you looking to depart?
+i am leaving at _leaveat_ 
+okay, i have _choice_ trains that might work. _trainid_ departs at _leaveat_ and _trainid_ leaves at _leaveat_  both have a duration of _time_ and cost _ticket_  anything else today?
+let's go with _reference_  please.
+okay i have booked that for you and your reference number is _reference_  anything else i can do for you?
+no that is all thank you very much.
+thank you for using our service. have all of your needs been met?
+Yes, thank you very much.
+You're quite welcome. Goodbye!
+***
+i need to book a train leaving _day_ from _departure_   can you help me with that?
+yes. what time will you be departing?
+i will be leaving _day_ morning at _leaveat_ 
+is it _day_ or saturday? and where is your destination?
+sorry for the confusion i need to get to _destination_ _day_ night.
+okay, and what departure or arrival time did you need for _day_ 
+i need to leave after _leaveat_ 
+the first train after _leaveat_ is the _trainid_  leaving at _leaveat_ 
+that sounds perfect.  can you tell me the travel time, please?
+the travel time is _time_  may i book that for you?
+yes, i'd really appreciate that.
+i was able to book a train for _people_ on _day_ from _departure_ to _destination_ leaving at _leaveat_  your reference number is 9ip722k _people_ 
+perfect, thank you for your help!
+can i help you with anything further?
+Nope, that's all. Thanks!
+Thank you for using our service. Goodbye.
+***
+i need help booking a train, please. i'd like to go to _destination_ on _day_ 
+where will you be departing from?
+i will be departing from _departure_ after _leaveat_ 
+you're in luck! tr8288 departs _departure_ at _leaveat_  arriving in _destination_ at _arriveby_  the fare is _ticket_  can i help with anything else today?
+yes, can you find a close by eatery near where we arrive at?
+sure you need a restaurant? in what part of town and what cuisine?
+how about the center?
+i apologize. i need to know how many you need tickets for on the train so i can book your tickets.
+i need it for _people_ people.
+booked! you will pay 141. _people_ gbp at the station. reference number: _reference_ 
+thank you for your help. this is all i need.
+are you sure you don't need a restaurant?
+I am sure.  I am all set.  Thanks so much.  Bye.
+All right. Have a good day!
+***
+i am looking for a train that goes to _destination_ and leaves after _leaveat_ 
+i can certainly help you with that. which day did you have in mind to travel?
+i want to leave on _day_ 
+unfortunately, the only train i have matching your criteria is one leaving _leaveat_ and arriving at _arriveby_ in the morning. did you want to book that?
+yes that's fine. i'll take _people_ tickets for that train please.
+alright, your train tickets have been booked and the reference number is _reference_  the train id is tr313 _people_  is there anything else i can help you with?
+Nope, that is everything. Thank you so much!
+Have a great day!
+***
+i'd like to find a train that leaves after 1 _choice_ 00 on _day_ 
+absolutely, i need departure and destination information and a time you need to arrive by.
+i'll be departing from _departure_ and i'd like to go to _destination_ 
+i have _choice_ available. the first leaves at _arriveby_  and arrives at _arriveby_  would you like me to book that for you?
+i'm not looking to book at the moment, can i just get the train id? thanks!
+of course! tr0811 leaves at _arriveby_  arrives at _arriveby_  with a duration of _time_  the price is _ticket_  may i assist you with anything else?
+That is all I need for today. thank you. Goodbye.
+Okay glad I could help. Enjoy your trip.
+***
+can i please get information for a train going from _departure_ to _destination_ 
+what day will you be traveling?
+i want to travel on _day_  please.
+what time would you like to leave?
+can you give me the train id and price of the first train that departs after _leaveat_ 
+yes, it will cost _ticket_ and the id is _trainid_  anything else?
+no, that's it for today.
+if you need reservations or information in the future, we will be happy to assist you.
+Thank you for your assistance. Goodbye.
+My pleasure.  Have a great day.
+***
+i am looking for a train. the train should leave on _day_ and should depart from _departure_ 
+there are _choice_ trains that meet that criteria. what destination are you looking for?
+i need to leave from _departure_ 
+how about _trainid_ that arrives at _arriveby_ 
+i'd like to arrive by _arriveby_  do you have something close to that time?
+there are _choice_ trains that meet that criteria. what time would you like to depart?
+departure time doesn't matter, just want to arrive by _arriveby_ so whatever is closest to that arrival time.
+great, i have a train that meets your criteria. would you like me to book it for you?
+wait, does this train go to _destination_  that's my destination.
+yes i have a train that arrives at _destination_ on _day_ at _arriveby_ would you like me to book that for you?
+yes please book it.
+i'd be happy to  help with your request, how many tickets do you need?
+just one please.
+booking was successful, the total fee is _ticket_ payable at the station. reference number is : _reference_ 
+i didn't actually need to reserve a seat. could you comfirm the departure time of that train?
+ _reference_ leaves at _leaveat_  do you need anything else?
+No, that's all I need for now, thanks!
+You're welcome. Have a safe trip!
+***
+hi there. i need to book a train from _departure_ to _destination_ 
+is there a day you need to leave? do you have a time you need to leave or arrive?
+i'm sorry, i actually need to travel from _departure_ to _destination_    and yes, i actually do need to leave after _leaveat_ on _day_ 
+all right, the _trainid_ train leaves at _leaveat_ on _day_  would you like me to purchase tickets for you?
+yes, that would be great.  i need _people_ seats.
+alright, i have your _people_ tickets purchased for the _reference_ train. your reference number is _reference_  is there anything else i can help you with?
+No, that's all I need.  Thanks.
+You're welcome. Have a nice day.
+***
+i need a train that leaves on _day_ and should depart from _departure_ 
+i'm finding many trains departing from _departure_ on _day_  what is your destination?
+i am going to peterborough and want to arrive by 13:30.
+i have a train that departs _departure_ on _day_ at _leaveat_ and will get you to peterborough at _arriveby_ exactly. would you like me to book that seat for you?
+yes, please! i need _people_ seats.
+booking was successful, the total fee is _ticket_ payable at the station . reference number is : _reference_ 
+Thank you so much, that's all I need today.
+Okay great. I'm glad I was able to help you.
+***
+i want to book a train that departs from _departure_ and arrives in _destination_ by _arriveby_ 
+not a problem. what day will that be for?
+i would like to travel on _day_  _departure_ to _destination_ 
+i have _choice_ trains going that route. the last train for that route arrives at _arriveby_  it leaves at _leaveat_  would this arrival time work for you?
+yes, please book this for _people_ people, please give me the reference number.
+ok. _trainid_ is booked for _people_ people. the reference number is _reference_ 
+okay great. thank you very much.
+is there anything else i can help you with?
+i would like to book a restaurant for _people_ people after i arrive.
+i am sorry, i have no details for restaurants at your _destination_ destination. can i help you with anything else?
+no thank you.
+are you sure? if you know which area, (east, west, centre, etc...), or what type of food you're looking for, i would be happy to find you a restaurant.
+No, that's all. Thanks!
+You are welcome. Thank you for calling Cambridge TownInfo Centre. Goodbye.
+***
+i'd like to take the train to _destination_ from _departure_ on _day_  can you help me with that?
+i have _choice_ trains available on _day_   do you have a time preference?
+yes, i'd like to arrive by _arriveby_  please.
+the _trainid_ arrives by _arriveby_  would you like to book this one?
+yes, book please and i need travel tome and price.
+how _choice_ tickets would you like me to book?
+i only need one ticket today.
+your booking was successful, the total fee is _ticket_ payable at the station. your reference number is _reference_  can i assist you with anything else today?
+No, thank you for your help
+Thank you, have a great visit, goodbye!
+***
+i need a train departing from _departure_ 
+ok, where will you be going?
+i will be going to _destination_ on _day_ 
+and what time would you like to leave after or arrive by on _day_ 
+i'm leaving on _day_  not _day_  can you make sure that's correct? and i want to arrive by _arriveby_ 
+i am so sorry about the mix-up in days. i have _trainid_ arriving _day_ at _destination_ at _arriveby_  would this be acceptable?
+thanks so much, thats all i needed
+Well, I'm glad I could help. Have a safe trip. Goodbye.
+***
+i need a train that leaves this _day_ from _departure_ to _destination_ 
+i have _choice_ trains to _destination_ _day_  leaving _leaveat_ from _leaveat_ to _leaveat_  did you have a particular time in mind?
+i need to leave after _leaveat_ so anytime after that would be great.
+i have train _trainid_ from _departure_ departing at _leaveat_ and arriving in _destination_ at _arriveby_  would this train work for you or would you like a later departure?
+that's great. i'll need _people_ tickets, please.
+booking was successful, the total fee is 1 _people_ 2 gbp payable at the station. reference number is : _reference_ 
+i apologize this train is going to _destination_ from _departure_  for _people_ people are you able to book that?
+sure, do you still need the train on _day_ after _leaveat_ 
+yes, that's _destination_ to _departure_ on _day_  leaving after _leaveat_ 
+when would you like to arrive?
+sorry. i really need to be leaving from _departure_ to go to _destination_  leaving after _leaveat_ on _day_  arrival time doesn't matter.
+how about _trainid_  it departs _departure_ at _leaveat_ and arrives in _destination_ at _arriveby_  it is _ticket_ per ticket. would you like to book that one?
+yes, please. i will need the reference number when you are finished.
+your booking was a success. the total fee for _people_ tickets is 5 _people_ 70 gbp, payable at the station, and your reference number is _reference_  is there anything else i can do?
+No that will do , cheers.
+Thank you, good bye.
+***
+hi, could you find me a train for _day_  i need to leave from _departure_ 
+i can assist you with that.  what time _day_ would you like to leave at?
+i would like to leave after _leaveat_ 
+okay there are several trains that may work. what is your destination?
+i'd like to go to _destination_  please.
+tr4625 leaves at _leaveat_ _day_  would that train work for you?
+yes. could you book that for _people_ people and give me the reference number please?
+sure.  i booked _reference_ leaving _departure_ _day_ at _leaveat_  _people_ tickets.  reference number is _reference_ and _ticket_ will be due, payable at the station.
+Great, that's all for today. Goodbye!
+You are welcome, enjoy your trip.
+***
+i am looking for a train from _departure_ to _destination_ 
+there are _choice_ trains from _departure_ to _destination_  do you have a preferred departure time and date?
+i want to leave on _day_  and be there by _arriveby_ 
+i have _choice_ trains that match your specifications. do you have a time you would like to leave by?
+no, any of them is fine. please give me the departure time that you choose.
+the departure time for trainid _trainid_ is _leaveat_ 
+Thank you that's all I need today. 
+Excellent! Have a good day.
+***
+i am looking for a train on _day_ departing form _departure_ 
+there are _choice_ results. where is your destination?
+i'm heading into _destination_ 
+there are _choice_ trains to choose from. what time would you like to depart?
+departure time is flexible but i would need to get into _destination_ by _arriveby_ 
+there are _choice_ trains that arrive by _arriveby_   each train takes 1 hour.  when would you prefer to depart?
+what is the earliest departing train and the price of a ticket for it?
+the earliest train departs at _leaveat_ and is _ticket_  would you like a ticket?
+that's okay. no need to book now. but can i get the travel time for that train?
+the travel time for the train is _time_ 
+Okay, thanks!  that's all I needed!  Have a good day!
+Glad I could help!
+***
+hello.  i need a train ticket on a train going from _departure_ to _destination_ 
+what day would you like to travel, and at what time do you want to leave?
+i'd like to travel on _day_  but i don't want to leave until after _leaveat_ 
+ _trainid_ will depart _departure_ at _leaveat_ on _day_  arriving in _destination_ at _arriveby_  will that work?
+yes please book a seat for me.  and can you tell me if there are any african restaurants in _destination_ near the train station?
+your seat has been booked for the _reference_  reference number is _reference_  i can look up african restaurants in _departure_ but not _destination_ 
+what is the price and travel time for that train?
+the travel time is _time_ and it will cost you _ticket_ 
+Great that's all the info I needed today thank you.
+I'm happy to be of service. Enjoy your time in Cambridge!
+***
+let's go with the train first. i'm looking for _choice_ that leaves after _leaveat_ on _day_ 
+from where and to where will you travel?
+i would like to leave _departure_ to _destination_ 
+i have _choice_ leaving at _leaveat_  arriving in _destination_ at _arriveby_  does that work?
+yes, i'd like three tickets, please.
+great. i have booked those seats for you and your reference number is _reference_  is there anything else i can do for you?
+no that will be all for now.
+thank you for using our service. have all of your needs been met?
+Yes they have.  Thanks.
+You're welcome, enjoy your trip. 
+***
+i am looking for a train that goes to _destination_ around _arriveby_ 
+what day will you be traveling?
+i will be traveling on _day_  and departing from _departure_ 
+there are _choice_ trains that match your search. do you want to book one?
+no, can you just let me know the travel time for this trip?
+the travel time from _departure_ to _destination_ is _time_ 
+Ok thanks. I'll have to get back to you on how many tickets. Have a great day.
+Thank you, goodbye!
+***
+i need a train that leaves on _day_ from _departure_ 
+my earliest train is leaving at _leaveat_ am and arriving at _arriveby_ am. is that acceptable?
+That should work! thank you, goodbye.
+Happy to help. Please let us know if you need anything in the future.
+***
+hi, i'm looking for a train departing from _departure_  i'd like it to arrive at the destination by 9:15.
+sure! it looks like we have _choice_ morning trains daily the are early enough for you. what day are you planning to travel?
+i need to leave on _day_ 
+we only have trains going to _destination_ then, is that your destination?
+yes, i want to go to _destination_  can you make a booking for _people_ people and give me the reference number?
+i have train tr9084 that leaves the _departure_ at _arriveby_ and gets to _destination_ at 08:52. would that train work for you?
+yes, that's great can i get _people_ tickets please?
+alright, your _people_ tickets for the _reference_ train has been purchased for 70. _people_ gbp. the reference number is _reference_  is there anything else i can do for you?
+I think that's all I needed. Thanks. Have a good night!
+Thank you for using our services, goodbye.
+***
+hi, i'd like to find _choice_ from _departure_ to _destination_ 
+certainly, there are _choice_ trains going that route. can you specify which day you'd like to travel?
+i would like to travel on _day_ 
+i've got _choice_ of trains going that route on _day_  do you have a preferred time to leave or get there?
+i'd like to arrive by 13:45.
+i have _choice_ that arrives at _arriveby_  will this do for you?
+yes that would be perfect. could i have the price and departure time?
+yes the departure time is _leaveat_ and the cost of the journey will be _ticket_ 
+great, thanks for your help!
+not a problem! do you need anything else?
+No thanks. I appreciate the help. Have a good day. 
+You as well! Goodbye! 
+***
+can you help me find a train please?
+sure! where are you headed?
+i am headed to _destination_ this week.
+where are you leaving from, please?
+i will leave from _departure_ 
+what day would you like to leave?
+ _day_ is preferable.
+there are trains running from _departure_ to _destination_ every hour from 5:09 to 23:09 on _day_  did you have a particular time in mind? would you like to book tickets?
+i'd like whichever arrives by 16:15 please.
+ _trainid_ leaves _departure_ at _leaveat_ _day_ and arrives in _destination_ at _arriveby_  will that work for you?
+that will be fine. book for _people_ people.
+alright. booking was successful. your reference number is _reference_ 
+Thanks for your help. That's all I need.
+You're welcome. Have a great day.
+***
+ i'm looking for a train. the train should go to _destination_ and should leave on _day_ 
+we have over 200 trains, do you have a departure site or time?
+i'm departing from norwich and need to arrive by _arriveby_ 
+there are many options available. is there a certain time you would like to depart?
+no just tell me the price of the trip please.
+the price of the train would be _ticket_  anything else you need?
+That'll be all, thanks so much for your assistance!
+You're welcome. Have a great trip!
+***
+i need to find a train departing from _departure_ that arrives at _leaveat_ 
+what are the other requests?
+i need to go to _destination_ from _departure_  and i need to leave on _day_ 
+there are _choice_ trains available. tr5173 leaves at _leaveat_ and arrives at _arriveby_  would you like me to book that for you?
+great can i get tr517 _people_ booked for _people_ people please?
+ok i booked that for you.  the total fee is _ticket_ and your reference number is : _reference_ 
+Thanks so much. I appreciate the help. Have a nice day. 
+Okay thank you for calling.
+***
+i am looking for a train.
+i'd be happy to help you with that. can you tell me your departure location and where you are headed to?
+i am looking to go to _destination_ and depart from _departure_ 
+there are _choice_ trains making that trip, do you have a day or time?
+i'll be leaving on _day_ after _leaveat_ 
+the _trainid_ leaves just 15 minutes later, at _leaveat_ 
+That sounds great.  I'll get back to you when I decide on the booking.  Have a nice day.  Bye.
+You're welcome! Have a great day. Goodbye.
+***
+hi i'm looking for a train for _day_ 
+okay what time would you like to depart from _departure_ and arrive in _destination_ on _day_ 
+i need to depart after 19:15. can you please provide me with a price?
+the next train departs at _leaveat_  the price is _ticket_ per ticket. can i book this train for you?
+yes please book this train for me, thank you.
+how many tickets do you need?
+i am not ready to book the train yet. thanks for the help.
+can i be of further assistance to you today?
+No thanks, that is all I needed. 
+You're welcome. glad I could help
+***
+i need to find a train for _day_ 
+i have _choice_ trains that depart _day_  where will you be departing from and where is your destination?
+i will be departing from _departure_ and traveling to _destination_ 
+okay, and what time do you want to leave after or arrive by?
+i need to arrive by _arriveby_ 
+there are _choice_ trains here. do you want me to book any tickets?
+yes please. i need it to be booked for _people_ people.
+booking was successful, the total fee is 2 _people_ 16 gbp payable at the station .reference number is : _reference_ 
+Thank you, that is all I need.
+You're welcome, thank you for calling the Cambridge TownInfo centre. Have a great day.
+***
+can you help get tickets for a train on _day_ 
+absolutely! where will you be heading?
+I need to go to Cambridge from Stevenage after 10:45.
+On Tuesday there is a train from Stevenage to Cambridge at 10:45
+***
+i'd like a train from _departure_ to _destination_  please.
+there are _choice_ trains making that trip, do you have a day and time you'd like to go?
+yes. i would like to leave on _day_ after _leaveat_ 
+ _trainid_ leaves at _leaveat_  would you like me to book it?
+yes and could i have the reference number after?
+great, i have booked your ticket, your reference number is : _reference_  may i help you with anything else today?
+No thank you. Have a great day!
+You as well.
+***
+i am looking for a train to _destination_ 
+when will you be travelling?
+i'll be leaving _day_ after _leaveat_ 
+i have _choice_ options for you depending on your departure site. where will you be leaving from?
+i need to depart from cabridge and go to bishops stortford.
+there are _choice_ options to choose from. how many people are traveling?
+i will have 2 people traveling.
+okay, would you like me to book _trainid_ 
+yes, please. i need the reference number.
+the reference number is _reference_  can i help you with anything else?
+No thank you that is all I needed.
+Thank you have a nice day.
+***
+can i find a train to _destination_ departing from _departure_ 
+are you interested in train tr9859 which leaves _day_ by _leaveat_ and arrives by _arriveby_ 
+the train should leave on _day_ and should arrive by _arriveby_  so thyat one may not help me.
+ _trainid_ will arrive by _arriveby_ in _destination_ on _day_  would you like to book a seat?
+no that won't be necessary, could you just let me know what the departure time is for that one?
+it departs at _leaveat_ 
+That's very helpful. Thanks! That is all I need.
+Thanks for contacting us. Please let us know if we can help you in the future.
+***
+i would like to find a train that is leaving _departure_ on _day_ 
+i can assist you. what is your destination and departure time?
+i'll be leaving from _destination_ and need to leave after 17:15.
+i have a train leaving _departure_ for _destination_ _day_ at _leaveat_  would you like me to book it?
+i need the arrival time and price.
+the ticket will coat _ticket_ and it will arrive at _arriveby_ 
+Thanks, that's all. Good bye.
+Alright. Goodbye now. Thank you!
+***
+yes, i'm going to need a train on _day_ 
+there are _choice_ trains departing on _day_  can you give me a departure point and a destination point, please?
+i want to go from _departure_ to _destination_ 
+is there a certain time you would like to leave _departure_ by?
+i would like to arrive in _destination_ by _arriveby_ 
+i have _choice_ trains arriving by then, how many passengers?
+i need a booking for two passengers.
+booked, your reference number is _reference_  you pay _ticket_ at the station. you will leave at 1 _people_ 16 and arrive at _arriveby_  trainid: _reference_ 
+Great. thank you that is all I needed.
+Glad I could be of assistance. enjoy your journey. Do not hesitate to call if you need us again.
+***
+i would like to book a train. i need to go to _destination_ on _day_ 
+what station will you be departing from?
+i'll be leaving from cambridge, thanks.
+i have a train leaving _departure_ for _destination_ _day_ at _leaveat_ 
+great! please make a booking for _people_ people.
+i've booked _people_ tickets for you, and the fee is _ticket_ and your reference number is _reference_ 
+Thanks very much for your help.
+Great! Have a nice day!
+***
+i'd like a train to _destination_ that leaves _day_ 
+easy enough. where is your departure point?
+ _departure_  i would like to leave after _leaveat_ if possible.
+ _trainid_ departs _departure_ at _leaveat_ _day_  arriving at _destination_ at _arriveby_  will that one work for you? it's only _ticket_ to ride.
+great can i book that for _people_ people and get a reference number please?
+you are booked for _people_ seats on _reference_ leaving _departure_ _day_ at _leaveat_  reference # is _reference_ and you can pay at the station. _ticket_ each. .
+Thank you. That's is all I need. Goodbye.
+Welcome. Have a lovely day.
+***
+i would like to catch a train leaving _departure_ on _day_ 
+where would you like to travel to ?
+i need to get to _destination_ on _day_ 
+there are _choice_ trains do you have a time you'd like to travel?
+i want to leave after _leaveat_ 
+i have _choice_ leaving _departure_ at _leaveat_ and arriving in _destination_ at _arriveby_  would you like to book tickets?
+I am interested in that one, but I'm not ready to book yet.  Thanks for your help.  Bye.
+Thank you for using our service. Have a great day.
+***
+yes, i would like a taxi to the town centre. from the train station.
+where from the town centre do you need the taxi to pick you up?
+i'm sorry, did i say taxi? i mean train.
+let's start over.  are you looking for a train?
+Yes. I need it to depart from Cambridge.
+Where would you like the train from cambridge to travel to?
+***
+can i get a train from _departure_ to _destination_ 
+certainly. when would you like to depart?
+on _day_ after _leaveat_ 
+there is a train leaving _departure_ and heading to _destination_ at _leaveat_ on _day_  would you like more information or to book a ticket?
+no. i need to depart from _destination_ and go to _departure_ on _day_ after _leaveat_ 
+i have one train that leaves at _leaveat_ and arrives by _arriveby_ on _day_  do you want me to book tickets?
+yes, that train would work better for me. can you book tickets for _people_ people please?
+booked! reference number is _reference_  you will pay 70. _people_ gbp at the station.
+Great! Thank you!
+Thank you! I am glad I could help.
+***
+i'm looking to book a train that leaves on _day_ after 12:45, if you could help me with this that would be great!
+i'd be glad to help. but i will need a departure site and a destination.
+i'll be going to _destination_ from _departure_ 
+i would recommend _trainid_ which leaves _departure_ at _arriveby_ and arrives in _destination_ at 13:56.
+i'm sorry, i had that backwards, i need a train that departs from _departure_ and goes to _destination_ 
+i have over _choice_ trains traveling on _day_ for you.  are you departure and arrival times still correct?
+yes they are.
+i have train _trainid_ which departs at _leaveat_ and will get you into _destination_ by _arriveby_  does that sound like it would work for you?
+yes please book it for _people_ person and provide the reference number.
+your booking was successful. the reference number is _reference_  what else may i help you with?
+Thanks for the service. Good day to you!
+You're welcome! Please contact us again if you need anything else.
+***
+looking for atrain leaving on _day_ to _departure_ 
+i found _choice_ trains matching your request. where is your destination?
+that's a lot. i am going to _destination_ 
+are you wanting to arrive in _destination_ by a certain time?
+the train should leave after _leaveat_ and should go to _destination_ 
+there are _choice_ trains that fit your requirements. is there a specific time you'd like to arrive?
+no, i can arrive at anytime.
+train id	tr956 _people_ price _ticket_ reference number is : _reference_ 
+ok great, thanks for the help.
+you are quite welcome. do you need any further assistance?
+No, that is all. Good bye.
+Thank you so much for calling. Goodbye now!
+***
+i need a train that leaves on _day_ with an arrival of _arriveby_ 
+where will you be travelling to and from?
+i'm traveling from _departure_ to the _destination_ 
+the _trainid_ leaves at _leaveat_ and arrives by _arriveby_   is that alright?
+yes, that sounds fine.  i need 7 tickets please.
+great. the reference number is _reference_ and the total fee is 132. _people_ gbp. can i help with anything else?
+Thanks, that's all I need. Have a nice day.
+You're very welcome. Have a safe trip!
+***
+i am looking for a train from _departure_ on _day_ 
+where is your destination, please?
+my destination is _destination_  i am hoping i could catch a train after _leaveat_ 
+will you be traveling alone?
+yes. i will be by myself. looking for one ticket please.
+tr9460 leaves _departure_ _day_ at _leaveat_  would you like to reserve a seat?
+no, i just need the price and arrival time.
+the price is _ticket_  and travel time is _time_   do you need to reserve a seat?
+Not at this time. Thanks for the information.
+More specifically, the train arrives in Norwich at 16:55. If there is nothing more, thank you for calling. Goodbye.
+***
+i'm going to need a train on _day_   i need to arrive by 16:0 _leaveat_ 
+where are you departing from?
+i will be departing from _departure_ 
+what will be your destination?
+i am going to _destination_ 
+there are trains arriving in _destination_ _arriveby_ throughout the day. which time would be best for you?
+as long as i arrive close to _arriveby_ i am good.
+ _trainid_ arrives in _destination_ at _arriveby_ on _day_   it costs _ticket_   how many tickets can i book for you?
+i don't actually need to book at the moment. i just need to know the departure time and travel time for this train, if you don't mind.
+sure. the _trainid_ departs at _leaveat_  the ride is 105 minutes long. do you have any other questions?
+No, that's all for today. Goodbye!
+Thank you, and have a pleasant trip. Goodbye.
+***
+i am looking to book a ticket for _people_ people for the _day_ train leaving from _departure_ and arriving by _arriveby_ at _destination_ 
+i've booked _people_ tickets for you on _reference_ _reference_  the total cost is _ticket_  is there anything else i can help with today?
+Great thanks! That will be all!
+Let us know if you need more help, good bye. 
+***
+i'm are looking for a train. the train should depart from _departure_ and should leave after _leaveat_ 
+what day would you like to depart?
+it will be _day_  from _departure_ to _destination_  i will need the price of the ticket as well.
+the closest match i have is the _trainid_  it leaves at _leaveat_ 
+that sounds good. what is the train fare, please?
+it costs _ticket_   do you need any other information?
+No that is all. Thanks for your help!
+You are welcome! Have a nice day.
+***
+i am looking for a train to _destination_ 
+what time do you want to leave?
+i would like to leave after _leaveat_ 
+i'd love to help! where are you departing from?
+ _departure_  get train id, travel time, and price.
+ _leaveat_ _arriveby_ 37.80 pounds _time_ thats all you could need sir.
+i will need the train id also please.
+ _trainid_ leaves _departure_ friday at _leaveat_  would you like to book a seat?
+i don't need to book a seat, i just needed the train id.
+the train id is _trainid_  is there anything else i can assist you with?
+thanks a lot. that is all for now.
+Thank you for contacting us, have a great day.
+***
+i am looking for a train.
+alright, where will you be leaving from, or where are you heading?
+the train should go to _departure_ and should depart from _destination_ 
+alright, i have _choice_ for you depending on the day of the week or times you wish to travel. do you have a preference?
+leaves at 1900hrs, arrives on sunday and booked fir one person.get me the reference number too.
+booking was successful, the total fee is 10. _people_ gbp payable at the station . reference number is : _reference_ 
+Thank you for your help. 
+Thank you goodbye
+***
+hey there! can you give me some options for trains leaving _day_ from _departure_  we are going to _destination_ 
+sure thing! when would you like to leave and arrive by?
+i need to arrive by _arriveby_  i need to book for _people_ people.
+i booked you on _reference_ with a total fee of _ticket_  payable at the station. reference number is: _reference_   do you need anything further today?
+No that's all. Thanks for your help!
+You're welcome and enjoy your visit.
+***
+am looking for a train,it should leave after 14:15 and should depart from _departure_ 
+is your destination cambridge or another location?
+yes, my destination is _destination_ 
+what day would you like that train?  the tr8842 train departs friday at _leaveat_ would you like me to book?
+i need the arrival time.
+the arrival time is _arriveby_ 
+Thanks, that's all. Good bye.
+welcome again some other time
+***
+i need a train leaving _departure_   i have to arrive by _arriveby_ 
+what is your destination and at what time would you like to leave?
+to _destination_ on _day_ 
+ _trainid_ will be departing at _leaveat_ and arrive at _arriveby_  would you like me to book that for you?
+can you give me the total travel time?
+the total duration is _time_  will you be needing tickets?
+Not today I think I may book at the station.  That is all for today. Thank you so much!
+Your Welcome. Please feel free to contact us anytime!
+***
+i'm looking for a train leaving on _day_ please.
+i have a train going to _destination_ that will leave at _leaveat_ 
+actually i need to go to _departure_ from cabridge.
+alright, what time would you like to leave?
+i would like to leave anytime after _leaveat_ 
+ok, i have _trainid_ that leaves at _leaveat_  will that work for you?
+is that on _day_  if so that would work. i'll need the train id and price.
+the train id is _trainid_ 
+i also need the price.
+the price is _ticket_   do you need any further assistance?
+No, that's all. Thank you.
+Thank you for allowing me to help you. Have a great day.
+***
+i need a train from _departure_ to _destination_ 
+i can assist you with that.  there are _choice_ options available to you leaving _departure_ arriving in _destination_  what day and time would you prefer?
+i want to leave on _day_  and i want to leave after 0930 am.
+ _trainid_ departs at _leaveat_ would that work?
+yes. i need _people_ tickets and the reference number.
+booked! reference number is _reference_  you will pay 56.64 gbp at the station. anything else you need?
+Thanks, that's all I need. Have a nice day.
+Okay thank you.
+***
+i'm looking for a train please.
+there are _choice_ trains where are you going?
+i am going to _destination_ from _departure_   i am planning to leave on _day_ and i need to be there by _arriveby_ 
+if you take the _trainid_ at _leaveat_ you can arrive in _destination_ by _arriveby_  would you like me to book it?
+yes, that sounds great. i would like to  book the train for _people_ people. what is the reference number?
+there is the reference number _reference_ 
+thank you for your help.
+thank you for using our services. do you need any further assistance?
+that is all i needed.  thank you.
+you're welcome. have a nice day and please call us again!
+wait, i don't think that's a valid reference number.
+ _reference_ if your reference numbers, what else may i help you with?
+Great. Nothing else. Thanks, again. Goodbye for now.
+most welcome and safe journey
+***
+i am looking for a train.
+sure thing. could you tell me where you're departing from, where you're arriving, and when you'd like to travel by train?
+i need to leave on thursday from _departure_ 
+what is your destination?
+i am heading to the _destination_  just myself, and i need to leave after _leaveat_  go ahead and book it and give me the reference number.
+i have booked your train. 10. _people_ gbp is payable at the station and the reference number is _reference_  is there anything else i can help you with?
+no, thank you. that is all i need.
+thank you for using our service. have all of your needs been met?
+Yes they have. Thank you!
+It has been my pleasure! Don't hesitate to contact us again if you require any additional assistance.
+***
+hello! i'm looking for a train arriving by _arriveby_ to _destination_ 
+that are _choice_ options that arrive in _destination_ by _arriveby_   when are you traveling and where are you departing from?
+i am departing from leicaster and it will be on _day_ 
+ _choice_ trains will get you there by _arriveby_   would you prefer to depart at 6:54, 7:54, 8:54 or 9:54?
+9:54 sounds good. what is the price? and how long is the trip?
+i beg your pardon, but the times i mentioned earlier were for arrival rather than departure. the departure times are _leaveat_  and _leaveat_  what is your preference?
+can you tell me what the travel time is and the price?
+which train would you like that for?
+the _leaveat_ departure, please.
+that's train _trainid_  the travel time is _time_  and the cost is _ticket_ pounds per ticket.
+Thank you. That's all I needed today.
+Great. I'm glad I could help you with that. Have a nice day. Goodbye!
+***
+i'm looking for a train please.
+ok i can assist you with that.  where will you be departing from?
+i will be leaving from _departure_ 
+i found _choice_ _choice_ trains. do you have a destination in mind?
+i need to go to _destination_ 
+thanks. and what day will you be traveling, please?
+ _day_ is the day i plan to travel.
+these is the schedule for that day.
+i need a train going to _destination_ leaving on _day_  the train is going to _departure_ leaving after _leaveat_ 
+ _trainid_ leaves _departure_ at _leaveat_ and arrives at _destination_ at _arriveby_  do you want a booking?
+yes.  thank you.
+is it one ticket you need or more?
+just one ticket please.
+booking was successful, the total fee is _ticket_ payable at the station. reference number is : _reference_ 
+Thank you.That's all I need for now.
+Thank you for using Cambridge TownInfo centre. Have a nice day!
+***
+i am looking for a train schedule that departs from _departure_ and should go to _destination_ 
+ok, is there any particular time you'd like to leave or arrive by?
+i need to get a train leaving _departure_ and going to _destination_  i need to be in _destination_ by _arriveby_ and am leaving on _day_ 
+ _trainid_ leaves _departure_ at _leaveat_ and arrives in _destination_ at _arriveby_  will that work for you?  tickets are _ticket_ 
+can you book that for _people_ people and get me a reference number as well please?
+i've reserved you _people_ seats on _reference_  the total is 1 _people_ 2 pounds payable at the station. your reference number is _reference_  can i help you with anything else today?
+no, that's everything that i needed. thanks for your help!
+i hop you enjoy your stay.  have a good day.
+Thank you, this is the end of the dialogue.
+You are very welcome.
+***
+i'm looking for a train to take 5me to _destination_ 
+okay and when would you like to leave?
+i would like to leave from _departure_ on _day_ and get to _destination_ by 9:15.
+there is a train departing _departure_ at _leaveat_ _day_  and arriving in _destination_ at _arriveby_ 
+can you tell me how long the trip will take?
+the travel time is _time_ 
+Ok, that is all the information I need. Thank you.
+You're welcome. Thank you for calling the Cambridge TownInfo Centre. Have a great day!
+***
+i am looking for a train departing from _departure_ 
+sure.  where are you going?
+i would like to go to _destination_  after _leaveat_ 
+okay, and what day do you want to make the trip?
+i want to leave on _day_ 
+great, tr5720 from _departure_ to _destination_ leaves _day_ at _leaveat_  can i book this for you?
+actually, can i have the price, and the travel time please?
+the cost is _ticket_ and the trip will take _time_ 
+Great that's all the info I need, thank you for your help today.
+Thank you very much. Have a nice day.
+***
+i need some train schedule information, please.
+is there a specific destination you need to depart from?
+yes, the train should arrive by _arriveby_ and should depart from _departure_ 
+what is your destination?
+i want to go to _destination_  please.
+trainid	departure	destination	day	leaveat	arriveby	price	duration	book (optional) tr8519 _departure_ _destination_ friday	05:35	05:52	4.40 pounds	17 minutes	 tr8510 _departure_ _destination_ friday	07:35	07:52	4.40 pounds	17 minutes	 tr3976 _departure_ _destination_ friday	09:35	09:52	4.40 pounds	17 minutes	 tr0212 _departure_ _destination_ friday	11:35	11:52	4.40 pounds	17 minutes	 tr0236 _departure_ _destination_ friday	13:35	13:52	4.40 pounds	17 minutes there is a sample.
+thanks, that's all i need.
+did you say you were leaving on friday?
+i need to leave on _day_  not friday.
+i see. all right, i've adjusted that information for you.
+That is all i needed. 
+Thank you for using our services.
+***
+am looking for a train it should leave on _day_ and should depart from _departure_ 
+thank you. where is your destination?
+i'm going to _destination_ 
+what time are you looking to depart/arrive?
+i want to depart after _leaveat_ 
+ _trainid_ leaves at _leaveat_ and arrives at _arriveby_  do you want me to book this train? i will need your details, please.
+yes, i need _people_ ticket and can you please give me the reference number?
+booking was successful, the total fee is _ticket_ . reference number is : _reference_ 
+Thanks ever so much! You've been very helpful.
+You are very welcome! Have a nice trip.
+***
+i am looking to book a train.
+certainly. may i ask where you want to depart from?
+i would like to leave from the closest station to my location.
+could you tell me your location, which area of town or what business you are departing from?
+we are leaving _departure_ and need to do so after _leaveat_ on _day_ for 6 people and can i get the reference number for the booking?
+to clarify, are you looking for a train to cambridge? all _day_ trains from _departure_ go to cambridge.
+i need to depart from _departure_ and go to _destination_  .
+booked! you leave at _leaveat_  your reference number is _reference_  you will pay 141. _people_ at the station.
+Okay thank you. That is all I need.
+Okay thank you for calling.
+***
+i need to leave _departure_ on _day_ by train.
+the first train to leave _departure_ departs at _leaveat_  and goes to _destination_ 
+that will be fine i guess.  it will arrive by _arriveby_  i'm sure?
+ _trainid_ will arrive closer to that time, it arrives at _arriveby_  would you like tickets for that one instead?
+yes, let's go ahead and book that.
+my apologies, i believe there was an error in the database lookup. _trainid_ is not available but _trainid_ arrives at _arriveby_ on _day_  shall we book that instead?
+yes, please give me travel time and departure time, please.
+certainly. the departure time is _leaveat_ and the travel time is 5 _people_ minutes. i have booked your ticket. the reference number is _reference_  can i help with anything else?
+no, that's all i need, thank you.
+thank you for using our system!
+Thanks for your help bye!
+You are welcome. Goodbye.
+***
+am looking for a train,it should depart from _departure_ and should go to _destination_ 
+the train id is tr1709 and it leaves on _day_ 
+i need to travel on _day_ and get there by _arriveby_ 
+trainid _trainid_ leaves _departure_ at _leaveat_ and arrives at _destination_ at _arriveby_  it's the last _day_ train.
+can you give me the price?
+that train costs _ticket_ 
+alright. i'll take it! that train will be perfect.
+ok, how many seats would you like to book?
+Oh, I don't need to book now. I just need the information for reference. Thank you. Goodbye.
+You are very welcome. Thanks for using Cambridge TownInfo centre. Goodbye.
+***
+i would like to find an italian restaurant open for dinner?
+i will need more information on what you are looking for, what area and what time?
+i am looking for a train departing from _departure_ on _day_ to go to _destination_ 
+there are _choice_ trains available. by what time do you need to depart or arrive?
+i need to arrive by _arriveby_  the booking is for me only and i will need a reference number please.
+how about the _trainid_  it will arrive by _arriveby_ 
+that sounds good. please book me for one person and give me the reference number.
+all done. you have _people_ ticket on _reference_  your reference number is _reference_  can i do anything else for you?
+No, that's everything today, thank you.
+Have a good trip. Thank you for using Cambridge TownInfo Centre. Goodbye.
+***
+i'm looking for a train. the train should arrive by _arriveby_ and should leave on _day_ 
+where will you be traveling to?
+i am going to _destination_ from _departure_ 
+the _trainid_ arrives at _arriveby_  will this be okay?
+yes. please book it for _people_ person.
+i booked your ticket, and your reference number is dbwtxco _people_  can i help further today?
+no that's it! thanks so much!
+thanks again for choosing us.
+You have been helpful.  Good bye.
+Thank you. Goodbye.
+***
+i need to book a train that leaves _departure_ after _leaveat_ 
+there are _choice_ trains that leave _departure_ after _leaveat_  can you please tell me your destination so i can find the most appropriate one for you?
+i would like to go to _destination_ 
+there are _choice_ trains, do you have a preferred day?
+i need to leave on _day_ please.
+ _trainid_ leaves at _leaveat_ and arrives by _arriveby_  is that okay?
+yes, what is the travel time and price for that train?
+the travel time is _time_ and the cost of the ticket is _ticket_ 
+could you also confirm the arrival time?
+of course, the arrival time of the train is _day_ at _arriveby_ 
+thank you very much for your help?
+you are welcome.  do you need any other information?
+No, that'll be all!
+All right, please enjoy your trip!
+***
+i'm looking for a train. the train should arrive by _arriveby_ and should go to _destination_ 
+what day will you be traveling?
+i would like to travel on _day_ 
+there are _choice_ trains that match your search. shall i choose one to book?
+yes, please choose the one closest to my arrival time.
+i recommend the tr8244 which leaves at _leaveat_  how many seats do you want me to reserve for you and your party?
+i actually only want the price, but can you make sure that the train is leaving from _departure_ 
+yes that leaves from _departure_ and there are _choice_ if you'd like. the price is _ticket_ 
+That is perfect thank you very much for all of your help.  You have a wonderful day.
+Thank you, goodbye!
+***
+i am looking for a train from _departure_ on _day_ 
+i found _choice_ trains that match your request. where is your destination?
+the train should leave after _leaveat_ and should go to _destination_ 
+how about tr7514 that leaves at _leaveat_ on _day_ 
+that would be perfect. could you book it for _people_ people and provide me a reference number?
+i've booked _people_ tickets, the fee is 105. _people_ and the reference number is _reference_ 
+thank you for your help.
+you are welcome. can i assist with anything else today?
+No that is all. Thanks, goodbye.
+Thank you, goodbye
+***
+hi, i need to catch a train from _departure_ on _day_  can you please give me the schedule for that day?
+tr7020 _departure_ cambridge _day_ 05:39	07:07	16.60 pounds	88 minutes	 tr8813 _departure_ cambridge _day_ 07:39	09:07	16.60 pounds	88 minutes	 tr7519 _departure_ cambridge _day_ 09:39	11:07	16.60 pounds	88 minutes	 tr4161 _departure_ cambridge _day_ 11:39	13:07	16.60 pounds	88 minutes	 tr2826 _departure_ cambridge _day_ 13:39	15:07	16.60 pounds	88 minutes	.
+it looks like tr4161 from _departure_ to cambridge, leaving on _day_ at 11:39, fits my schedule.
+great, would you like me to book that for you? how many people?
+yes, please. two of us are traveling together.
+i have booked you two tickets. your reference number is _reference_ 
+Thanks, that's all. Good bye. 
+welcome again some other time
+***
+i'm in need of a train leaving _day_ from _departure_  can you help me find one?
+sure, i can put you on _trainid_ which leaves for _destination_ at _leaveat_   how many tickets do you need?
+one ticket just for myself, though i need to arrive by _arriveby_ 
+your booking was successful with a reference number of _reference_ and a fee of _ticket_  is there anything else i can do for you today?
+that's all i need, thanks.
+you're welcome. have a great trip!
+thanks.  can you just confirm for me when i will arrive in _destination_ 
+sure, you will arrive in _destination_ at _arriveby_  may i help with anything else?
+No that will be all thank you.
+Have a great day!
+***
+i need to book a train from _departure_ to _destination_   can you help me with this?
+there are _choice_ trains making that trip, do you have a day and time you would like to travel?
+i would like to leave _day_ after _leaveat_   are there still any available>.
+ _trainid_ departs _departure_ at _leaveat_  would that work for you?
+yes. please make a booking for _people_ and be sure to give me a reference number.
+you are all set for train _trainid_  it will cost _ticket_  payable at the station.  the reference number is _reference_   can i help you further?
+great. that is all i need. thank you for your help.
+you're welcome, enjoy your trip.
+Thank you so much!
+You're very welcome. Thank you so much for using our service.
+***
+hello, i'm looking for a train. i need to leave on _day_ from _departure_ 
+any idea where you want to go?
+i am looking to go to _destination_ 
+to help narrow down the choices, what time would you like to depart at?
+i'm leaving after _leaveat_ 
+how about _trainid_ that leaves at _leaveat_ 
+what is the price and travel time?
+it is _ticket_ and the travel time is _time_ 
+ok great, can you book it for me please?
+you are booked fee will be _ticket_ payable at the station, the refernece number is _reference_   anything else today?
+That will be all, thank you for your help.
+welcome nice travel
+***
+i am looking for a train that leaves on _day_ and arrives by _arriveby_ 
+where are you departing from, please?
+ i am leaving from _departure_ where i am now.
+what is your destination?
+i'm going to london liverpool street.
+ booking was successful, the total fee is 23.6 gbp payable at the station . reference number is : _reference_ 
+Thank you, that's all I need. good bye.
+Thank you for using the Cambridge TownInfo centre. Have a nice day!
+***
+i am looking for a train.
+i'd be happy to help with your request.  what day will you be travelling and what is your destination?
+i'll be heading to _destination_ on _day_ 
+these are the available options trainid	departure	destination	day	leaveat	arriveby	price	duration	book (optional) tr7098	cambridge _destination_ _day_ 05:06	05:56	16.50 pounds	50 minutes	 tr4745	cambridge _destination_ _day_ 05:34	06:24	16.50 pounds	50 minutes	 tr9932	cambridge _destination_ _day_ 06:06	06:56	16.50 pounds	50 minutes	 tr8769	cambridge _destination_ _day_ 06:34	07:24	16.50 pounds	50 minutes	 tr6688	cambridge _destination_ _day_ 07:06	07:56	16.50 pounds	50 minutes	.
+Thank you for your help
+You're very welcome! Make sure to let us know if you'd like to book anything!
+***
+i need to book a train for _day_ from _departure_ to _destination_ to arrive by _arriveby_ for 6 people.
+what time would you like to leave by?
+anytime as long as i arrive by _arriveby_  can you provide me with a reference number after booking?
+great.  i booked six tickets on _reference_ departing at _leaveat_ and arriving in _destination_ at _arriveby_   your confirmation number is _reference_ 
+That is all I needed, good day to you. 
+Have a great day!
+***
+i'd like a train to _destination_ that arrives by _arriveby_ 
+where are you departing from?
+i'm departing from _departure_ 
+do you have a day you would like to travel?
+yes, _day_  i also need the departure time and price, please.
+the latest train arrives at _arriveby_ on a _day_  departs at _leaveat_ and the cost of the ticket is _ticket_ 
+Okay that is all I need to know for now.
+Okay.  Let us know if we can be of further assistance.
+***
+i need to find a train going to _destination_ from _departure_ 
+there are _choice_ trains meeting those requirements. what day of the week are you leaving?
+i need to leave on _day_ and arrive by _arriveby_ 
+i have a train that fits your criteria _day_  it leaves at 05:17 and arrives at _arriveby_  would you like me to book it for you?
+no, i need to arrive by 5:00 no 6:00 can you check the schedule again?
+i have a train that arrives at _arriveby_  is that what you are looking for?
+i need to arrive in _destination_ by _arriveby_ 
+booking was successful, the total fee is _ticket_ payable at the station . reference number is : _reference_ 
+thank you for your help.
+is there anything else i can help you with?
+No thank you.
+OK. Sorry for the confusion about the times. If you need help with anything else just let us know.
+***
+am looking for a train it should arrive by _arriveby_ and should go to _destination_ 
+ _reference_ cost _ticket_  is there anything else?
+i need to leave on _day_ from _departure_ 
+there are two trains that arrive in _destination_ by _arriveby_  what time are you planning to leave _departure_ 
+i just need to arrive by _arriveby_ in _destination_ the departure time doesn't matter.
+ _trainid_ arrives at _arriveby_ and _trainid_ arrives at _arriveby_  would you like me to book tickets on one of them?
+i need tickets for _people_ people. can you book and give me the reference number?
+i booked _trainid_ and you reference number is _reference_  is there anything else?
+No that is all.  Thank you.
+Thank you for using our services.
+***
+hi, i need to find a train to _destination_  please.
+certainly. from where are you planning to depart, and when?
+i want to leave from _departure_ on _day_ 
+i have _choice_ trains available. is there a certain time you would like to travel?
+yes, i would like to arrive by _arriveby_ 
+ _trainid_ will get you to _destination_ by _choice_ 43. would you like to book this train?
+that is all.  thank you.
+it was a pleasure to help. have a good night.
+actually, can you give me the reference number?
+all set up, your reference number is _reference_  do you need any more help?
+That's all thanks !
+glad I could help bye!
+***
+hi i need to get to _destination_ by 5:30 pm. is there a train for that?
+there are _choice_ options that will get you to _destination_ by _arriveby_   could you please tell me where you will be departing form and what day you are traveling?
+i will be departing from _departure_ on _day_ 
+ _trainid_ departs _departure_ at _leaveat_ and will arrive in _destination_ at _arriveby_ (4:35p.m.). would you like a ticket on that train?
+that would be fine.  how long is the trip?
+the trip is _time_ 
+thank you for the information!
+and you would like to book just one ticket, is that correct?
+yes, one ticket is fine.
+great. i have you on that train and your reference number is _reference_  is there anything else i may help you with today?
+nope, that's it! thanks!
+thank you for using our service. have all of your needs been met?
+That's all thank you
+You're welcome. Good-bye.
+***
+i am looking for a train departing from _departure_ 
+i have _choice_ trains departing from that location, do you have any more information to narrow it down some?
+yes, i'd like to go to _destination_ on _day_  sometime after _leaveat_ 
+train _trainid_ leaves _departure_ at _leaveat_ and arrives in _destination_ at _arriveby_  would you like to book this train?
+i think that will work. what is the ticket price and travel time for that train?
+the ticket price is _ticket_  travel time on this route is _time_  would you like me to arrange a booking on this train?
+yes, that sounds good.
+great, i have booked your ticket. your reference number is : _reference_ 
+okay thank you for all your help.
+you're quite welcome. is there anything else i can assist you with today?
+No, that's all I need today. I appreciate your help.
+Have a wonderful day!
+***
+hi there, i'm looking for a train going to _destination_ 
+i need to narrow down the search for you. where are you heading?
+as i said, i am heading to _destination_ 
+i'm sorry, to help narrow down the results please reply with where you will be departing from and your requested arrival/departure time.
+i need to arrive by _arriveby_ 
+there is a train depart at _leaveat_ and arrive by _arriveby_  would that work for you?
+yes, what is the id?
+please confirm where you are coming from. are you leaving from _departure_  or from somewhere else?
+oh, i'll be departing from _departure_  yes, thanks.
+ _trainid_ arrives at _arriveby_  would you like to reserve seats?
+yes please. i would like to travel on _day_ 
+i'm sorry for the mix-up, train _trainid_ is not available on _day_  i do have tr4173 available but it arrives in _destination_ at _arriveby_  will  this work?
+yes, please book for _people_ people./.
+you are booked. you'll pay 20. _people_ pounds at the station. your reference number is es8zdmr _people_  may i help with anything further?
+no, thank you. that's all. thanks!
+thanks a lot.
+Have a great day.
+You too! Please let us know if there's anything else we can help you with.
+***
+i want a train from _departure_ arriving at 9:30.
+which day will you be traveling?
+i want to leave on thursday.
+ok, i should be able to do that for you.
+i want to go to _destination_  how much will that cost?
+ _choice_ are three trains that will fit your needs, and the tickets are _ticket_ each. would you like me to purchase tickets for you?
+yes, that sounds good. thank you.
+would you like me to book that for you?
+can you tell me how much the ticket is?
+yes, there are _choice_ that cost _ticket_   you could leave at _leaveat_ if you'd like.  can i book that for you?
+No, thanks. No need. I will do that later. Thank you for all the info. Have a nice day. 
+It's my pleasure. Goodbye!
+***
+i need a train out of _departure_ 
+traveling on what day and to where?
+the train should go to _destination_ on _day_ 
+okay, and do you have a preferred time to leave or arrive?
+i would like to leave after _leaveat_ for 5 people please.
+the _trainid_ leaves _departure_ at _leaveat_ and arrives _destination_ at _arriveby_  it's price is _ticket_ per person. shall i book it?
+yes please. i would like _people_ tickets please.
+ok, you have _people_ tickets reserved on _reference_  total fee is _ticket_  your reference # is _reference_  can i help with anything else today?
+Great that was all I needed thank you for your help!
+You're welcome. Have a lovely trip! Goodbye!
+***
+hello, i need to book a train for _day_ leaving to _destination_ 
+no problem, can you please let me know where you want to depart from?
+i would like to leave _departure_ after _leaveat_ 
+tr7317 leaves at _leaveat_ on _day_  would you like to reserve a seat?
+yes just one seat, and i'll need the reference number.
+booking was successful, the total fee is _ticket_ payable at the station.  reference number is : _reference_ 
+Thank you so much for your help. Have a great day! 
+Thank you for using the Cambridge TownInfo centre. Have a good trip. Goodbye.
+***
+i am looking to leave for _destination_ after 15:15 by train.
+certainly. where are you departing from?
+i'll be leaving from _departure_ 
+i have _choice_ trains, when would you like to arrive by?
+the arrival time does not matter, but it should leave on _day_ after _leaveat_ 
+booking was successful, the total fee is _ticket_ payable at the station. reference number is : _reference_  is there anything else i can help with?
+were you able to book it for _people_ people?
+i was able to book _people_ tickets. the total fee will be _ticket_  payable at the station. the reference number is _reference_  can i help you with anything else?
+Okay no that is all today.
+Thank you for using our system!
+***
+i need a train from _departure_ to _destination_ please.
+what day will you be travelling?
+i would like to depart on _day_ 
+we have _choice_ trains that go from _departure_ to _destination_ on _day_  would you like to depart at a certain time?
+i need to arrive by _arriveby_ 
+we have the tr9533 that arrives at _arriveby_  how is that?
+i need the reference number, please.
+how many tickets do you want? do you want me to book that?
+i only want one ticket please.
+your train is successfully booked.your reference number is _reference_ 
+Okay great. Thanks for your help.
+Alright. Enjoy your journey.
+***
+looking for a train going to _destination_ 
+what day and time are you wanting to travel?
+i am leaving on _day_ and need to arrive by _arriveby_ 
+how about tr3350 that leaves at _leaveat_ 
+you can book it. get me the reference number too.
+ _reference_ is the reference number.
+Thank you that is all I needed.
+Thank you for using our services.
+***
+i'm looking for a train out of _departure_ on _day_ 
+no problem! where do you plan to go on _day_ 
+i want to go to _destination_ 
+alright, when do you want to leave and arrive?
+arrival time is not important, but the train should leave after _leaveat_ 
+booking was successful, the total fee is _ticket_ payable at the station. reference number is : _reference_  is there anything else i can help with?
+No, thank you. Sounds good 
+Have a wonderful day.
+***
+yeah, i need a train on _day_ 
+i can certainly help with that. where would you like to depart from?
+departing from _departure_ 
+can you please tell me your destination?
+the train should go to _destination_ and leave after _leaveat_ 
+the first train after _leaveat_ _trainid_ leaves at _leaveat_  would you like to book the train?
+can you tell me the travel time first?
+the first train leaves at _leaveat_ and arrives at _arriveby_  the duration is _time_ 
+that sounds great, that's all i wanted to know.
+can i help you find anything else, today?
+That should be all. Thank you! 
+Have a good rest of your day!
+***
+please find a train that departs from _departure_ and arrives in _destination_ by 8:45.
+okay, and which day would you like to travel?
+i would like to leave on _day_ from _departure_ 
+the _trainid_ arrives _day_ at _arriveby_   would you like me to book it for you?
+can i get travel time and price first, please?
+the trip is _time_ long and it is _ticket_ for a ticket.
+ok thanks, im ready to book.
+great, i have booked your ticket, your reference number is : _reference_  may i help with anything further.
+i'm so sorry.  i didn't mean to book yet.  i won't need that reservation.  could you make sure that train _reference_ is departing from london liverpool?
+train _reference_ is departing from _departure_ to _destination_  would you like me to look for a train departing from london liverpool?
+yes, please. i need to know the price and travel time for that as well.
+ _trainid_ leaves from _departure_ on _day_ at _leaveat_ and arrives in _destination_ at _arriveby_ with travel time of _time_  cost is _ticket_  shall i book this ticket?
+No, thank you. That's all I needed today.
+Thank you, goodbye.
+***
+hello there. can you please find me a train schedule that leaves on wednesday heading for cambridge?
+yeah, i can do that. where are you heading in from?
+i'd like to leave from _departure_ sometime after _leaveat_ 
+i have _choice_ trains. the first leaves at _arriveby_ and arrives at 13:32. would you like me to book that for you?
+may i have the train id for that one?
+certainly. that train id is _trainid_ 
+what is the travel time?
+travel time will be _time_ 
+Thank you. That is all I will need.
+Perfect! Have a wonderful day! 
+***
+i i'm looking for a train. the train should depart from _departure_ and should go to _destination_ 
+what day would you like to travel?
+i need to leave on _day_ after _leaveat_  can you provide me with the train id?
+the first train available is the _trainid_ at _leaveat_  shall i book you a seat?
+No thank you. That is all I need. 
+Thank you for calling the Cambridge Township Centre. Enjoy your day!
+***
+i need a train out of _departure_ on _day_ 
+what is your destination?
+i want to go to cambridge, i need to get in by _arriveby_ 
+i have _choice_ trains, shall i book one?
+as long as i'm there by _arriveby_ it doesn't matter.
+i have booked you a train arriving at _arriveby_  the reference number is _reference_ and the total fee of _ticket_ will be payable at the station.
+Thank you for your help! Have a good day. Goodbye.
+Thank you for using the Cambridge TownInfo Centre; goodbye!
+***
+hello.  i need a train leaving from _departure_ on _day_   what's available?
+i have _choice_ trains leaving _departure_ _day_   what time are you looking to leave by?
+i am looking to go to _destination_ and arrive by _arriveby_ 
+i have _choice_ trains leaving _departure_ for _destination_ _day_ arriving before _arriveby_   which would you prefer, one arrives at _arriveby_ the other _arriveby_ 
+what's the price?
+the price per ticket is _ticket_ and the ride is _time_ long. can i help you in booking a ticket?
+No, no booking is necessary. But thanks for the info. Thats all I needed. 
+Very good. Have a good day.
+***
+i am looking for a train to _destination_ 
+what day are you looking to travel?
+i need to leave a little after 8:00 on _day_  and i'm leaving from _departure_ 
+the closest train i have is the _trainid_ that leaves at _leaveat_  there's nothing earlier on that day.
+that will have to work. what is the arrival time?
+the arrival time is _arriveby_ 
+Perfect! That's all I needed to know. Thanks. Have a great day.
+Have a wonderful day!
+***
+i'm looking for a train departing from _departure_ 
+where are you headed?
+i am heading to _destination_ 
+how about tr5570 that leaves at _leaveat_ 
+i will need to arrive by _arriveby_ 
+what day will you be travelling?
+i will be leaving on _day_ 
+how about the _trainid_ train that leaves at _leaveat_ 
+does that train arrive in _destination_ before _arriveby_ 
+ _trainid_ arrives in _destination_ by _arriveby_   would you like me to find something closer to arriving at _arriveby_ 
+yes, and i'll just need the train id and departure time.
+tr5972 leaves _departure_ _day_ at _leaveat_ and arrives in _destination_ at _arriveby_  the fare is _ticket_ 
+okay. would you please book _people_ tickets for that one?
+booking was successful, the total fee is _ticket_ payable at the station . reference number is : _reference_ 
+i can't imagine why i asked you to book passage. i always buy my own tickets. in any case, thanks ever so much.
+is there anything else i can help you with today?
+no thanks for your service i enjoyed
+Have a great day.
+***
+i need a train from _departure_ to _destination_  please.
+there are _choice_ trains that make that trip, do you have a day and time?
+yes. i need to leave on _day_ and arrive by _arriveby_ 
+i have train tr7744 that leaves the airport at _arriveby_ and will get you there by 16:52. would you like me to book you a ticket?
+how much is the ticket?
+the tickets are _ticket_ per ticket. would you like to book the train?
+not at the moment. thank you.
+can i help you with anything else?
+No, that's all I need right now. Thank you!
+You're welcome. Have a wonderful day. 
+***

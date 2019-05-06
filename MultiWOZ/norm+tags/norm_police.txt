@@ -1,0 +1,1250 @@
+good afternoon, would you kindly tell me where the _name_ is?
+sure. the _name_ is at _address_  is there anything else i can assist you with?
+yes, please provide me with the address and postcode.
+ _address_ postcode	:cb11jg. do you need anything else?
+Nope, that takes care of everything for me. Thanks a bunch.
+You're welcome. Thank you for using the Cambridge TownInfo centre. Have a great day.
+***
+i was just in a car accident and need help figuring out what to do next.
+sorry to hear that. if you need to reach the police in _address_ cb11jg, their number is _phone_  let me know if there is anything else i can do.
+I am calling the police and if I need anything else will contact you later. Goodbye.
+Ok, please reply if you need any further assistance. 
+***
+please help me! i've just been robbed!
+the telephone number for the _name_ is _phone_ 
+thank you, could you also provide me the postcode and address?
+they are in _address_ cb11jg.
+thank you so much, i appreciate your help!
+is there anything else i can help you with?
+No that is it. Goodbye.
+Goodbye. I hope the police are able to help you, I'm sorry this happened to you.
+***
+i am in a car accident dispute, i need to get some help.
+is _name_ near your location?
+yes, i need the postcode, address, and phone number.
+they are in _address_  cb11jg. the phone number is _phone_  is that everything you needed?
+yes, i'll contact them now. thanks.
+you're welcome. is there anything else you need assistance with?
+I think that is all, thank you so much. 
+you are welcome any time
+***
+i am looking for the nearest police station.
+the nearest police station is in parkside cambridge, the telephone number is _phone_ 
+thank you, that's all i need.
+you take care.
+Thank you for your help
+Have a nice day!
+***
+my wallet was stolen. can i get some help?
+you should contact the police at _phone_  the _name_ is located in _address_ cb11jg.
+Thank you goodbye.
+You're welcome. I hope everything works out.
+***
+i was in a car accident dispute and i need some help.
+the _name_ can help out with your dispute. their telephone is _phone_ with a postcode of cb11jg _address_  is there anything else i can help you with?
+that was very thorough, i really appreciate the help.  it's been a nightmare of a day.
+i can imagine, sorry for your trouble!
+Have a great day.
+You, too. Let me know if I can be of any more assistance.
+***
+i'm looking for a the _name_ 
+the telephone number for the parkside police is _phone_ 
+what is the address and postcode?
+the address is _address_ and the postcode is cb11jg.
+That's all I need. Thanks, good bye.
+Glad I could be of service.
+***
+i was just robbed and am looking for help. can you give me the phone number for the police?
+call _phone_ for the _name_ to help you.
+what's the address, please?
+there is no specific street number, but i'm sure if you go to _address_ at postcode cb11jg you'll be able to locate the station.
+Thank you for your help. That is all I need.
+Thank you for using our services.
+***
+i'm involved in a bit of an argument related to an automobile accident. can you help me out?
+sure! i think you'll need the police. their contact number is _phone_ 
+can i please get the address instead?
+they are located in _address_ cb11jg. can i help you with anything else?
+Thanks, that's all. Good bye.
+Good luck with everything. Thank you.
+***
+i was just in a car accident, can i please have the number for the police station?
+absolutely, the _name_ number is _phone_  do you need hospital information as well?
+no thank you
+Good luck with everything!
+***
+can you tell me where the _name_ is located?
+the address to the police is _address_ 
+can i get the postcode and phone number, please?
+the telephone number is _phone_ and the postcode is cb11jg. is there anything else i can help you with?
+No, that's all. Thank you for your assistance!
+You're very welcome! Have a great day!
+***
+i need to locate the nearest police station please.
+the police station is located in parkside, postcode cb11jg. is there anything else you need?
+i have everything i need. thank you.
+you are welcome. let me know if there's anything else i can do!
+i need to call them actually right now - do you have their phone number?
+sure - the phone number is _phone_ 
+great, have a great day!
+happy to help anytime, cheers!
+***
+oh my god, i've just been robbed! i need the police please! help!
+the police are located in parkside cambridge and the telephone number is _phone_ 
+is this the emergency number to call?
+yes, it is the direct number to the police for help. do you want me to transfer you to the police?
+no, that's ok. thank you!
+do you need any further assistance?
+That is all, thank you.
+You are very welcome, I hope your day gets better.
+***
+can i get the address and phone number for the _name_ 
+absolutely! the phone number is _phone_ and they are located at _address_ cb11jg.
+Thank you, that is all I need today.
+I'm glad we could help. Please call us back anytime. Good Bye!
+***
+hello, i need information for the nearest police station please.
+hello, the name is _name_  located at _address_  post code cb11jg. the phone number is _phone_  do you need help with anything else?
+Thank you so much, that's all I need for now. Goodbye.
+Let me know if you need anything else.
+***
+hi, i am trying to find the police station that's closest to my location please.
+the nearest police station is in _address_  cb11jg.
+thanks, what is their phone number?
+telephone	: _phone_ there you go.
+Thank you, that is all I need today.
+Best of luck with everything and enjoy your day.
+***
+i've just had a dispute with another driver due to an accident we had. i need the police please!
+oh dear, i am sorry. i have the number for parkside police, is that close to your location?
+i'm not sure. can you give me the address and post code?
+their address is _address_  postcode cb11jg. do you need their phone also?
+yes thank you.
+their phone number is _phone_ 
+thank you for the information. i will contact them now.
+great, is there anything else i can help you with?
+No, that's all. Thanks
+You're welcome. Remember we are here for you. Goodbye.
+***
+please help i've been robbed!!
+i will call the police. in case we get disconnected the number to the police is _phone_ 
+can i please have their address?
+the address is _address_ postcode cb11jg. is there anything else i can do to help you?
+No, I hear the police sirens now.  Thank you.  Bye.
+You're welcome. I hope you will be able to get this sorted out quickly! Bye.
+***
+hi! i'm looking for the nearest police station.
+the nearest station is parkside police at parkside, cambridge.
+may i get the phone number?
+the phone number for the police is _phone_ 
+enjoyed your services. keep that up.
+thank you so much. is there anything else i can help you with?
+your welcome . No that should do it  Goodbye
+Okay, enjoy the rest of your day then!
+***
+i was in a car accident. i need to contact the police, please.
+the _name_ is in _address_  is this close to your location?
+yes i'll need their address please.
+they are located at _address_ cb11jg.
+thank you. that's all i need to know for now.
+do you need anything else?
+That is all now, thank you. Good bye. 
+Hope you feel better.
+***
+do you have a phone number for the police?
+yes, call them at _phone_ 
+what is the address?
+the address is _address_ 
+Thanks, that's all. Good bye.
+You can contact Parkside Police Station in Parksid, Cambridge, CB11JG at telephone number: 01223358966.
+***
+i was parking my car and another driver passed too close and scraped the paint, but she won't acknowledge it was her fault. can you help?
+contacting the _name_ at phone number is _phone_ is probably the best course for resolving your situation. do you think that will help?
+probably. can i get the address and postcode, too?
+certainly. the address is _address_  and the postcode is cb11jg. is there anything else i can help you with?
+No, that will be it. Thank you so much for your help. 
+You're welcome. Please call us again. Goodbye.
+***
+i am looking for the _name_ 
+their number is _phone_  do you need assistance? has a crime occured?
+i only needed the phone number. thank you!
+is there anything else that i can help you with?
+No, that was all I needed, thank you so much.
+So glad we could be of service today. Enjoy your time in Cambridge!
+***
+i am looking for a police station in parkside.
+there is a police station in parkside. the postal code is cb11jg and the phone number is _phone_  is there anything else i can help you with?
+No. That's all I wanted to know. Thanks.
+Best wishes to you. Have a good day.
+***
+can i find the _name_ 
+yes, they are located at parkside, postcode cb11jg. their telephone number is _phone_ 
+thanks, that is all i needed. goodbye.
+you're welcome. have a great night.
+You too. Goodbye.
+thank you, have a nice day.
+***
+do you have any information on the _name_ 
+thank you for calling. i can tell you that their phone number is _phone_ and that they are located at cb11jg. is there anything else?
+No that is everything, thank you!
+You are welcome. 
+***
+can you tell me how to get to the _name_ from my location?
+here is the location: address	: _address_ postcode	:	cb11jg.
+Thank you Goodbye.
+Let me give you the police station telephone number so you have it : 01223358966. Is that all you need?
+***
+hi! i need to find the _name_ please.
+it's address is _address_ with postcode cb11jg.
+Thank you Goodbye. 
+You are very welcome. Have a good day.
+***
+i was just involved in a car accident.
+i'm very sorry to hear that! have you called the police yet? if not here is their number _phone_  is there anything else i can help with?
+yes, i have a passenger that is hurt. how can i get to the hospital to make sure they are okay?
+you should contact this number: _phone_ 
+thanks, what's the address and postcode to the police department?
+the address is _address_  postcode cb11jg.
+Thank you for the info. That'll be all for now.
+You are welcome. Have a great day.
+***
+can you point me to the nearest police station?
+please call the _name_ at _phone_  they will be able to assist you.
+thank you for your help.
+is there anything else i can help you with today?
+Thanks, that's all. Good bye.
+Great! Have a nice day! 
+***
+hi, i am looking for the nearest police station.
+hi, the nearest police station is at _address_ postcode: cb11jg. is there anything else i can help with?
+can you please give me the phone number as well?
+the telephone number is _phone_ 
+Thank you, goodbye
+Great! Have a nice day! 
+***
+hello, i need information on the _name_ 
+the phone number for _name_ is _phone_  address _address_  cb11jg.
+amazing, thanks for your help.
+do you want me to call 911?
+No, that's ok.  I've got it.  Thanks again.
+Let us know if you need more help.
+***
+where is the _name_ 
+it's address is _address_ with postcode cb11jg.
+Thank you, what is their phone number?
+The phone number is 01223358966.
+***
+i just had a physical altercation with another driver after i hit his car accidentally. may i get some help please?
+here _phone_ is _phone_ the _phone_ information _phone_ for _phone_ contacting _phone_ police _phone_  _phone_ telephone _phone_ 01223358966 _phone_ address _phone_ _address_ _phone_ postcode _phone_  _phone_ cb11jg _phone_ 
+i appreciate your help.  do you know how quickly the police will respond? i may need some medical help as well.
+the police will arrive soon, are you injured?
+No, I am not. this is all I need, thanks! good bye.
+Hope your day gets better!
+***
+i am looking for the _name_ 
+the telephone for the _name_ is _phone_ .
+Thank you Goodbye.
+Have a great day! Bye!
+***
+i am trying to find the _name_ 
+the police station is located at _address_ 
+may i have the address please?
+the only information i have is that the postcode is cb11jg and the phone number is _phone_ 
+ok, i suppose that will have to do. thank you.
+the address is _address_  is there anything else i can do for you?
+that is all. thank you.
+you're welcome. call us again please!
+I will have a great day.
+Thank you for using our services.
+***
+may you help me find the nearest police station.
+sure, it is located in _address_ 
+thanks very much, what is its postcode?
+the post code for the police station is cb11jg.
+great, thank you for the help.
+is there anything else i can help you with?
+No, that's all the information I need. Thanks.
+You're quite welcome. Thanks for using our service!
+***
+i was in a car accident and i need some help.
+sure! i think you'll need the police. their contact number is _phone_ 
+may i also have the address and the post code?
+the address is _address_ and the telephone number is _phone_ 
+Thank you so much for all of your help.
+The postcode is CB11JG. You are very welcome GoodBye
+***
+i been robbed and need to know what i should do next.
+i think you should contact the police station. the nearest one is _name_ and their number is _phone_ 
+Thank you. I will call right now. Goodbye.
+The police station's postal code is CB11JG. The police will help you. Goodbye.
+***
+i have been robbed and am looking for help.  can you help me?
+the nearest police station is located at _address_ and the phone number is _phone_ 
+thank you very much for your help.
+i hope you get your belongings back.
+actually, i can't find it on my phone. can you give me the postcode of the station?
+absolutely! the postcode is cb11jg!
+great, have a good day
+glad i could help bye
+***
+i need to find the _name_ 
+here _phone_ is _phone_ the _phone_ information _phone_ for _phone_ _name_ _phone_ telephone _phone_ 01223358966 _phone_ address _phone_ _address_ _phone_ postcode _phone_ cb11jg _phone_ 
+sorry, what is the street address?
+i do not have that information. please call their telephone number to and ask them for the address.
+thank you for your assistance.
+welcome. at your service next time.
+Thanks, that's all. Good bye.
+Thank you, Goodbye
+***
+could you tell me the nearest police station?
+the nearest police station is located at _address_ 
+could you please give me the postcode to the police station?
+of course, the postcode is cb11jg.
+Thank you! That will be all.
+Thank you very much. Goodbye.
+***
+yes, could you help me find the _name_ please?
+the _name_ is located at _address_ cb11jg. the phone number is _phone_  is there anything else i can help you with?
+Thank you.  That's all I need.
+Thank you for contacting us. 
+***
+where is the _name_ located?
+in _address_  cb11jg.
+thanks, what is their number?
+their phone number is _phone_  .
+Thank you goodbye.
+Thank you goodbye
+***
+i need help i have robbed.
+please contact the _address_ police station, .
+what's the phone number, address, and post code?
+the telephone number is _phone_  address _address_ with postcode cb11jg.
+Ok, thanks for your help. I appreciate it.
+You are more than welcome!
+***
+where is the _name_ 
+the parkside police station's address is parkside, cambridge.  its phone number is _phone_ and its postcode is cb11jg.
+That's all I will need, thank you.
+You're welcome, let me know if there's anything else I can do!
+***
+i need help, i was in a car accident dispute.
+the parkside police number is _phone_  would you like me to call them?
+yes please i need help.
+where is your location? i can direct the police to where you are.
+can i just have the address and postcode for the police station, please?
+of course.  the postcode is cb11jg and it is located in parkside.  anything else?
+No, I think that's it for right now. Thanks.
+Thanks for using our service, and I hope your day gets better!
+***
+yes i need the nearest police station, i was in a car accident.
+the _name_ is the closest in postcode cb11jg, their phone number is _phone_ 
+That's all I need, thank you.
+I hope your day gets better. Goodbye. 
+***
+help i was just robbed! could you please help me contact the police?
+parkside police phone number is: _phone_ 
+could i also get the address of the police station?
+the address for the police station is parkside, cabridge and the postcode is cb11jg.
+thank you for your help.
+you are welcome! is there anything else i can do for you?
+no that is all good day.
+Best of luck to you.
+***
+hello! i'm looking for the _name_ 
+the number for them is _phone_ 
+could i also have the postcode please?
+the postcode is cb11jg.
+Thank you, that is the information I needed
+Thank you very much. Goodbye.
+***
+where is the nearest police station?
+the _name_ is located in postcode cb11jg at _address_ 
+what is the phone number?
+ _phone_ is the number.
+Thank you. That is all I need.
+If there is nothing else I can help with, have a great day.
+***
+oh, yes, i need the location of the _name_  where would i find that?
+it's address is _address_ with postcode cb11jg.
+ok, thanks very much. .
+do you need any further assistance?
+No, Thank you Goodbye
+Great! Have a nice day!
+***
+i'm looking for the _name_ please.
+the address of the _name_ is _address_   it's phone number is _phone_ and it's postcode is cb11jg.
+Thanks, I think that's all I needed!
+Thank you for using our service, and have a great day!
+***
+i have been robbed, how do i contact the police?
+the nearest station is: located at _address_  postcode, cb11jg. phone number is _phone_  .
+Thank you, that is all I need. Good bye.
+I hope everything works out for you. Don't hesitate to call back. Goodbye.
+***
+hi i was just robbed... can i get some help?
+the nearest police stations number is _phone_ 
+thank you, could you also give me the postcode?
+the post code is cb11jg. is there anything else i can help you with today?
+No, that's it, thanks.
+Okay. Hope things get better. Goodbye.
+***
+i was just in a car accident and i need the police to come to the scene. i also need to know where the closest hospital is.
+i can call the police for you but the number is _phone_  the closest hospital is located at hills rd, cambridge.
+what is the post code for the hospital?
+the post code for the hospital is cb20qq.
+thanks for the info!
+you are welcome.  is there anything else i can assist you with?
+that's all that i need, thank you!
+thanks for using our service. have a great day.
+Thank you so much!
+You're welcome. Thank you for using our service.
+***
+another driver bumped into my rental car, but he's saying it's my fault. i need help resolving this.
+please contact the _address_ police station,.
+Okay, I need the phone number and postcode, please.
+The phone number is 01223358966, and the postcode is CB11JG.
+***
+i am involved in a car dispute, i need help.
+the _name_ will be able to help you. call the station at _phone_ 
+Can I also get their address and post code? Thanks.
+Sure thing.  Address is Parkside, Cambridge and the postcode is CB11JG
+***
+i was involved in a car accident and i need help.
+you can contact the _name_ at _phone_ 
+may i please have the postcode as well?
+the postcode is cb11jg, in _address_  do you need anything more?
+No, that should do it. Thanks.
+Thank you. Please let us know if you need anything else.
+***
+i need some help involving a problem with an automobile accident.
+if you are in an accident and need help you can contact the police department at _address_ phone _phone_ or the hospital on hills rd 01223245151.
+Thanks, that's all. Good bye.
+welcome. at your service next time
+***
+i've been robbed and need the police.
+okay, the police station is located at _address_ 
+thanks, can i also have the phone number and postcode?
+yes, the postcode is cb11jg and the phone number is _phone_ 
+Great, thank you for your help. I don't need anything further.
+I'm sorry this happened to you, I really hope that the police are able to help. If there is anything else I can do for you don't hesitate to ask.
+***
+help! i was in a car accident dispute!
+the parkside police station's telephone number is _phone_  are you in need of medical assistance? the addenbrookes hospital's telephone number is 01223245151.
+i was in a car accident dispute and need some info. i need a phone number, address, and postcode.
+oh no! the telephone number for the police is _phone_  their address is _address_  and their postcode is cb11jg. i hope no one was injured!
+Thanks for the information. I have to be going. Goodbye. And thanks again. 
+I hope you get it all settled quickly! Goodbye! 
+***
+please help me, i've just been robbed and i need to report this to the police.
+the local police station's number is _phone_ 
+and the address for the police station please?
+yes, it is _address_ 
+That's all I need, thanks.
+Okay, please let me know if I can be of further assistance. 
+***
+i've just been robbed. what should i do?
+call the _name_ - _phone_  are you ok?
+Thank you goodbye
+Have a nice day, Goodbye
+***
+i was robbed and i need help!
+oh no! you will want to contact the parkside police at _phone_ 
+an  get the postcode please?
+the postcode to the police is cb11jg.
+perfect, thanks for your help.
+is there anything else i can help you with?
+No, you have been very helpful. Thank you and have a good day.
+Thank you for using our services. 
+***
+i was robbed and i want some help.
+i have found the _name_  the phone number is _phone_ 
+thanks, i also need he address and post code.
+ _name_ is located at _address_  postcode cb11jg.
+I will call now, thanks. Goodbye.
+Happy I was able to help. Goodbye
+***
+i need to get to the nearest police station, can you assist me?
+cambridge, parkside police telephone number _phone_ 
+thank you, what's the post code?
+the post code is cb11jg.
+thank you for your help.
+you're welcome. can i help you with anything else?
+That is all. Thanks
+Okay. Have a good day and thanks for using our system.
+***
+i need to contact the nearest police station.
+the nearest police station is at parkside in cambridge.  the phone number is _phone_ 
+thank you, may i also get the address and postcode?
+the postcode is cb11jg. i do not have an address listed, however.
+thank you for the information.
+you are welcome. do you need any further assistance?
+No that will be all.  Thank you very much.
+Happy to help. Thank you for using our service.
+***
+yes, i've just been involved in a disagreement regarding a car accident and i require assistance please.
+would you like me to contact the parkside police for you?
+no, i just need he phone number.
+the phone number for the police is _phone_ 
+Thanks, that's all. Good bye. 
+Thank you for using our services.
+***
+i need to find the police station closest to me please.
+the police station is at _address_ 
+what is the address and phone number for that station?
+the number is: _phone_  the address is: _address_  can i help with anything else?
+can i get the postcode?
+the postcode is cb11jg.
+thank you very much for your help.
+do you need any further assistance?
+No, that is all I need. Thank you.
+You are welcome, have a good day.
+***
+i need some help with a car accident i was in.
+i'm sorry to hear about your accident, would you like the number for _name_ 
+yes please, that would be great.
+there you go  telephone	: _phone_ 
+great, thank you.
+you are welcome. is that all for today?
+yes, thanks for your help.
+you are quite welcome. do you require any further assistance?
+No I don't. Thank you. Goodbye.
+Thank you! Good Bye
+***
+please help, i've been in a car accident and am not sure who to call for help.
+call the police at _phone_ 
+Okay I will do that now. Thank you.
+You're more than welcome.
+***
+i need the address for the _name_ 
+it's located at _address_  postcode cb11jg.  can i help you with anything else?
+can i get the phone number please?
+the phone number for the police is _phone_ 
+Thanks for your help. Goodbye.
+You're welcome. Goodbye
+***
+someone just robbed me, i need to contact the police.
+the _name_ telephone number is _phone_  the address is _address_  postcode cb11jg.
+Thank you so much! Bye.
+You are quite welcome!
+***
+i was robbed and i don't know what i should do, any ideas?
+here _phone_ is _phone_ the _phone_ information _phone_ for _phone_ _name_ _phone_ telephone _phone_ 01223358966 _phone_ address _phone_ _address_ _phone_ postcode _phone_ cb11jg _phone_ 
+Thank you very much. I will contact them now.
+You take care now, if you need anything else don't hesitate to call.
+***
+i got into a fender-bender with my rental car, and now i need help resolving the dispute with the owner of the other car.
+cambridge, parkside police telephone number _phone_ 
+can i get the full mailing address for that location?
+the address is _address_ and the postcode is cb11jg.
+Thank you for your help. That is all I need right now.
+You are most welcome!
+***
+can you help me please? i just got robbed and i need help!
+you need to call _phone_ 
+and what is the address of the police station?
+it is at _address_ with postcode	cb11jg.
+Thank you! that's all I need for now.
+Thank you for using our services.
+***
+hello! i'm looking for the _name_  do you know where that is? any additional information would be helpful. thank you!
+yes mam, the address is _address_ with a postcode of cb11jg.the phone number is _phone_  would you like any more info ?
+no that is exactly what i needed. thank you for your help.
+have a nice day!
+Thanks, you too!
+Thank you! 
+***
+i am looking for the  nearest police station.
+the police station is located at: _address_  the number is _phone_  can i help with anything else?
+Thank you goodbye
+You are most welcome!
+***
+hello i need help finding the nearest police station.
+there is a station in _address_  would you like the phone number as well?
+if you could just get me the postcode and address, that would be perfect.
+the address is _address_  the post code is cb11jg.
+Thanks! That's all I need for now.
+Okay.  Hope that helps!
+***
+i need help, i was robbed.
+oh no! the number to the _name_ is _phone_ 
+can i get the address. i would like to go directly to the station.
+yes the _name_ is at _address_ postcode cb11jg. anything else i can help with?
+Nope, you have been great!
+I'm so glad to have helped. You have a pleasant time at the police station, now!
+***
+i'm looking for a place, i believe its official name is "parkside police station".
+the _name_ is located at _address_ and their telephone number is _phone_  can i help you with anything else today?
+what is their postcode?
+their postcode is cb11jg.
+Ok, thank you very much for your help.
+You are most welcome!
+***
+i have just been in a car accident dispute and i am looking for help.
+you may contact the _name_ at _phone_ 
+What is the address and postcode?
+I do not have their full address information available, the postcode is CB11JG. Please call them to get the address.
+***
+there's been a traffic accident and i need some help resolving a dispute about it.
+sure! i think you'll need the police. their contact number is _phone_ 
+thank you so much. do you have their address?
+their address is _address_ 
+Thank you so much! I think that is all I need today.
+You are more than welcome! 
+***
+help, i need to find the nearest police station.
+the nearest police station: _name_  telephone is _phone_  address is _address_  and postcode is cb11jg. is there anything else i can help with?
+No, that will be all, thank you.
+You're welcome. Please contact us again if you need any additional help.
+***
+i was in a car accident dispute and i need help!
+the parkside police will be able to help. here is their contact information, telephone: _phone_  address: parkside, cambridge, postcode: cb11jg. is there anything else i can do to help?
+That will be all, thank you
+No problem, let me know if you need anything else.
+***
+am looking for the nearest police station.
+cambridge, parkside police telephone number _phone_ 
+thanks. what is the postcode?
+the postal code is cb11jg. is there anything else you need?
+Thank you for you help, that is all I need today.
+You are welcome. Have a great day.
+***
+i was just robbed.  please give me emergency contact information.
+you can reach _name_ at _phone_ 
+i'm not comfortable standing around on the street. can you give me the address and postcode?
+sure, _address_  post code is cb11jg. anything else i can do for you?
+No, that is all. Thank you.
+You are welcome. Have a great day.
+***
+i was involved in a car accident and need help sorting it out.
+where did the accident occur? are there any injuries?
+i am not familiar with the area, but i am more concerned about the current car accident dispute.
+have you contacted the police?
+not yet. can you help me with locating the postcode?
+the postcode for parkside police is cb11jg. do you need further assistance?
+No, that is all I need. Thank you.
+I hope everything turns out alright for you. Please contact us again if we can provide any more information.
+***
+i was just robbed and need some help!
+oh dear, _name_ is at _address_  is this close to your location?
+yes it is. can you please give me their contact information?
+the phone number is _phone_  is there anything else i can do for you?
+i may need the postcode. what is it, please?
+that post code is cb11jg.
+Thanks for everything!
+Thank you, Goodbye.
+***
+yes, i am in a dispute after a car accident. i need help right away.
+you'll want to contact the _name_ address is _address_ postcode cb11jg. the phone number there is _phone_ 
+thank you for your help.
+you are welcome. anything else i can help with?
+No that's all for now. Thanks again.
+You are quite welcome, thank you for using our services.
+***
+yes, please. i was just robbed and i don't know what to do next.
+i'm sorry to hear that. please immediately call the police at _phone_ 
+thank you very much. can i please have their address and postcode also?
+the address is _address_  postcode:cb11jg.  do you need anything else?
+No, that will be all for today. Thank you.
+You are welcome. Take care.
+***
+i was robbed and i need to know what to do next.
+i'm sorry to hear this i would suggest you call the police department. here is their information.  telephone	: _phone_ address	: _address_ postcode	:	cb11jg.
+Thank you, that is all I need. Good bye.
+You are more than welcome!
+***
+i need help, i just been the victim of a robbery.
+are you hurt?
+i am not hurt but i need to get in touch with the police, can you send me the address?
+sure, here it is: _address_ 
+Thank you for your help
+You are most welcome!
+***
+hi, where can i find the closest police station?
+the closest police station is the _name_  located in _address_  their phone is _phone_  is there anything else i can help you with today?
+what is the postcode?
+the postcode is cb11jg. is there anything else i can help you with today?
+No, thank you.
+You're welcome. Have a nice day.
+***
+i'm trying to find the _name_ please.
+their contact number is _phone_  and they are located in postcode  cb11jg.
+thanks, what is the address?
+the address is _address_ 
+That's all I need. Thanks. Goodbye.
+You are most welcome!
+***
+i need to find the nearest police station.
+the nearest police station is in _address_  cb11jg.
+great, thanks. do you also have their telephone number?
+yes, their phone number is _phone_ 
+do you have an address for them?
+what i have for them is _address_ 
+great, thanks very much for the help.
+you're welcome. is there anything else i can do for you?
+No, that is. Good bye.
+Thanks for using our services. 
+***
+could you tell me where to find the nearest police station and give the telephone number?
+the nearest police station is _name_  it is located in _address_  postcode cb11jg. their phone number is _phone_ 
+thank you for your help.
+you are quite welcome. do you need any further assistance?
+No, you've been quite helpful. Thank you.
+You are quite welcome. I'm glad to have helped. 
+***
+hello, what's the address of the _name_  if you would be so kind?
+the _name_ is located at _address_  cb11jg.
+Thank you goodbye.
+Great! Have a nice day! 
+***
+can you help me find the nearest police station?  i was just robbed!
+ _name_ phone number _phone_ and is there anything else i can help you with?
+i need the address and postcode as well please.
+of course, my apologies, the address is _address_ postcode cb11jg.
+thanks, i will call right away.
+no problem! let me know if there is anything else i can do to help.
+You've helped enough.  Thanks so much!
+You are welcome. I hope they are able to help you.
+***
+i was in a car accident dispute and need help resolving it.
+you can contact the _name_ at _phone_ 
+can you give me their address and postcode, please?
+the address is _address_ and the post code is cb11jg.
+thank you so much!
+you are more than welcome!
+could you give me the phone number for the station as well?
+sure, the telephone number is _phone_  is there anything else i can help you with?
+no, that is it. Thanks 
+You're very welcome! Goodbye.
+***
+i need to speak with the police.
+the parkside police station's telephone number is _phone_ 
+what is the postcode and address?
+the address is _address_  the postcode is cb11jg. are you alright?
+yes, just a minor car accident. thanks for all of your help!
+do you need any further assistance?
+No, that is all I need. Thanks.
+Have a good day.
+***
+can i find the _name_ 
+the _name_ is in _address_  postcode cb11jg. do you need the phone number?
+No, that's all I need for now. Thank you, good bye.
+Thank you goodbye.
+***
+i've been robbed. can i get some help?
+please contact the _address_ police station, the telephone number is _phone_ 
+Thank you, that is all I need. Goodbye.
+You are welcome.  Do you need any further assistance?
+***
+where is the _name_ 
+the _name_ in in _address_  cb11jg.
+Thank you. That helped a lot.
+You're welcome. If you need to contact them through the phone, their number is 01223358966. Take care.
+***
+what is the location of the _name_ 
+cambridge, parkside police telephone number _phone_ 
+i may be close by. what is the station's postcode?
+they are located in _address_  post code cb11jg.
+Thank you for your help. That is all that I need right now.
+You're very welcome. Have a great night.
+***
+i need help with a car accident dispute.
+i'd be happy to help, i have the number for parkside police, is that near your location?
+can i have the address and postal to check?
+the police station is _address_  and the postcode is cb11jg. i can give you the telephone number, too.
+Thank you goodbye
+I'm glad we could help. Call us anytime you need something in Cambridge. Thank you!
+***
+can you direct me to the closest police station?
+yes i can. the _name_ is located at _address_ 
+can you please give me the postcode and phone number?
+the phone number is _phone_ and the postcode is cb11jg.
+Ok, I've got it. Thanks.
+You are welcome. Have a nice day.
+***
+hi, i want to find the police station that's nearest to me.
+the cambridge police station is located at parkside in the cb11jg postcode.
+great, thanks very much.
+you're very welcome. is there anything else i can assist you with today?
+Thanks, that's all. Good bye. 
+You are welcome. Thanks for using TownInfo centre. Goodbye.
+***
+i have been robbed and looking for help.
+would you like me to contact the parkside police for you?
+no, i need to find out the address, phone number, and postcode of the location i was robbed.
+the phone number for the police is _phone_ 
+what is the address and postcode?
+the address is _address_  postcode:cb11jg.  is there anything else you need?
+No that's all. Thanks for helping.
+Thank you goodbye
+***
+i've been a victim of a robbery. can you help me?
+sure! i think you'll need the police. their contact number is _phone_ 
+which department is this?
+the police department.
+Thank you very much.
+You're more than welcome!
+***
+i need some details about a police station, i think it's called parkside station.
+it's address is _address_ with postcode cb11jgi.
+Thank you, that was all I needed.
+You're welcome, have a lovely day.
+***
+i am looking for the nearest police station.
+the nearest police station is the _name_ on parkside.  the postcode is cb11jg.  the telephone number is _phone_ 
+can you please give me the written address as well?
+the addres is _address_ cb11jg. can i help you find anything else?
+that will be all today thank you.
+are you sure you do not need any thing else?
+No, that is all I need today. Thank you!
+You are welcome! Message us again if you need anything else. 
+***
+i am looking for information about the _name_ 
+sure, _name_ telephone _phone_  address _address_  postcode cb11jg. is there anything else i can do for you today?
+No, that's everything I needed, thanks.
+Ok.  Thanks, and have a great day!
+***
+i was in a car accident dispute and need help regarding it.
+the _name_ will be able to assist you with this. their number is _phone_  can i help you with anything else?
+the phone number is what i was looking for. thanks!
+sure.  you can reach them at _phone_   can i be of further assistance?
+That is it. Thank you.
+I'm sorry to hear of your troubles, and I hope your day gets better!
+***
+what is the closest police station to my current location?
+closest police station is in _address_  cb11jg.
+Thank you, Goodbye.
+You're welcome. Have a great day!
+***
+where is the police station?
+the police station is located in _address_  cb11jg.
+do you have a driver who can take me there?
+yes, of course. what is your departure site?
+i can't think straight. give me the police phone number, so they can come to me.
+no problem at all. please call _phone_ to reach the police at that station. i'm certain they will be able to help you.
+i hope so. thanks for getting the number for me.
+you are welcome. do you require any further assistance?
+No that was everything. Goodbye.
+Thank you for using our services. 
+***
+i was just caught up in a disagreement with another motorist about a road accident and i am in need of some help!
+the _name_ telephone number is _phone_ and the address is _address_  postcode cb11jg.
+Thank you, that's all I need. Good bye.
+You are very welcome. Please let me know if you need anything else.
+***
+hello, i need information about _name_  please.
+the phone number to the police station is _phone_  is there anything else i can help you with?
+yes, could i get the postcode as well please?
+of course! their post code is cb11jg.
+Thank you, that will be all.
+Have a great day. 
+***
+i am trying to find the _name_ 
+the contact for parkside police is, _phone_  they are located in postcode cb11jg.
+Thank you, that's all I need. Good bye.
+Thank you, please contact us if we can assist you further.
+***
+hello, i've been robbed, my valuables were stolen.
+i am sorry to hear that.  you can contact the nearest police station at parkside via the following phone number: _phone_ 
+i will also need their address.
+the police station is located in parkside cambridge the postal code is cb11jg. what else could i help you with?
+That is all thank you
+Thank you for using the help desk and have a great day.
+***
+please connect me to the _name_ 
+the number to the local police station is _phone_ 
+Thank you for the information.
+Happy to be of help.
+***
+how do i locate the closest police station?
+the closest station is at _address_  in the postal code cb11jg.
+thank you so much. could you also provide me with the phone number?
+their phone number is _phone_  is there anything else i can help you with?
+No, that's all that I need. Thank you very much.
+thank for inquiring with us
+***
+i was in an argument about a car accident and need help.
+ _name_ will help you. their telephone number is _phone_ 
+Could you also forward the postcode and address to me?
+Yes, it's in Parkside, Cambridge, CB11JG.
+***
+i am a victim of a robbery. i need help.
+oh no! you should call the police at _phone_ 
+can i get the full mailing address for that location, please?
+the address to the police is _address_ 
+and what is the postcode?
+the postcode is cb11jg. do you need more help?
+No, thank you for all of your help.
+You are very welcome! Thank you for contacting Cambridge TownInfo centre, and best wishes!
+***
+i want to know where i would find the _name_  could you tell me?
+their postcode is cb11jg, you can reach them at phone number _phone_ 
+thank you. may i have a street address for the police station?
+certainly. their address is _address_  can i assist you further?
+Thank you goodbye
+welcome. at your service next time
+***
+can you give me the address to the _name_ 
+the address is _address_  with postal code cb11jg.
+what is the police phone number, please?
+the police phone number is _phone_ 
+thank you, may i also please have the postcode?
+the postcode is cb11jg. is there anything else i can assist you with today?
+No, that is all. Thank you! good bye.
+Have a good day!
+***
+am looking for the _name_ 
+the telephone for parkside police is _phone_   do you need any other information?
+yes, can i please have the address?
+address	: _address_  there you go.
+Thank you very much! good bye.
+Thank you for using our services. Do you need any further assistance?
+***
+i was robbed and i am looking for help.
+tell me where you are and i will send the police.
+i don't know i am new to this area, please just give me the phone number to the police station.
+the _name_ can be reached at _phone_ 
+Ok, thank you for your help.
+Thank you for allowing me to help you today.
+***
+i need to contact the police.
+certainly. the number for the _name_ is _phone_  is there anything else i can help you with?
+thank you, can i also have the post code and the address?
+yes they are located at _address_ post code is cb11jg.
+Thank you so much, good bye.
+You are so welcome. Bye now.
+***
+hello there, could you tell me where the _name_ is please?
+that police station is located at _address_ 
+thanks, i need the phone number, address and postcode.
+their telephone number is _phone_ and they are located in _address_ cb11jg.
+Thanks, that's all. Good bye.
+Thank you for using our services.
+***
+hello, i have been robbed.  can you please help me get in touch with the police?
+ _name_ is in _address_  their number is _phone_  anything else i can do for you?
+can i please have the postcode as well?
+the postcode for the _name_ is cb11jg. can i help you with anything else?
+was parkside the address of the police station? if not, can i have the address please?
+yes, parkside is the address.
+thank you that will be all for now.
+great. thank you for contacting cambridge towninfo centre.
+You were great. Goodbye.
+We are happy to help. Have a good day!
+***
+i was in a car accident dispute and i am looking for help.
+when and where did this accident occur?
+i just need an address and phone number for the police please.
+absolutely! the police station phone number is _phone_ and their address is _address_  what else can i do to help?
+I think that is it, thank you.
+You're very welcome! Goodbye.
+***
+get me the address to the police station nearest me.
+the nearest police station is _name_ and the telephone is: _phone_  here is the address: address	: _address_ postcode	:	cb11jg.
+Thanks so much for the information. 
+No problem! Have a good one.
+***
+can i find the _name_ 
+the phone numbe for the _name_ is _phone_ 
+thank you, i also need the postcode and address.
+the address is _address_  and the postcode is cb11jg.
+Thank you for your help
+You're welcome. Have a great night.
+***
+looking for the nearest police station.
+ telephone	: _phone_ address	: _address_ postcode	:	cb11jg    there are the requirements.
+Thanks, that's all I need today.
+Great! Hope you have a good day!
+***
+i need to contact the police please.
+the _name_ is in _address_  is this close to your location?
+it doesn't matter.
+would you like the phone number?
+yes and the postcode please.
+yes, the postal is cb11jg, may i assist with anything else today?
+yes, i will need their address also please.
+the parkside police station's address is parkside, cambridge.  do you need any further assistance today?
+No that was everything. Goodbye.
+Okay, have a good day. Thanks!
+***
+i'm looking for help regarding a car accident dispute i was in.
+you should contact the police at _phone_ 
+what is their address?
+the address to the polic is _address_ 
+Thanks, that is all I needed.
+Thank you for using our services.
+***
+am looking for the _name_ 
+you can contact them at _address_  cb11jg.
+can i also get their phone number please?
+absolutely, their phone number is _phone_ 
+thanks for all of your help!
+you're welcome. is there anything else i can help you with today?
+You've given me everything I need. Thanks. Goodbye.
+Thank you for using our services.
+***
+i was robbed and i am looking for help.
+you need to go to the police station at _address_  cb11jg.
+can you give me the phone number please?
+the phone number is _phone_  can i do anything else for you?
+no that is all. thank you for all your help.
+welcome. at your service next time.
+Thank you. Goodbye.
+most welcome, have a good day
+***
+i need to speak to the police.
+the number to the police station is _phone_ 
+thanks. what is the postcode and address?
+the postcode is cb11jg, and the address is _address_  anything else you need?
+That is all I need today. Thank you.
+Thank you for contacting Cambridge TownInfo centre, and have a nice day.
+***
+help i've been robbed. i need help.
+please contact the _address_ police station, the telephone number is _phone_ 
+i need their postcode also please.
+the postcode is cb11jg.
+Thanks, that's all. Good bye.
+You are more than welcome! 
+***
+help, i was robbed. i need to contact someone.
+oh no! call the police at _phone_ 
+thank you. what's the post code?
+the postcode is cb11jg. the location is _address_  do you need any other help?
+i should be okay with their help. thank you so much.
+you are most welcome. don't hesitate to callback.
+Okay, I will if I need to! I appreciate your help. Goodbye.
+You're welcome. Goodbye 
+***
+can you locate the nearest police station please?
+the nearest police station is in _address_  cb11jg.
+can you read me the address for that location, and phone number as well?
+the address is _address_  and their number is _phone_ 
+Thank you for your help. 
+You're welcome goodbye
+***
+there's a _name_ in town, right?
+yes, it is located at _address_ 
+thanks. i need the phone number and postcode too.
+sure thing. they are located in _address_ and the phone number is _phone_ 
+i will also need the postcode please.
+sure, the postcode is cb11jg.
+thanks!  also, can you give me the exact address to the station?
+the only address listed is _address_  it does not give an exact address, i'm sorry to say.
+wow. that is very odd.
+yeah, sorry for the inconvenience. can i do anything else for you though?
+No, that's all thank you
+You're welcome, have a great day
+***
+help me, please, i was just the victim of a robbery! i need help right away!
+contact the _address_ police station.
+how do i contact the _address_ police station?
+they can be reached by calling _phone_ 
+i'll need to address also.
+the _name_ is located in _address_ and the postcode is cb11jg. is there anything else i can help you with?
+No, thank you.
+Take care. Goodbye.
+***
+please put me in touch with the local police, i was just robbed.
+i have information for the _name_  is this close to your location?
+i don't know, could you just give me the postcode and phone?
+the phone number is _phone_ and the post code is cb11jg.
+Thank you for your help
+You're welcome. The police will help you immediately. Goodbye.
+***
+do you know where the _name_ is?
+hello, i can provide the post code for you; it is cb11jg. you can also call them at _phone_ for more detailed directions.
+That's all I need. Thanks, good bye.
+In case you need it, the address is Parkside, Cambridge.
+***
+i was in a car accident dispute and i am looking for help.
+you should telephone the police immediately at _phone_ 
+can i get the postcode please?
+the postcode to the police is cb11jg.
+thank you so much for all of your help.
+you're welcome. anything else we can do for you?
+No, I've got to run right now. Thanks, goodbye.
+Have a great day!
+***
+please give me directions to the _name_ 
+here is the address: _address_ _postcode_  anything else?
+can i get the address and phone number too?
+the phone number is _phone_ and the postcode is _postcode_ 
+Okay, great. that's all I needed
+You are more than welcome!
+***
+i was robbed a few minutes ago and need assistance.
+please contact the _address_ police station.
+i need the address including postcode of the police station and also the phone number.
+of course. their address is _address_ postcode cb11jg and phone number is _phone_ 
+thank you. that's all i needed.
+you are more than welcome!
+Ok, have a good day. Goodbye.
+You are very welcome. Goodbye.
+***
+i am looking for a nearest police station.
+ _address_ police station, the telephone number is _phone_ 
+i also need the police station's address and postcode, please.
+their address is _address_ postcode cb11jg. can i assist you further?
+No, that's all. Thank you, good bye.
+Thank you for allowing me to help you today.
+***
+i got into a car accident and need help figuring out what to do next.
+you should contact the police at _phone_ 
+ok thanks. i'd also like to know where the nearest police station is.
+the nearest police station is in _address_ and the postcode is cb11jg.
+Thanks, that's all. Good bye. 
+You are more than welcome! 
+***
+i just had a fender bender and got caught up in a fight with the other driver. i need some assistance please!
+cambridge, parkside police telephone number _phone_ 
+can i get the address and postal code?
+sure thing! the address is _address_ and the postal code is cb11jg.
+thanks so much for your help!
+you are very welcome. do you need any further assistance?
+No, that is all for today. Thanks.
+Have a great day!
+***
+i was in a car dispute and i am looking for help.
+i can get you the number for _name_  is that close to your location?
+i believe so. what is the police address and phone number?
+the address is _address_  the phone number is _phone_ 
+thank you.  that is all i needed.
+thank you for using our services. do you require any further assistance?
+No,thank you. Goodbye
+Goodbye. I hope the police are able to help you resolve the situation. If you think of anything else we can help you with don't hesitate to ask.
+***
+where is the nearest police station?
+the nearest police station is in _address_ 
+what is the address?
+the address is _address_  postcode cb11jg.
+do you have the phone number there?
+yes, the phone number is _phone_ else you need?
+No, that's all. Thank you for your help.
+It's been my pleasure to help. Have a great day. 
+***
+can you tell me about the _name_ 
+their phone number is _phone_ and they are located at _address_ 
+i am looking for the address of the _name_ 
+the address is _address_ 
+do you have the postcode?
+the postcode is cb11jg.
+thanks so much!
+do you need any further assistance?
+No, thanks, that's everything.
+You are very welcome, please let us know if we can be of any further assistance.
+***
+where is the nearest police station?
+the nearest police station is in _address_  telephone number is _phone_  is there anything else i can assist you with?
+yes, could you also give me their postcode?
+the post code is cb11jg. anything else i can help with?
+No, that will be all thank you.
+I'm happy to help. Feel free to contact us should you need anything else. Have a good day. 
+***
+i am looking for help with a car accident dispute.
+the number for the local police station is _phone_ 
+great can i also have the address?
+certainly. the address is _address_ postcode cb11jg. is there anything else i can do for you today?
+No thanks. I have everything I need.
+Ok. Good luck with your dispute! Goodbye.
+***
+i need to find the nearest police station.
+the _name_ is located at parkside,cambridge cb11jg.
+give me the phone number too.
+you can reach the police at the number _phone_ 
+Thanks for the information. I have to go. Goodbye.
+Bye. have a good day
+***
+i was robbed and i need some help.
+the number for the _name_ is _phone_  they're located at _address_ cb11jg. can i help you with anything else?
+Okay, thanks. I'll call them. That's all I need for now.
+I hope everything works out for you. Good bye.
+***
+where can i find the police station?
+they are in parkside. you can reach them at phone number _phone_ 
+thank you. what is the postcode?
+the postcode is cb11jg. is there anything else i can help with?
+Thanks, that's all. Good bye. 
+Great! Have a good day.
+***
+there's some disagreement about what to do about a car accident. can you help me with that?
+of course, i can get you the contact information for _name_ if you'd like.
+i would like the address and postcode please.
+okay the address is _address_ and the postcode is cb11jg. anything else you need?
+Thank you, goodbye.
+You are more than welcome.
+***
+i've just has a dispute involving an auto accident. i need some help urgently!
+the number to reach the _name_ is _phone_  i suggest you give them a call. they can help with the accident.
+thank you. what is the postcode for that station?
+the postcode is cb11jg.
+thank you that's all!!
+thank you for using this system.
+On the contrary... thank YOU. Goodbye.
+Good day and goodbye.
+***
+i had car accident dispute and am looking for help.
+sure! i think you'll need the police. their contact number is _phone_ 
+great, do you have the address and postcode?
+the address is _address_  postcode cb11jg.
+thanks, i'm going to call right now. goodbye.
+do you need any further assistance?
+No. Thank you so much for all of your help!
+You're welcome. Take care and call us again. Goodbye.
+***
+is there an emergency?
+i have found the _name_  their phone number is _phone_ 
+great, could i also have their address.
+it does not list a street address. it just says _address_ 
+Okay, thank you for your help. Goodbye.
+You're welcome! Have a great day! Bye!
+***
+i'm looking for a police station, i think it's called "parkside".
+there is a _name_ with a cb11jg postcode, and its telephone is _phone_ 
+Thank you goodbye.
+You're welcome. You will be in good hands. Goodbye.
+***
+oh, hey, can you tell me where _name_ is located?
+ _name_ is located in _address_ postcode cb11jg.
+Thanks, that's all. Good bye. 
+Thank you for using our services.
+***
+am looking for the nearest police station.
+it looks like the _name_ is closest to your location, does this sound right?
+that looks right. what is the phone number for that location?
+telephone	: _phone_ there you go.
+Thank you. That's all I need.
+Thank you for using our services.
+***
+i've just been robbed and i need some help.
+i'm sorry to hear that. there is a police station on _address_ cb11jg and the phone number is _phone_  can i help you with anything else?
+No that will be all, thank you.
+You are very welcome. Please let us know if we can be of further assistance.
+***
+i was just robbed! please help! i need to contact the police.
+the local police stations telephone number is _phone_ 
+may i have the address and postcode?
+the postcode is cb11jg, but i do not have an address listed.
+are you sure there's no address?
+the address i have is _address_ 
+That is all I  needed thank you. 
+Good luck and hope you have a better day. 
+***
+i am looking for the nearest police station.
+that would be the _name_  you can reach them at phone number _phone_ 
+can i get the full mailing address for that location?
+the address is _address_  is there anything else i can help with?
+yes i need their postcode also.
+postcode	:	cb11jg is their postcode.
+thank you. i will call them.
+you're welcome. call us again and have a wonderful afternoon.
+Thank You. Goodbye
+Thank you for contacting Cambridge TownInfo centre. Have a nice day!
+***
+well, i have been in an accident and need some help.
+sure! i think you'll need the police. their contact number is _phone_ 
+do you have the location of the police department?
+the _name_ phone number is _phone_  the police station is located in cambridge, post code cb11jg. would you like some help to get to the police station?
+no, that will be all. thank you.
+welcome. at your service next time.
+Okay goodbye. I'm done now.
+Take care and call us back if you need anything else.
+***
