@@ -29,14 +29,38 @@ def goal(data, acts, keys):
                 if acts[key][str(count)] != "No Annotation":
                     name_goal = list(acts[key][str(count)].keys())
                     for n in name_goal:
+                        if n[len(n)-7::] == "Request":
+                            right_goal = ""
+                            for k_k in range(len(acts[key][str(count)][n])):
+                                if acts[key][str(count)][n][k_k][1] == "?":
+                                    slot = acts[key][str(count)][n][k_k][0]
+                                    if slot == 'Post':
+                                        slot = 'postcode'
+                                    if slot == 'Ref':
+                                        slot = 'reference'
+                                    if slot == 'Dest':
+                                        slot = 'destination'
+                                    if slot == 'Price':
+                                        slot = 'pricerange'
+                                    if slot == 'Addr':
+                                        slot = 'address'
+                                    if slot == 'Depart':
+                                        slot = 'departure'
+                                    if slot == 'Id':
+                                        slot = 'trainID'
+                                    if slot == 'Arrive':
+                                        slot = 'arriveBy'
+                                    if slot == 'Leave':
+                                        slot = 'leaveAt'
+                                    right_goal += "-" + slot.lower()
+                            n = n + right_goal
                         goal.append(n)
                 else:
-                    goal.append('No Annotation')
+                    goal.append('NoAnnotation')
 
                 for g in goal:
                     f.write(g + ' ')
                 f.write('\n')
-
     f.close()
 
 
