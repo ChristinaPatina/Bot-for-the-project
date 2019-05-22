@@ -64,6 +64,8 @@ def goal(data, acts, keys):
                 f.write('\n')
     f.close()
 """
+"""
+'2nd realisation'
 def goal(data, acts, keys):
     f = open('goals.txt', 'w')
     for k in keys:
@@ -168,6 +170,126 @@ def goal(data, acts, keys):
                         f.write(g + ' ')
                     f.write('\n')
     f.close()
+"""
+def goal(data, acts, keys):
+    f = open('goals.txt', 'w')
+    for k in keys:
+        if k == 'PMUL3872.json' or k == 'PMUL4707.json' or k == 'PMUL4776.json':
+            continue
+        count = 0 # number of move in dialogue
+        key = k[0:-5]  # the name of the element in the file without .json
+        for i in range(len(data[k]["log"])):
+            goal = []
+            if i % 2 == 0:
+                string = re.sub("\n", " ", data[k]["log"][i]["text"])
+                if string[len(string) - 1] == " ":
+                    string = string[:-1]
+                count += 1
+                if acts[key][str(count)] != "No Annotation":
+                    name_goal = list(acts[key][str(count)].keys())
+                    copy_name = deepcopy(name_goal)
+                    for item in copy_name:
+                        if item[len(item)-7::] == "reqmore":
+                            name_goal.remove(item)
+                        if item[len(item)-7::] == "NoOffer":
+                            name_goal.remove(item)
+                        if item[len(item) - 6::] == "NoBook":
+                            name_goal.remove(item)
 
+                    counter_domain = 1
+                    if len(name_goal) > 1:
+                        for n_ii in range(len(name_goal)-1):
+                            index_i = name_goal[n_ii].find("-")
+                            for n_jj in range(n_ii+1, len(name_goal)):
+                                index_j = name_goal[n_jj].find("-")
+                                if name_goal[n_ii][0:index_i] != name_goal[n_jj][0:index_j]:
+                                    counter_domain += 1
+
+                    copy_name_ = deepcopy(name_goal)
+                    if len(name_goal) > 1 and counter_domain > 1:
+                        for item_ in copy_name_:
+                            if item_[0:7] == "Booking":
+                                name_goal.remove(item_)
+                    # Если несколько доменов в строке, то её удаляем
+                    fl = 0
+                    if len(name_goal) != 0:
+                        for n_i in range(len(name_goal)-1):
+                            if fl == 1:
+                                break
+                            ind_i = name_goal[n_i].find("-")
+                            for n_j in range(n_i+1, len(name_goal)):
+                                ind_j = name_goal[n_j].find("-")
+                                if name_goal[n_i][0:ind_i] != name_goal[n_j][0:ind_j]:
+                                    name_goal.clear()
+                                    fl = 1
+                                    break
+
+                    count_request = -1
+                    for n_ind, n in enumerate(name_goal):
+                        if n[len(n) - 7::] == "Request":
+                            count_request = n_ind
+                    # Request
+                    if count_request != -1:
+                        right_goal = ""
+                        for k_k in range(len(acts[key][str(count)][name_goal[count_request]])):
+                            if acts[key][str(count)][name_goal[count_request]][k_k][1] == "?":
+                                slot = acts[key][str(count)][name_goal[count_request]][k_k][0]
+                                slot = check_slot(slot)
+                                right_goal += "-" + slot.lower()
+                        n = name_goal[count_request] + right_goal
+                        n = n[(n.find("-")+1)::] # удаляем домен из цели
+                        # если есть цель Request оставляем только её
+                        goal.clear()
+                        goal.append(n)
+                    else:
+                        if len(name_goal) == 1:
+                            z = name_goal[0]
+                        elif len(name_goal) > 1:
+                            # оставляю цель по приоритету
+                            priority = {"bye": 3, "welcome": 1, "greet": 2, "Inform": 4, "OfferBook": 5,
+                                        "OfferBooked": 5, "Book": 6, "Select": 7, "Recommend": 8}
+                            pr_goals = []
+                            for p in name_goal:
+                                i_tire = p.find("-")
+                                pr_goals.append(priority[p[i_tire+1::]])
+                            max_pr = 0
+                            ind = 0
+                            for i_pr in range(len(pr_goals)):
+                                if pr_goals[i_pr] > max_pr:
+                                    max_pr = pr_goals[i_pr]
+                                    ind = i_pr
+                            z = name_goal[ind]
+                        if len(name_goal) != 0:
+                            if z[len(z) - 6::] == "Inform" or z[len(z) - 6::] == "Select" or \
+                                    z[len(z) - 9::] == "Recommend" or z[len(z) - 4::] == "Book" \
+                                    or z[len(z) - 9::] == "OfferBook" or z[len(z) - 11::] == "OfferBooked":
+                                right_goal = ""
+                                slots = []
+                                for k_k in range(len(acts[key][str(count)][z])):
+                                    if acts[key][str(count)][z][k_k][0] != "none":
+                                        slot = acts[key][str(count)][z][k_k][0]
+                                        slot = check_slot(slot)
+                                        c_slot = 0
+                                        if len(slots) > 0:
+                                            for s in slots:
+                                                if slot.lower() == s:
+                                                    c_slot += 1
+                                            if c_slot == 0:
+                                                slots.append(slot.lower())
+                                        else:
+                                            slots.append(slot.lower())
+                                for s in slots:
+                                    right_goal += "-" + s
+                                if z[len(z) - 11::] == "OfferBooked":
+                                    z = z[:-2]
+                                z = z + right_goal
+                            goal.append(z[(z.find("-") + 1)::])
+
+                if len(goal) != 0:
+                    f.write(string + '\n')
+                    for g in goal:
+                        f.write(g + ' ')
+                    f.write('\n')
+    f.close()
 
 goal(data, acts, keys_train)
